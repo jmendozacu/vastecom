@@ -1,0 +1,32 @@
+<div class="container">
+    <div class="content">
+        <div class="row">
+            <div class="login-form">
+                <h2><?php echo $this->__('Log in'); ?></h2>
+                <?php if(Mage::helper('supplierfrontendproductuploader')->noAccessInformation()): ?>
+                    <div class="alert alert-error">
+                        <strong><?php echo $this->__('Sorry') ?>!</strong> <?php echo $this->__('It looks like you are logged in, but you do not have access to this page. Please contact website administrator.') ?>
+                    </div>
+                <?php endif; ?>
+                <form name="login_form" id="login_form" action="<?php echo Mage::getBaseUrl() ?>supplierfrontendproductuploader/login/login/" method="POST">
+                    <fieldset>
+                        <div class="clearfix">
+                            <input type="email" name="email" placeholder="example@example.com" class="input-text required-entry validate-email">
+                        </div>
+                        <div class="clearfix">
+                            <input type="password" name="password" placeholder="Password" class="input-text required-entry">
+                        </div>
+                        <button class="btn primary" type="submit"><?php echo $this->__('Sign in'); ?></button>
+                    </fieldset>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+<script type="text/javascript">
+    //< ![CDATA[
+    var customForm = new VarienForm('login_form');
+    //]]>
+</script>
+
+

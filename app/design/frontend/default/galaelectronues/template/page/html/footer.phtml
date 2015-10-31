@@ -1,0 +1,98 @@
+<?php
+/**
+ * Magento
+ *
+ * NOTICE OF LICENSE
+ *
+ * This source file is subject to the Academic Free License (AFL 3.0)
+ * that is bundled with this package in the file LICENSE_AFL.txt.
+ * It is also available through the world-wide-web at this URL:
+ * http://opensource.org/licenses/afl-3.0.php
+ * If you did not receive a copy of the license and are unable to
+ * obtain it through the world-wide-web, please send an email
+ * to license@magentocommerce.com so we can send you a copy immediately.
+ *
+ * DISCLAIMER
+ *
+ * Do not edit or add to this file if you wish to upgrade Magento to newer
+ * versions in the future. If you wish to customize Magento for your
+ * needs please refer to http://www.magentocommerce.com for more information.
+ *
+ * @category    design
+ * @package     base_default
+ * @copyright   Copyright (c) 2014 Magento Inc. (http://www.magentocommerce.com)
+ * @license     http://opensource.org/licenses/afl-3.0.php  Academic Free License (AFL 3.0)
+ */
+?>
+
+<div class="footer">
+  <div class="fluid-row footer-top">
+    <div class="container">
+      <div class="linkbox aboutcompany">
+        <h3><?php echo $this->__("About company");?></h3>
+        <ul>
+          <li><a href="<?php echo Mage::getUrl("about-us");?>"><?php echo $this->__("About Us");?></a></li>
+          <li><a href="<?php echo Mage::getUrl("supplierfrontendproductuploader/login");?>"><?php echo $this->__("Sell Online");?></a></li>
+          <li><a href="<?php echo Mage::getUrl("contacts");?>"><?php echo $this->__("Contact Us");?></a></li>
+        </ul>
+      </div>
+      <div class="linkbox customer">
+        <h3><?php echo $this->__("Customer Service");?></h3>
+        <ul>
+          <li><a href="<?php echo Mage::getUrl("delivery-information");?>"><?php echo $this->__("Delivery Information");?></a></li>
+          <li><a href="<?php echo Mage::getUrl("faq");?>"><?php echo $this->__("FAQ");?></a></li>
+          <li><a href="<?php echo Mage::getUrl("customer/account");?>"><?php echo $this->__("My Account");?></a></li>
+         <?php /* <li><a href="#"><?php echo $this->__("Purchase History");?></a></li> */?>
+          <li><a href="<?php echo Mage::getUrl("return-policy");?>"><?php echo $this->__("Returns Policy");?></a></li>
+        </ul>
+      </div>
+      <div class="linkbox security">
+        <h3>Security</h3>
+        <ul>
+          <li><a href="<?php echo Mage::getUrl("privacy-policy");?>"><?php echo $this->__("Privacy Policy");?></a></li>
+          <li><a href="<?php echo Mage::getUrl("secure-shopping");?>"><?php echo $this->__("Secure Shopping");?></a></li>
+          <li><a href="<?php echo Mage::getUrl("terms-conditions");?>"><?php echo $this->__("Terms &amp; Conditions");?></a></li>
+          <li><a href="<?php echo Mage::getUrl("catalog/seo_sitemap/category/");?>"><?php echo $this->__("Sitemap ");?></a></li>
+        </ul>
+      </div>
+      <div class="linkbox payments">
+        <h3><?php echo $this->__("Payments");?></h3>
+        
+        <img src="<?php echo $this->getSkinUrl('images/paypalImg.png'); ?>" width="150" height="37" alt="" /> </div>
+    </div>
+  </div>
+  <div class="fluid-row footer-mid">
+    <div class="container">
+      <div class="footernewletter">
+        <div class="newslatter">
+          <h3><?php echo $this->__("Newsletter Signup");?></h3>
+          <input name="" type="text" placeholder="Enter Email id" class="inputtext" />
+          <input name="" class="inputBtn" type="button" value="Subscribe" />
+        </div>
+          <div class="getintounch"><?php echo $this->getChildHtml('store_switcher') ?></div>
+        <div class="getintounch">
+          <h3><?php echo $this->__("Get in Touch");?></h3>
+          <a href="#"> <img src="<?php echo $this->getSkinUrl('images/socialicon1.jpg'); ?>" alt="" /> </a>
+          <a href="#"> <img src="<?php echo $this->getSkinUrl('images/socialicon2.png'); ?>" alt="" /> </a>
+          <a href="#"> <img src="<?php echo $this->getSkinUrl('images/socialicon3.png'); ?>" alt="" /></a>
+          <a href="#"> <img src="<?php echo $this->getSkinUrl('images/socialicon4.png'); ?>" alt="" /> </a>
+          <a href="#"> <img src="<?php echo $this->getSkinUrl('images/socialicon5.png'); ?>" alt="" /> </a>
+          <a href="#"> <img src="<?php echo $this->getSkinUrl('images/socialicon6.png'); ?>" alt="" /></a> </div>
+      </div>
+    </div>
+  </div>
+  <div class="fluid-row footer-bottom">
+    <div class="container">
+      <div class="copyright"><?php echo $this->getCopyright() ?></div>
+    </div>
+  </div>
+</div>
+<?php /*?><div class="footer-container">
+  <div class="footer"> <?php echo $this->getChildHtml() ?>
+    <p>
+    <address>
+    <?php echo $this->getCopyright() ?>
+    </address>
+    </p>
+  </div>
+</div><?php */?>

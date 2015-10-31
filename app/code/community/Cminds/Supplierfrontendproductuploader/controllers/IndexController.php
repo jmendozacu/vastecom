@@ -1,0 +1,3 @@
+<?php class Cminds_Supplierfrontendproductuploader_IndexController extends Cminds_Supplierfrontendproductuploader_Controller_Action {
+    public function preDispatch() {        parent::preDispatch();        $this->_getHelper()->validateModule();                $hasAccess = $this->_getHelper()->hasAccess();        if(!$hasAccess) {            Mage::app()->getFrontController()->getResponse()->setRedirect(Mage::helper('customer')->getLoginUrl());        }    }    public function indexAction() {        $this->_renderBlocks();    }
+    public function registerAction() {  $this->_renderBlocks();    }}

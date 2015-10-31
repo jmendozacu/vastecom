@@ -1,0 +1,30 @@
+font:/*BEGIN:general_font*/12px/1.35 Arial, Helvetica, sans-serif/*END:general_font*/;
+font:/*BEGIN:h1_font*/normal 22px/1.15 helvetica,arial,sans-serif/*END:h1_font*/; 
+font:/*BEGIN:h2_font*/normal 20px/1.25 helvetica,arial,sans-serif/*END:h2_font*/;
+font:/*BEGIN:h3_font*/normal 18px/1.25 helvetica,arial,sans-serif/*END:h3_font*/;
+font:/*BEGIN:h4_font*/normal 16px/1.35 helvetica,arial,sans-serif/*END:h4_font*/;
+font:/*BEGIN:h5_font*/normal 14px/1.35 helvetica,arial,sans-serif/*END:h5_font*/; 
+font:/*BEGIN:h6_font*/normal 12px/1.35 helvetica,arial,sans-serif/*END:h6_font*/;
+
+color:/*BEGIN:secondary_color*/#0135bd/*END:secondary_color*/; -product-name
+color:/*BEGIN:secondary2_color*/#ff0101/*END:secondary2_color*/;-price
+color:/*BEGIN:secondary3_color*/#ffffff/*END:secondary3_color*/;
+color:/*BEGIN:general_color*/#646464/*END:general_color*/;description
+color:/*BEGIN:primary_color*/#f44d00/*END:primary_color*/;-title block
+color:/*BEGIN:negative_color*/#323232/*END:negative_color*/; 
+
+
+background-color:/*BEGIN:primary_bgcolor*/#ffffff/*END:primary_bgcolor*/;
+background:/*BEGIN:secondary_bgcolor*/rgba(16,91,213,1)/*END:secondary_bgcolor*/;
+
+border-top:1px solid /*BEGIN:line_color*/#c3c1c1/*END:line_color*/;
+border-top:1px solid /*BEGIN:secondary_line_color*/#D6D6D6/*END:secondary_line_color*/;
+
+border-radius:/*BEGIN:rounded_corner*/0/*END:rounded_corner*/;
+border-radius: /*BEGIN:rounded_corner*/3px/*END:rounded_corner*/
+
+
+/*BEGIN:button1*/background-color:#a1d10c; border:1px solid #a1d10c; color:#ffffff;/*END:button1*/;
+/*BEGIN:button2*/background-color:#171717; border:1px solid #171717; color:#ffffff; /*END:button2*/
+/*BEGIN:button3*/background-color:#fa5601; border:1px solid #fa5601; color:#ffffff;/*END:button3*/;
+/*BEGIN:button4*/background-color:#fa0101; border:1px solid #fa0101; color:#ffffff; /*END:button4*/ 

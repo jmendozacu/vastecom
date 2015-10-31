@@ -1,0 +1,34 @@
+<?php
+    $loggedUser = Mage::getSingleton( 'customer/session', array('name' => 'frontend') );
+    $customer = Mage::getModel('customer/customer')->load($loggedUser->getCustomer()->getEntityId());
+?>
+<div class="container-fluid main-container vendor-container">
+    <h1><?php echo $this->__('Notifications'); ?></h1>
+    <div class="row">
+        <div class="span12 container-fluid form-container">
+            <form name="settings_shipping_methods" id="settings_shipping_methods" action="<?php echo Mage::getUrl('*/*/saveNotificationSettings') ?>" method="post" enctype="multipart/form-data">
+                <div class="span6">
+                    <div class="container form-group">
+                        <div class="radio">
+                            <label>
+                                <input type="checkbox" name="send_notification_after_product_purchased" value="1"<?php echo $customer->getData('notification_product_ordered') == 1 ? ' checked' : '' ?>> <?php echo $this->__('Send notification when my products was ordered'); ?>
+                            </label>
+                        </div>
+                    </div>
+                </div>
+                <div class="span6">
+                    <div class="container form-group">
+                        <div class="radio">
+                            <label>
+                                <input type="checkbox" name="send_notification_when_product_approved" value="1"<?php echo $customer->getData('notification_product_approved') == 1 ? ' checked' : '' ?>> <?php echo $this->__('Send notification when my products was approved by admin'); ?>
+                            </label>
+                        </div>
+                    </div>
+                </div>
+                <div class="span12">
+                    <input type="submit" name="submit" class="btn btn-primary" value="<?php echo $this->__('Save Settings') ?>" />
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

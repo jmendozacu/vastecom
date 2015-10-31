@@ -1,0 +1,1094 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sample_data>
+  <staticblock>
+    <block id="6">
+      <title><![CDATA[Gala Electronues Home Banner - Area04]]></title>
+      <identifier><![CDATA[galaelectronues_home]]></identifier>
+      <store_id><![CDATA[a:1:{i:0;s:1:"0";}]]></store_id>
+      <content><![CDATA[<div class="grid_6 alpha"><a href="#"><img class="fluid" title="volup aculis" src="{{skin url="images/media/wysiwyg/banner_1.png"}}" alt="" /></a></div>
+<div class="grid_6 "><a href="#"><img class="fluid" title="pellent hend" src="{{skin url="images/media/wysiwyg/banner_2.png"}}" alt="" /></a></div>
+<div class="grid_6 omega"><a href="#"><img class="fluid" title="aenea ligula" src="{{skin url="images/media/wysiwyg/banner_3.png"}}" alt="" /></a></div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </block>
+    <block id="7">
+      <title><![CDATA[Gala Electronues Support - Header]]></title>
+      <identifier><![CDATA[galaelectronues_support]]></identifier>
+      <store_id><![CDATA[a:1:{i:0;s:1:"0";}]]></store_id>
+      <content><![CDATA[<div class="text_top hide-lte0 hide-lte1">Support 24/7 1800 - 123xxxx <a href="http://galathemes.com/">GalaThemes</a></div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </block>
+    <block id="8">
+      <title><![CDATA[Gala Electronues Home Text Mobiles - Area07]]></title>
+      <identifier><![CDATA[galaelectronues_home_text01]]></identifier>
+      <store_id><![CDATA[a:1:{i:0;s:1:"0";}]]></store_id>
+      <content><![CDATA[<h6>Featured</h6>
+<p><a href="#">Lorem ipsum</a>&nbsp; I&nbsp; <a href="#">Etiam vitae</a>&nbsp; I&nbsp;&nbsp; <a href="#">Donec non</a>&nbsp; I&nbsp; <a href="#">Mauris mauris</a>&nbsp; I&nbsp; <a href="#">Vivamus nec</a>&nbsp; I&nbsp; <a href="#">Morbi sit</a>&nbsp; I&nbsp; <a href="#">Cum sociis</a>&nbsp; I&nbsp; <a href="#">Aliquam eget</a>&nbsp; I&nbsp; <a href="#">Duis molestie adipisci</a></p>
+]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </block>
+    <block id="9">
+      <title><![CDATA[Gala Electronues Home Text Computers - Area07]]></title>
+      <identifier><![CDATA[galaelectronues_home_text02]]></identifier>
+      <store_id><![CDATA[a:1:{i:0;s:1:"0";}]]></store_id>
+      <content><![CDATA[<h6>Featured</h6>
+<p><a href="#">Lorem ipsum</a>&nbsp; I&nbsp; <a href="#">Etiam vitae</a>&nbsp; I&nbsp;&nbsp; <a href="#">Donec non</a>&nbsp; I&nbsp; <a href="#">Mauris mauris</a>&nbsp; I&nbsp; <a href="#">Vivamus nec</a>&nbsp; I&nbsp; <a href="#">Morbi sit</a>&nbsp; I&nbsp; <a href="#">Cum sociis</a>&nbsp; I&nbsp; <a href="#">Aliquam eget</a>&nbsp; I&nbsp; <a href="#">Duis molestie adipisci</a></p>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </block>
+    <block id="10">
+      <title><![CDATA[Gala Electronues Home Text Bestselling Books - Area07]]></title>
+      <identifier><![CDATA[galaelectronues_home_text03]]></identifier>
+      <store_id><![CDATA[a:1:{i:0;s:1:"0";}]]></store_id>
+      <content><![CDATA[<h6>Featured</h6>
+<p><a href="#">Lorem ipsum</a>&nbsp; I&nbsp; <a href="#">Etiam vitae</a>&nbsp; I&nbsp;&nbsp; <a href="#">Donec non</a>&nbsp; I&nbsp; <a href="#">Mauris mauris</a>&nbsp; I&nbsp; <a href="#">Vivamus nec</a>&nbsp; I&nbsp; <a href="#">Morbi sit</a>&nbsp; I&nbsp; <a href="#">Cum sociis</a>&nbsp; I&nbsp; <a href="#">Aliquam eget</a>&nbsp; I&nbsp; <a href="#">Duis molestie adipisci</a></p>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </block>
+    <block id="11">
+      <title><![CDATA[Gala Electronues Home Text Watches, Bags & Wallets - Area07]]></title>
+      <identifier><![CDATA[galaelectronues_home_text04]]></identifier>
+      <store_id><![CDATA[a:1:{i:0;s:1:"0";}]]></store_id>
+      <content><![CDATA[<h6>Featured</h6>
+<p><a href="#">Lorem ipsum</a>&nbsp; I&nbsp; <a href="#">Etiam vitae</a>&nbsp; I&nbsp;&nbsp; <a href="#">Donec non</a>&nbsp; I&nbsp; <a href="#">Mauris mauris</a>&nbsp; I&nbsp; <a href="#">Vivamus nec</a>&nbsp; I&nbsp; <a href="#">Morbi sit</a>&nbsp; I&nbsp; <a href="#">Cum sociis</a>&nbsp; I&nbsp; <a href="#">Aliquam eget</a>&nbsp; I&nbsp; <a href="#">Duis molestie adipisci</a></p>
+]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </block>
+    <block id="12">
+      <title><![CDATA[Gala Electronues Home Text Cameras & Camera Accessories - Area07]]></title>
+      <identifier><![CDATA[galaelectronues_home_text05]]></identifier>
+      <store_id><![CDATA[a:1:{i:0;s:1:"0";}]]></store_id>
+      <content><![CDATA[<h6>Featured</h6>
+<p><a href="#">Lorem ipsum</a>&nbsp; I&nbsp; <a href="#">Etiam vitae</a>&nbsp; I&nbsp;&nbsp; <a href="#">Donec non</a>&nbsp; I&nbsp; <a href="#">Mauris mauris</a>&nbsp; I&nbsp; <a href="#">Vivamus nec</a>&nbsp; I&nbsp; <a href="#">Morbi sit</a>&nbsp; I&nbsp; <a href="#">Cum sociis</a>&nbsp; I&nbsp; <a href="#">Aliquam eget</a>&nbsp; I&nbsp; <a href="#">Duis molestie adipisci</a></p>
+]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </block>
+    <block id="13">
+      <title><![CDATA[Gala Electronues Home Text Beauty & Health Care - Area07]]></title>
+      <identifier><![CDATA[galaelectronues_home_text06]]></identifier>
+      <store_id><![CDATA[a:1:{i:0;s:1:"0";}]]></store_id>
+      <content><![CDATA[<h6>Featured</h6>
+<p><a href="#">Lorem ipsum</a>&nbsp; I&nbsp; <a href="#">Etiam vitae</a>&nbsp; I&nbsp;&nbsp; <a href="#">Donec non</a>&nbsp; I&nbsp; <a href="#">Mauris mauris</a>&nbsp; I&nbsp; <a href="#">Vivamus nec</a>&nbsp; I&nbsp; <a href="#">Morbi sit</a>&nbsp; I&nbsp; <a href="#">Cum sociis</a>&nbsp; I&nbsp; <a href="#">Aliquam eget</a>&nbsp; I&nbsp; <a href="#">Duis molestie adipisci</a></p>
+]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </block>
+    <block id="14">
+      <title><![CDATA[Gala Electronues Home Text Clothing - Area07]]></title>
+      <identifier><![CDATA[galaelectronues_home_text07]]></identifier>
+      <store_id><![CDATA[a:1:{i:0;s:1:"0";}]]></store_id>
+      <content><![CDATA[<h6>Featured</h6>
+<p><a href="#">Lorem ipsum</a>&nbsp; I&nbsp; <a href="#">Etiam vitae</a>&nbsp; I&nbsp;&nbsp; <a href="#">Donec non</a>&nbsp; I&nbsp; <a href="#">Mauris mauris</a>&nbsp; I&nbsp; <a href="#">Vivamus nec</a>&nbsp; I&nbsp; <a href="#">Morbi sit</a>&nbsp; I&nbsp; <a href="#">Cum sociis</a>&nbsp; I&nbsp; <a href="#">Aliquam eget</a>&nbsp; I&nbsp; <a href="#">Duis molestie adipisci</a></p>
+]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </block>
+    <block id="15">
+      <title><![CDATA[Gala Electronues Footer Text - Area13]]></title>
+      <identifier><![CDATA[galaelectronues_footer_text]]></identifier>
+      <store_id><![CDATA[a:1:{i:0;s:1:"0";}]]></store_id>
+      <content><![CDATA[<h6>Store Directories</h6>
+<p>&nbsp; I&nbsp;<a href="#">Suspendisse</a>&nbsp; I&nbsp; <a href="#">Vivamus interdum</a>&nbsp; I&nbsp; <a href="#">Nulla rutrum</a>&nbsp; I&nbsp; <a href="#">Etiam vitae</a>&nbsp; I&nbsp;&nbsp; <a href="#">Donec non</a>&nbsp; I&nbsp; <a href="#">Mauris mauris</a>&nbsp; I&nbsp; <a href="#">Vivamus nec</a>&nbsp; I&nbsp; <a href="#">Morbi sit</a>&nbsp; I&nbsp; <a href="#">Cum sociis</a>&nbsp; I&nbsp; <a href="#">Aliquam eget</a>&nbsp; I&nbsp; <a href="#">Duis molestie adipisci</a></p>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </block>
+    <block id="16">
+      <title><![CDATA[Gala Electronues Footer Information - Area14]]></title>
+      <identifier><![CDATA[galaelectronues_footer_information]]></identifier>
+      <store_id><![CDATA[a:1:{i:0;s:1:"0";}]]></store_id>
+      <content><![CDATA[<div class="footer-row2-area">
+<div class="grid_4 hide-lte0 alpha">
+<p class="h5">Shopping help</p>
+<ul>
+<li><a href="#">Vestibulum antepsum</a></li>
+<li><a href="#">Primisin Faucibusorci</a></li>
+<li><a href="#">Luctusultrices posuere</a></li>
+<li><a href="#">Cubiliacurae nunceros</a></li>
+<li><a href="#">Augue pharetra vitae</a></li>
+</ul>
+</div>
+<div class="grid_4 hide-lte0">
+<p class="h5">Free shipping</p>
+<ul>
+<li><a href="#">Fuscenulla malesuada</a></li>
+<li><a href="#">Ut euismod pulvinar</a></li>
+<li><a href="#">Tincidunt viverratortor</a></li>
+<li><a href="#">Namelitdiam volutpat</a></li>
+<li><a href="#">Eu iaculis laoreetet </a></li>
+</ul>
+</div>
+<div class="grid_4">
+<p class="h5">Customer services</p>
+<ul>
+<li><a href="{{store url=''}}contacts">Contact us</a></li>
+<li><a href="#">Donec pretiummi</a></li>
+<li><a href="#">Augue eleifend iaculis</a></li>
+<li><a href="#">Quisque consequat</a></li>
+<li><a href="#">Ultricies duiat feugiat</a></li>
+</ul>
+</div>
+<div class="grid_4 omega">
+<p class="h5">Member card</p>
+<ul>
+<li><a href="#">OProin vel orci sem</a></li>
+<li><a href="#">Vitae aliquam eros</a></li>
+<li><a href="#">Donec arcu quam</a></li>
+<li><a href="#">Tincidunt nec ornare</a></li>
+<li><a href="#">Vitae posuere eu velit</a></li>
+</ul>
+</div>
+</div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </block>
+    <block id="17">
+      <title><![CDATA[Gala Electronues News Letter Footer - Area14]]></title>
+      <identifier><![CDATA[galaelectronues_newletter_footer]]></identifier>
+      <store_id><![CDATA[a:1:{i:0;s:1:"0";}]]></store_id>
+      <content><![CDATA[<div>{{block type="newsletter/subscribe" name="left.newsletter" template="newsletter/subscribe.phtml"}}</div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </block>
+    <block id="18">
+      <title><![CDATA[Gala Electronues Footer Friend - Area15]]></title>
+      <identifier><![CDATA[galaelectronues_footer_friend]]></identifier>
+      <store_id><![CDATA[a:1:{i:0;s:1:"0";}]]></store_id>
+      <content><![CDATA[<div class="banner-friend">
+<div class="footer-row1-area"><a title="Gala Electronues Magento Themes" href="#"> <img class="fluid" title="Gala Electronues Magento Themes" src="{{skin url="images/media/wysiwyg/img4.png"}}" alt="banner-footer" /> </a></div>
+<div class="footer-row2-area">
+<p class="h5">Let's be friends</p>
+<ul>
+<li><a href="http://www.facebook.com/"><span class="icon facebook">Find us on Facebook</span>Find us on Facebook</a></li>
+<li><a href="http://google.com"><span class="icon googleplus">Google</span>Google</a></li>
+<li><a href="#"><span class="icon rss">RSS Feed</span>RSS Feed</a></li>
+</ul>
+<ul>
+<li><a href="http://twitter.com/home"><span class="icon twitter">Fllow us on Twitter</span>Fllow us on Twitter</a></li>
+<li><a href="http://www.flickr.com/"><span class="icon flickr">Flick</span>Flick</a></li>
+<li><a href="http://vimeo.com/"><span class="icon vimeo">Vimeo</span>Vimeo</a></li>
+</ul>
+</div>
+</div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </block>
+    <block id="19">
+      <title><![CDATA[Gala Electronues Footer Bootom]]></title>
+      <identifier><![CDATA[galaelectronues_footer_bootom]]></identifier>
+      <store_id><![CDATA[a:1:{i:0;s:1:"0";}]]></store_id>
+      <content><![CDATA[<p><a href="#"><span class="brand-logo paypal">paypal</span></a> <a href="#"><span class="brand-logo visa">visa</span></a> <a href="#"><span class="brand-logo express">express</span></a> <a href="#"><span class="brand-logo master">master</span></a> <a href="#"><span class="brand-logo skrill">skrill</span></a></p>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </block>
+    <block id="20">
+      <title><![CDATA[Gala Electronues Home Baner Left]]></title>
+      <identifier><![CDATA[galaelectronues_baner_left_home]]></identifier>
+      <store_id><![CDATA[a:1:{i:0;s:1:"0";}]]></store_id>
+      <content><![CDATA[<ul>
+<li><a title="" href="#"> <img class="fluid" src="{{skin url='images/media/wysiwyg/img1.png'}}" alt="" /> </a></li>
+<li><a title="" href="#"> <img class="fluid" src="{{skin url='images/media/wysiwyg/img2.png'}}" alt="" /> </a></li>
+<li><a title="" href="#"> <img class="fluid" src="{{skin url='images/media/wysiwyg/img3.png'}}" alt="" /> </a></li>
+</ul>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </block>
+    <block id="21">
+      <title><![CDATA[Gala Electronues Catalog Banner Left - Area10]]></title>
+      <identifier><![CDATA[galaelectronues_catalog_banner_left]]></identifier>
+      <store_id><![CDATA[a:1:{i:0;s:1:"0";}]]></store_id>
+      <content><![CDATA[<p><a title="" href="#"> <img class="fluid" src="{{skin url='images/media/wysiwyg/banner-left.png'}}" alt="" /> </a></p>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </block>
+    <block id="22">
+      <title><![CDATA[Gala Electronues Sample Block - Area 08]]></title>
+      <identifier><![CDATA[galaelectronues_sample_block1]]></identifier>
+      <store_id><![CDATA[a:1:{i:0;s:1:"0";}]]></store_id>
+      <content><![CDATA[<div class="box" style="background-color: #f8fcc5;">
+<p>Sample Block Here ...</p>
+<p>This is a sample content in position EM Area 08. You can add your own content by insert widget into position EM Area 08</p>
+</div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </block>
+    <block id="23">
+      <title><![CDATA[Gala Electronues Sample Block - Area 09]]></title>
+      <identifier><![CDATA[galaelectronues_sample_block2]]></identifier>
+      <store_id><![CDATA[a:1:{i:0;s:1:"0";}]]></store_id>
+      <content><![CDATA[<div class="box" style="background-color: #f8fcc5;">
+<p>Sample Block Here ...</p>
+<p>This is a sample content in position EM Area 09. You can add your own content by insert widget into position EM Area 09</p>
+</div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </block>
+    <block id="24">
+      <title><![CDATA[Gala Electronues Sample Block - Area 05]]></title>
+      <identifier><![CDATA[galaelectronues_sample_block3]]></identifier>
+      <store_id><![CDATA[a:1:{i:0;s:1:"0";}]]></store_id>
+      <content><![CDATA[<div class="box" style="background-color: #f8fcc5;">
+<p>Sample Block Here ...</p>
+<p>This is a sample content in position EM Area 05. You can add your own content by insert widget into position EM Area 05</p>
+</div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </block>
+    <block id="25">
+      <title><![CDATA[Gala Electronues Sample Block - Area 06]]></title>
+      <identifier><![CDATA[galaelectronues_sample_block4]]></identifier>
+      <store_id><![CDATA[a:1:{i:0;s:1:"0";}]]></store_id>
+      <content><![CDATA[<div class="box" style="background-color: #f8fcc5;">
+<p>Sample Block Here ...</p>
+<p>This is a sample content in position EM Area 06. You can add your own content by insert widget into position EM Area 06</p>
+</div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </block>
+    <block id="26">
+      <title><![CDATA[Gala Electronues Sample Block - Alert Url]]></title>
+      <identifier><![CDATA[galaelectronues_sample_block5]]></identifier>
+      <store_id><![CDATA[a:1:{i:0;s:1:"0";}]]></store_id>
+      <content><![CDATA[<div class="box" style="background-color: #f8fcc5;">
+<p>Sample Block Here ...</p>
+<p>This is a sample content in position Alert Url. You can add your own content by insert widget into position Alert Url</p>
+</div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </block>
+    <block id="27">
+      <title><![CDATA[Gala Electronues Sample Block - Extra Hint ]]></title>
+      <identifier><![CDATA[galaelectronues_sample_block6]]></identifier>
+      <store_id><![CDATA[a:1:{i:0;s:1:"0";}]]></store_id>
+      <content><![CDATA[<div class="box" style="background-color: #f8fcc5;">
+<p>Sample Block Here ...</p>
+<p>This is a sample content in position Extra Hint . You can add your own content by insert widget into position Extra Hint </p>
+</div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </block>
+    <block id="28">
+      <title><![CDATA[Gala Electronues Sample Block -  Product View Short Description After]]></title>
+      <identifier><![CDATA[galaelectronues_sample_block7]]></identifier>
+      <store_id><![CDATA[a:1:{i:0;s:1:"0";}]]></store_id>
+      <content><![CDATA[<div class="box" style="background-color: #f8fcc5;">
+<p>Sample Block Here ...</p>
+<p>This is a sample content in position Product View Short Description After. You can add your own content by insert widget into position Product View Short Description After</p>
+</div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </block>
+    <block id="29">
+      <title><![CDATA[Gala Electronues Product Collateral Sample]]></title>
+      <identifier><![CDATA[galaelectronues_product_collateral_sample]]></identifier>
+      <store_id><![CDATA[a:1:{i:0;s:1:"0";}]]></store_id>
+      <content><![CDATA[<p>A sample of additional collateral tabs that you can insert as a widget in static the backend.</p>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </block>
+  </staticblock>
+  <cmspage>
+    <page id="2">
+      <title><![CDATA[Gala Electronues Home]]></title>
+      <identifier><![CDATA[galaelectronues_home]]></identifier>
+      <store_id><![CDATA[a:1:{i:0;s:1:"0";}]]></store_id>
+      <content><![CDATA[&nbsp;]]></content>
+      <is_active><![CDATA[1]]></is_active>
+      <root_template><![CDATA[two_columns_left]]></root_template>
+      <meta_keywords><![CDATA[]]></meta_keywords>
+      <meta_description><![CDATA[]]></meta_description>
+      <content_heading><![CDATA[]]></content_heading>
+      <sort_order><![CDATA[0]]></sort_order>
+      <layout_update_xml><![CDATA[]]></layout_update_xml>
+      <custom_theme><![CDATA[]]></custom_theme>
+      <custom_root_template><![CDATA[]]></custom_root_template>
+      <custom_layout_update_xml><![CDATA[]]></custom_layout_update_xml>
+      <custom_theme_from><![CDATA[]]></custom_theme_from>
+      <custom_theme_to><![CDATA[]]></custom_theme_to>
+    </page>
+    <page id="8">
+      <title><![CDATA[Gala Electronues Typography]]></title>
+      <identifier><![CDATA[galaelectronues_typography]]></identifier>
+      <store_id><![CDATA[a:1:{i:0;s:1:"0";}]]></store_id>
+      <content><![CDATA[<h2>General Elements</h2>
+<h1>Heading 1</h1>
+<h2>Heading 2</h2>
+<h3>Heading 3</h3>
+<h4>Heading 4</h4>
+<h5>Heading 5</h5>
+<h6>Heading 6</h6>
+<ul>
+<li>Bullet List 1</li>
+<ul>
+<li>Bullet List 1.1</li>
+<li>Bullet List 1.2</li>
+<li>Bullet List 1.3</li>
+<li>Bullet List 1.4</li>
+</ul>
+<li>Bullet List 2</li>
+<li>Bullet List 3</li>
+<li>Bullet List 4</li>
+</ul>
+<ol>
+<li>Number List 1</li>
+<ol>
+<li>Number List 1.1</li>
+<li>Number List 1.2</li>
+<li>Number List 1.3</li>
+<li>Number List 1.4</li>
+</ol>
+<li>Number List 2</li>
+<li>Number List 3</li>
+<li>Number List 4</li>
+</ol><dl><dt>Definition title dt</dt><dd>Defination description dd</dd><dt>Definition title dt</dt><dd>Defination description dd</dd></dl>
+<p><code>Code tag:&nbsp;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</code></p>
+<blockquote>
+<p>block quote&nbsp;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+</blockquote>
+<div class="box f-left">element with class <strong>.f-left</strong></div>
+<div class="box f-right">element with class <strong>.f-right</strong></div>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&nbsp;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&nbsp;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<h2>Tables</h2>
+<p>Table with class <strong>.data-table</strong></p>
+<table class="data-table" style="width: 100%;" border="0">
+<thead>
+<tr><th>THEAD TH</th><th>THEAD TH</th><th>THEAD TH</th><th>THEAD TH</th><th>THEAD TH</th></tr>
+</thead>
+<tbody>
+<tr>
+<td>TBODY TD</td>
+<td>TBODY TD</td>
+<td>TBODY TD</td>
+<td>TBODY TD</td>
+<td>TBODY TD</td>
+</tr>
+<tr>
+<td>TBODY TD</td>
+<td>TBODY TD</td>
+<td>TBODY TD</td>
+<td>TBODY TD</td>
+<td>TBODY TD</td>
+</tr>
+<tr>
+<td>TBODY TD</td>
+<td>TBODY TD</td>
+<td>TBODY TD</td>
+<td>TBODY TD</td>
+<td>TBODY TD</td>
+</tr>
+</tbody>
+</table>
+<br/>
+<h2>Custom CSS Classes</h2>
+<p class="normal">this is a paragraph with class <strong>.normal</strong></p>
+<p class="primary">this is a paragraph with class <strong>.primary</strong></p>
+<p class="secondary">this is a paragraph with class <strong>.secondary</strong></p>
+<p class="secondary2">this is a paragraph with class <strong>.secondary2</strong></p>
+<p class="small">tag <strong>small</strong> and class <strong>.small</strong></p>
+<p class="underline">element with class <strong>.underline</strong></p>
+<p><strong>ul.none</strong> and <strong>ol.none</strong>:</p>
+<ul class="none">
+<li>Bullet List 1</li>
+<ul>
+<li>Bullet List 1.1</li>
+<li>Bullet List 1.2</li>
+<li>Bullet List 1.3</li>
+<li>Bullet List 1.4</li>
+</ul>
+<li>Bullet List 2</li>
+<li>Bullet List 3</li>
+<li>Bullet List 4</li>
+</ul>
+<p><strong>ul.hoz</strong> and <strong>ol.hoz</strong>:</p>
+<ul class="hoz">
+<li>Bullet List 1</li>
+<li>Bullet List 2</li>
+<li>Bullet List 3</li>
+<li>Bullet List 4</li>
+</ul>
+<div class="box">
+<p>paragraph with class <strong>.box</strong>:</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+</div>
+<p class="bottom">Paragraph with class <strong>.bottom</strong> always has margin-bottom = 0.</p>
+<p>Add class <strong>.hide-lte2</strong> to hide element when screen's width less than 1280px.</p>
+<p class="box hide-lte2">This block will disappear when resize window less than 1280px</p>
+<p>Add class <strong>.hide-lte1</strong> to hide element when screen's width less than 980px.</p>
+<p class="box hide-lte1">This block will disappear when resize window less than 980px</p>
+<p>Add class <strong>.hide-lte0</strong> to hide element when screen's width less than 760px.</p>
+<p class="box hide-lte0">This block will disappear when resize window less than 760px</p>
+<h2>Icons</h2>
+<table class="data-table" border="0">
+<tbody>
+<tr style="background: #000;">
+<td align="center" valign="top">
+<p>.icon.cart</p>
+<p><span class="icon cart">span.icon.cart</span></p>
+</td>
+<td align="center" valign="top">
+<p>.icon.telephone</p>
+<p><span class="icon telephone">span.icon.telephone</span></p>
+</td>
+</tr>
+<tr >
+<td align="center" valign="top">
+<p>.icon.facebook</p>
+<p><span class="icon facebook">span.icon.facebook</span></p>
+</td>
+<td align="center" valign="top">
+<p>.icon.twitter</p>
+<p><span class="icon twitter">span.icon.twitter</span></p>
+</td>
+<td align="center" valign="top">
+<p>.icon.googleplus</p>
+<p><span class="icon googleplus">span.icon.googleplus</span></p>
+</td>
+<td align="center" valign="top">
+<p>.icon.rss</p>
+<p><span class="icon rss">span.icon.pinterest</span></p>
+</td>
+<td align="center" valign="top">
+<p>.icon.flickr</p>
+<p><span class="icon flickr">span.icon.flickr</span></p>
+</td>
+<td align="center" valign="top">
+<p>.icon.vimeo</p>
+<p><span class="icon vimeo">span.icon.vimeo</span></p>
+</td>
+</tr>
+<tr>
+<td align="center" valign="top">
+<p>.icon.search</p>
+<p><span class="icon search">span.icon.search</span></p>
+</td>
+<td align="center" valign="top">
+<p>.icon.tick</p>
+<p><span class="icon tick">span.icon.tick</span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<br/>
+<h2>Brands</h2>
+<table class="data-table" border="0">
+<tbody>
+<tr>
+<td align="center" valign="top">
+<p>.brand-logo.sony</p>
+<p><span class="brand-logo sony">span.brand-logo.sony</span></p>
+</td>
+<td align="center" valign="top">
+<p>.brand-logo.casio</p>
+<p><span class="brand-logo casio">span.brand-logo.casio</span></p>
+</td>
+<td align="center" valign="top">
+<p>.brand-logo.canon</p>
+<p><span class="brand-logo canon">span.brand-logo.canon</span></p>
+</td>
+<td align="center" valign="top">
+<p>.brand-logo.fujifilm</p>
+<p><span class="brand-logo fujifilm">span.brand-logo.fujifilm</span></p>
+</td>
+<td align="center" valign="top">
+<p>.brand-logo.panasonic</p>
+<p><span class="brand-logo panasonic">span.brand-logo.panasonic</span></p>
+</td>
+<td align="center" valign="top">
+<p>.brand-logo.nikon</p>
+<p><span class="brand-logo nikon">span.brand-logo.nikon</span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<br/>
+<h2>Logo</h2>
+<table class="data-table" border="0">
+<tbody>
+<tr>
+<td align="center" valign="top">
+<p>.brand-logo.paypal</p>
+<p><span class="brand-logo paypal">span.brand-logo.paypal</span></p>
+</td>
+<td align="center" valign="top">
+<p>.brand-logo.visa</p>
+<p><span class="brand-logo visa">span.brand-logo.visa</span></p>
+</td>
+<td align="center" valign="top">
+<p>.brand-logo.express</p>
+<p><span class="brand-logo express">span.brand-logo.express</span></p>
+</td>
+<td align="center" valign="top">
+<p>.brand-logo.master</p>
+<p><span class="brand-logo master">span.brand-logo.master</span></p>
+</td>
+<td align="center" valign="top">
+<p>.brand-logo.skrill</p>
+<p><span class="brand-logo skrill">span.brand-logo.skrill</span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<br/>
+<p>image with class <strong>.fluid</strong>:</p>
+<p><img class="fluid" title="image with class .fluid" src="{{media url="wysiwyg/img-category.png"}}" alt="image with class .fluid" /></p>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+      <root_template><![CDATA[one_column]]></root_template>
+      <meta_keywords><![CDATA[Typography]]></meta_keywords>
+      <meta_description><![CDATA[Typography]]></meta_description>
+      <content_heading><![CDATA[]]></content_heading>
+      <sort_order><![CDATA[0]]></sort_order>
+      <layout_update_xml><![CDATA[]]></layout_update_xml>
+      <custom_theme><![CDATA[]]></custom_theme>
+      <custom_root_template><![CDATA[]]></custom_root_template>
+      <custom_layout_update_xml><![CDATA[]]></custom_layout_update_xml>
+      <custom_theme_from><![CDATA[]]></custom_theme_from>
+      <custom_theme_to><![CDATA[]]></custom_theme_to>
+    </page>
+    <page id="9">
+      <title><![CDATA[Gala Electronues Widgets]]></title>
+      <identifier><![CDATA[galaelectronues_widgets]]></identifier>
+      <store_id><![CDATA[a:1:{i:0;s:1:"0";}]]></store_id>
+      <content><![CDATA[<h2>Demo EM Slideshow Widget</h2>
+<div style="width: 500px;">{{widget type="slideshowwidget/create" text1="<span>Slide 1</span>" url1="#" image1="slide1.png" text2="<span>Slide 2</span>" url2="#" image2="slide2.png" text3="<span>Slide 3</span>" url3="#" image3="slide3.png" effect="random" slices="15" boxcols="8" boxrows="4" animspeed="500" pausetime="5000" directionnav="true" controlnav="true" controlnavthumbs="false" pauseonhover="true" prevtext="Prev" nexttext="Next" randomstart="true"}}</div>
+<hr />
+<p>&nbsp;</p>
+<h2>Demo EM Featured Products Widget</h2>
+<table style="width: 100%;" border="0">
+<tbody>
+<tr>
+<td style="width: 50%;" valign="top">
+<h3>Grid View</h3>
+<p>{{widget type="dynamicproducts/dynamicproducts" order_by="name asc" featured_choose="em_featured" limit_count="10" item_width="400" item_spacing="30" thumbnail_width="400" thumbnail_height="400" show_product_name="true" show_thumbnail="true" alt_img="thumbnail" show_description="true" show_price="true" show_reviews="true" show_addtocart="true" show_addto="true" show_label="true" choose_template="em_featured_products/featured_grid.phtml"}}</p>
+</td>
+<td style="width: 50%;" valign="top">
+<h3>Grid View with column count = 3</h3>
+<p>{{widget type="dynamicproducts/dynamicproducts" order_by="name asc" featured_choose="em_featured" limit_count="10" column_count="3" item_width="150" item_spacing="30" thumbnail_width="150" thumbnail_height="150" show_product_name="true" show_thumbnail="true" alt_img="thumbnail" show_description="true" show_price="true" show_reviews="true" show_addtocart="true" show_addto="true" show_label="true" choose_template="em_featured_products/featured_grid.phtml"}}</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table style="width: 100%;" border="0">
+<tbody>
+<tr>
+<td style="width: 50%;" valign="top">
+<h3>List View</h3>
+<p>{{widget type="dynamicproducts/dynamicproducts" order_by="name asc" featured_choose="em_featured" limit_count="10" thumbnail_width="150" thumbnail_height="150" show_product_name="true" show_thumbnail="true" alt_img="thumbnail" show_description="true" show_price="true" show_reviews="true" show_addtocart="true" show_addto="true" show_label="true" choose_template="em_featured_products/featured_list.phtml"}}</p>
+</td>
+<td style="width: 50%;" valign="top">
+<h3>List View with column count = 2</h3>
+<p>{{widget type="dynamicproducts/dynamicproducts" order_by="name asc" featured_choose="em_featured" limit_count="10" column_count="2" thumbnail_width="150" thumbnail_height="150" show_product_name="true" show_thumbnail="true" alt_img="thumbnail" show_description="true" show_price="true" show_reviews="true" show_addtocart="true" show_addto="true" show_label="true" choose_template="em_featured_products/featured_list.phtml"}}</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<p>&nbsp;</p>
+<h2>Demo EM Bestseller Products Widget</h2>
+<table style="width: 100%;" border="0">
+<tbody>
+<tr>
+<td style="width: 50%;" valign="top">
+<h3>Grid View</h3>
+<p>{{widget type="bestsellerproducts/list" limit_count="10" column_count="4" frontend_title="Bestseller Products" item_width="250" item_height="400" item_spacing="30" thumbnail_width="250" thumbnail_height="250" show_product_name="true" show_thumbnail="true" alt_img="thumbnail" show_description="true" show_price="true" show_reviews="true" show_addtocart="true" show_addto="true" show_label="true" choose_template="em_bestseller_products/bestseller_grid.phtml"}}</p>
+</td>
+<td style="width: 50%;" valign="top">
+<h3>List View</h3>
+<p>{{widget type="bestsellerproducts/list" order_by="name asc" limit_count="10" frontend_title="Bestseller Products" thumbnail_width="150" thumbnail_height="150" show_product_name="true" show_thumbnail="true" alt_img="thumbnail" show_description="true" show_price="true" show_reviews="true" show_addtocart="true" show_addto="true" show_label="true" choose_template="em_bestseller_products/bestseller_list.phtml" column_count="4"}}</p>
+<div>&nbsp;</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<hr />
+<p>&nbsp;</p>
+<h2>&nbsp;Demo EM New Products Widget</h2>
+<table style="width: 100%;" border="0">
+<tbody>
+<tr>
+<td style="width: 50%;" valign="top">
+<h3>Grid View</h3>
+<p>{{widget type="newproducts/list" limit_count="10" order_by="name asc" frontend_title="Bestseller Products" item_width="250" item_spacing="30" thumbnail_width="250" thumbnail_height="250" show_product_name="true" show_thumbnail="true" alt_img="thumbnail" show_description="true" show_price="true" show_reviews="true" show_addtocart="true" show_addto="true" show_label="true" choose_template="em_new_products/new_grid.phtml" column_count="4"}}</p>
+</td>
+<td style="width: 50%;" valign="top">
+<h3>List View</h3>
+<p>{{widget type="newproducts/list" order_by="name asc" limit_count="10" frontend_title="Bestseller Products" thumbnail_width="150" thumbnail_height="150" show_product_name="true" show_thumbnail="true" alt_img="thumbnail" show_description="true" show_price="true" show_reviews="true" show_addtocart="true" show_addto="true" show_label="true" choose_template="em_new_products/new_list.phtml" column_count="4"}}</p>
+<div>&nbsp;</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<hr />
+<p>&nbsp;</p>
+<h2>&nbsp;Demo EM Sale Products Widget</h2>
+<table style="width: 100%;" border="0">
+<tbody>
+<tr>
+<td style="width: 50%;" valign="top">
+<h3>Grid View</h3>
+<p>{{widget type="saleproducts/list" limit_count="10" order_by="name asc" frontend_title="Bestseller Products" item_width="250" item_height="400" item_spacing="30" thumbnail_width="250" thumbnail_height="250" show_product_name="true" show_thumbnail="true" alt_img="thumbnail" show_description="true" show_price="true" show_reviews="true" show_addtocart="true" show_addto="true" show_label="true" choose_template="em_sale_products/sale_grid.phtml" column_count="4"}}</p>
+</td>
+<td style="width: 50%;" valign="top">
+<h3>List View</h3>
+<p>{{widget type="saleproducts/list" order_by="name asc" limit_count="10" frontend_title="Bestseller Products" thumbnail_width="150" thumbnail_height="150" show_product_name="true" show_thumbnail="true" alt_img="thumbnail" show_description="true" show_price="true" show_reviews="true" show_addtocart="true" show_addto="true" show_label="true" choose_template="em_sale_products/sale_list.phtml" column_count="4"}}</p>
+<div>&nbsp;</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<hr />
+<p>&nbsp;</p>
+<h2>&nbsp;Demo EM Slider Widget</h2>
+<div class="grid_12 alpha">
+<h3>Vertical Sliding</h3>
+<div>{{widget type="sliderwidget/slide" instance="4" direction="1" container=".products-grid" slider_height="355" items_per_slide="2"}}</div>
+</div>
+<div class="grid_12 omega">
+<h3>Horizontal Sliding</h3>
+<div>{{widget type="sliderwidget/slide" instance="4" container=".products-grid" items_per_slide="3"}}</div>
+</div>
+<p>&nbsp;</p>
+<hr />
+<p>&nbsp;</p>
+<h2>&nbsp;Demo EM Tabs Widget</h2>
+<p>{{widget type="tabs/group" title_1="YTo0OntpOjA7czo1OiJUYWIgMSI7aToxO3M6MDoiIjtpOjM7czowOiIiO2k6MjtzOjA6IiI7fQ==" block_1="6" title_2="YTo0OntpOjA7czo1OiJUYWIgMiI7aToxO3M6MDoiIjtpOjM7czowOiIiO2k6MjtzOjA6IiI7fQ==" block_2="5" title_3="YTo0OntpOjA7czo1OiJUYWIgMyI7aToxO3M6MDoiIjtpOjM7czowOiIiO2k6MjtzOjA6IiI7fQ==" block_3="15" template="emtabs/group.phtml"}}</p>
+<p>&nbsp;</p>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+      <root_template><![CDATA[one_column]]></root_template>
+      <meta_keywords><![CDATA[Widgets]]></meta_keywords>
+      <meta_description><![CDATA[Widgets]]></meta_description>
+      <content_heading><![CDATA[]]></content_heading>
+      <sort_order><![CDATA[0]]></sort_order>
+      <layout_update_xml><![CDATA[]]></layout_update_xml>
+      <custom_theme><![CDATA[]]></custom_theme>
+      <custom_root_template><![CDATA[]]></custom_root_template>
+      <custom_layout_update_xml><![CDATA[]]></custom_layout_update_xml>
+      <custom_theme_from><![CDATA[]]></custom_theme_from>
+      <custom_theme_to><![CDATA[]]></custom_theme_to>
+    </page>
+  </cmspage>
+  <megamenu>
+    <menu id="2">
+      <name><![CDATA[Gala Electronues Mega menu Main]]></name>
+      <type><![CDATA[1]]></type>
+      <status><![CDATA[1]]></status>
+      <content><![CDATA[a:67:{i:0;a:8:{s:4:"type";s:4:"link";s:5:"label";s:8:"Clothing";s:8:"sublabel";s:0:"";s:3:"url";s:39:"{{store direct_url="electronics.html"}}";s:6:"target";s:0:"";s:9:"css_class";s:5:"icon1";s:13:"container_css";s:0:"";s:5:"depth";s:1:"0";}i:1;a:7:{s:4:"type";s:4:"hbox";s:5:"width";s:8:"Footwear";s:6:"height";s:0:"";s:7:"spacing";s:0:"";s:9:"css_class";s:18:"grid_8 omega alpha";s:13:"container_css";s:0:"";s:5:"depth";s:1:"1";}i:2;a:7:{s:4:"type";s:4:"vbox";s:5:"width";s:0:"";s:6:"height";s:0:"";s:7:"spacing";s:0:"";s:9:"css_class";s:12:"grid_4 alpha";s:13:"container_css";s:0:"";s:5:"depth";s:1:"2";}i:3;a:5:{s:4:"type";s:4:"text";s:4:"text";s:140:"PGg1PkxvcmVtIGlwc3VtPC9oNT4Ke3tibG9jayB0eXBlPSJtZWdhbWVudXByby9jYXRhbG9nbmF2aWdhdGlvbiIgbmFtZT0ibWFpbm1lZ2FtZW51IiBjYXRlZ29yeV9pZD0iMTUifX0=";s:9:"css_class";s:0:"";s:13:"container_css";s:0:"";s:5:"depth";s:1:"3";}i:4;a:7:{s:4:"type";s:4:"vbox";s:5:"width";s:0:"";s:6:"height";s:0:"";s:7:"spacing";s:0:"";s:9:"css_class";s:12:"grid_4 omega";s:13:"container_css";s:0:"";s:5:"depth";s:1:"2";}i:5;a:5:{s:4:"type";s:4:"text";s:4:"text";s:292:"PGg1PlByYWVzZW50IHRlbXBvcjwvaDU+Cnt7YmxvY2sgdHlwZT0ibWVnYW1lbnVwcm8vY2F0YWxvZ25hdmlnYXRpb24iIG5hbWU9Im1haW5tZWdhbWVudSIgY2F0ZWdvcnlfaWQ9IjEyIn19CjxoNT5GYXVjaWJ1cyBzZW1wZXI8L2g1Pgp7e2Jsb2NrIHR5cGU9Im1lZ2FtZW51cHJvL2NhdGFsb2duYXZpZ2F0aW9uIiBuYW1lPSJtYWlubWVnYW1lbnUiIGNhdGVnb3J5X2lkPSIxMCJ9fQ==";s:9:"css_class";s:0:"";s:13:"container_css";s:0:"";s:5:"depth";s:1:"3";}i:6;a:8:{s:4:"type";s:4:"link";s:5:"label";s:8:"Footwear";s:8:"sublabel";s:0:"";s:3:"url";s:35:"{{store direct_url="apparel.html"}}";s:6:"target";s:0:"";s:9:"css_class";s:5:"icon2";s:13:"container_css";s:0:"";s:5:"depth";s:1:"0";}i:7;a:7:{s:4:"type";s:4:"hbox";s:5:"width";s:0:"";s:6:"height";s:0:"";s:7:"spacing";s:0:"";s:9:"css_class";s:19:"grid_18 omega alpha";s:13:"container_css";s:0:"";s:5:"depth";s:1:"1";}i:8;a:7:{s:4:"type";s:4:"vbox";s:5:"width";s:0:"";s:6:"height";s:0:"";s:7:"spacing";s:0:"";s:9:"css_class";s:12:"grid_3 alpha";s:13:"container_css";s:0:"";s:5:"depth";s:1:"2";}i:9;a:5:{s:4:"type";s:4:"text";s:4:"text";s:540:"PGg1PkxvcmVtIGlwc3VtPC9oNT4KPHVsPgo8bGk+PGEgaHJlZj0ie3tzdG9yZSBkaXJlY3RfdXJsPSdhcHBhcmVsLmh0bWwnfX0iPmNvbnNlY3RldHVyIDwvYT48L2xpPgo8bGk+PGEgaHJlZj0ie3tzdG9yZSBkaXJlY3RfdXJsPSdhcHBhcmVsLmh0bWwnfX0iPmVpdXNtb2QgdGVtcG9yPC9hPjwvbGk+CjxsaT48YSBocmVmPSJ7e3N0b3JlIGRpcmVjdF91cmw9J2FwcGFyZWwuaHRtbCd9fSI+bGFib3JlIGV0IGRvbG9yZTwvYT48L2xpPgo8bGk+PGEgaHJlZj0ie3tzdG9yZSBkaXJlY3RfdXJsPSdhcHBhcmVsLmh0bWwnfX0iPmxhYm9yaXMgbmlzaSB1dDwvYT48L2xpPgo8bGk+PGEgaHJlZj0ie3tzdG9yZSBkaXJlY3RfdXJsPSdhcHBhcmVsLmh0bWwnfX0iPkR1aXMgYXV0ZSBpcnVyZTwvYT48L2xpPgo8L3VsPg==";s:9:"css_class";s:0:"";s:13:"container_css";s:0:"";s:5:"depth";s:1:"3";}i:10;a:7:{s:4:"type";s:4:"vbox";s:5:"width";s:0:"";s:6:"height";s:0:"";s:7:"spacing";s:0:"";s:9:"css_class";s:6:"grid_3";s:13:"container_css";s:0:"";s:5:"depth";s:1:"2";}i:11;a:5:{s:4:"type";s:4:"text";s:4:"text";s:576:"PGg1PlBlbGxlbnRlc3F1ZTwvaDU+Cjx1bD4KPGxpPjxhIGhyZWY9Int7c3RvcmUgZGlyZWN0X3VybD0nZWxlY3Ryb25pY3MuaHRtbCd9fSI+YWRpcGlzaWNpbmcgZWxpdDwvYT48L2xpPgo8bGk+PGEgaHJlZj0ie3tzdG9yZSBkaXJlY3RfdXJsPSdlbGVjdHJvbmljcy5odG1sJ319Ij5wcm9pbiB2aXRhZSBkYXBpYnVzPC9hPjwvbGk+CjxsaT48YSBocmVmPSJ7e3N0b3JlIGRpcmVjdF91cmw9J2VsZWN0cm9uaWNzLmh0bWwnfX0iPmFsaXF1YW0gdm9sdXRwYXQ8L2E+PC9saT4KPGxpPjxhIGhyZWY9Int7c3RvcmUgZGlyZWN0X3VybD0nZWxlY3Ryb25pY3MuaHRtbCd9fSI+c2VkIHBsYWNlcmF0IGF1Z3VlPC9hPjwvbGk+CjxsaT48YSBocmVmPSJ7e3N0b3JlIGRpcmVjdF91cmw9J2FwcGFyZWwuaHRtbCd9fSI+bGFib3JpcyBuaXNpIHV0PC9hPjwvbGk+CjwvdWw+";s:9:"css_class";s:0:"";s:13:"container_css";s:0:"";s:5:"depth";s:1:"3";}i:12;a:7:{s:4:"type";s:4:"vbox";s:5:"width";s:0:"";s:6:"height";s:0:"";s:7:"spacing";s:0:"";s:9:"css_class";s:6:"grid_3";s:13:"container_css";s:0:"";s:5:"depth";s:1:"2";}i:13;a:5:{s:4:"type";s:4:"text";s:4:"text";s:564:"PGg1PkxvcmVtIGlwc3VtPC9oNT4KPHVsPgo8bGk+PGEgaHJlZj0ie3tzdG9yZSBkaXJlY3RfdXJsPSdhcHBhcmVsLmh0bWwnfX0iPmxhYm9yaXMgbmlzaSB1dDwvYT48L2xpPgo8bGk+PGEgaHJlZj0ie3tzdG9yZSBkaXJlY3RfdXJsPSdlbGVjdHJvbmljcy5odG1sJ319Ij5laXVzbW9kIHRlbXBvcjwvYT48L2xpPgo8bGk+PGEgaHJlZj0ie3tzdG9yZSBkaXJlY3RfdXJsPSdlbGVjdHJvbmljcy5odG1sJ319Ij5sYWJvcmUgZXQgZG9sb3JlPC9hPjwvbGk+CjxsaT48YSBocmVmPSJ7e3N0b3JlIGRpcmVjdF91cmw9J2VsZWN0cm9uaWNzLmh0bWwnfX0iPmxhYm9yaXMgbmlzaSB1dDwvYT48L2xpPgo8bGk+PGEgaHJlZj0ie3tzdG9yZSBkaXJlY3RfdXJsPSdlbGVjdHJvbmljcy5odG1sJ319Ij5EdWlzIGF1dGUgaXJ1cmU8L2E+PC9saT4KPC91bD4=";s:9:"css_class";s:0:"";s:13:"container_css";s:0:"";s:5:"depth";s:1:"3";}i:14;a:7:{s:4:"type";s:4:"vbox";s:5:"width";s:0:"";s:6:"height";s:0:"";s:7:"spacing";s:0:"";s:9:"css_class";s:6:"grid_3";s:13:"container_css";s:0:"";s:5:"depth";s:1:"2";}i:15;a:5:{s:4:"type";s:4:"text";s:4:"text";s:564:"PGg1PkxvcmVtIGlwc3VtPC9oNT4KPHVsPgo8bGk+PGEgaHJlZj0ie3tzdG9yZSBkaXJlY3RfdXJsPSdlbGVjdHJvbmljcy5odG1sJ319Ij5jb25zZWN0ZXR1ciA8L2E+PC9saT4KPGxpPjxhIGhyZWY9Int7c3RvcmUgZGlyZWN0X3VybD0nZWxlY3Ryb25pY3MuaHRtbCd9fSI+ZWl1c21vZCB0ZW1wb3I8L2E+PC9saT4KPGxpPjxhIGhyZWY9Int7c3RvcmUgZGlyZWN0X3VybD0nZWxlY3Ryb25pY3MuaHRtbCd9fSI+bGFib3JlIGV0IGRvbG9yZTwvYT48L2xpPgo8bGk+PGEgaHJlZj0ie3tzdG9yZSBkaXJlY3RfdXJsPSdlbGVjdHJvbmljcy5odG1sJ319Ij5sYWJvcmlzIG5pc2kgdXQ8L2E+PC9saT4KPGxpPjxhIGhyZWY9Int7c3RvcmUgZGlyZWN0X3VybD0nZWxlY3Ryb25pY3MuaHRtbCd9fSI+RHVpcyBhdXRlIGlydXJlPC9hPjwvbGk+CjwvdWw+";s:9:"css_class";s:0:"";s:13:"container_css";s:0:"";s:5:"depth";s:1:"3";}i:16;a:7:{s:4:"type";s:4:"vbox";s:5:"width";s:0:"";s:6:"height";s:0:"";s:7:"spacing";s:0:"";s:9:"css_class";s:6:"grid_3";s:13:"container_css";s:0:"";s:5:"depth";s:1:"2";}i:17;a:5:{s:4:"type";s:4:"text";s:4:"text";s:584:"PGg1PlBlbGxlbnRlc3F1ZTwvaDU+Cjx1bD4KPGxpPjxhIGhyZWY9Int7c3RvcmUgZGlyZWN0X3VybD0nZWxlY3Ryb25pY3MuaHRtbCd9fSI+YWRpcGlzaWNpbmcgZWxpdDwvYT48L2xpPgo8bGk+PGEgaHJlZj0ie3tzdG9yZSBkaXJlY3RfdXJsPSdlbGVjdHJvbmljcy5odG1sJ319Ij5wcm9pbiB2aXRhZSBkYXBpYnVzPC9hPjwvbGk+CjxsaT48YSBocmVmPSJ7e3N0b3JlIGRpcmVjdF91cmw9J2VsZWN0cm9uaWNzLmh0bWwnfX0iPmFsaXF1YW0gdm9sdXRwYXQ8L2E+PC9saT4KPGxpPjxhIGhyZWY9Int7c3RvcmUgZGlyZWN0X3VybD0nZWxlY3Ryb25pY3MuaHRtbCd9fSI+c2VkIHBsYWNlcmF0IGF1Z3VlPC9hPjwvbGk+CjxsaT48YSBocmVmPSJ7e3N0b3JlIGRpcmVjdF91cmw9J2VsZWN0cm9uaWNzLmh0bWwnfX0iPmxhYm9yaXMgbmlzaSB1dDwvYT48L2xpPgo8L3VsPg==";s:9:"css_class";s:0:"";s:13:"container_css";s:0:"";s:5:"depth";s:1:"3";}i:18;a:7:{s:4:"type";s:4:"vbox";s:5:"width";s:0:"";s:6:"height";s:0:"";s:7:"spacing";s:0:"";s:9:"css_class";s:12:"grid_3 omega";s:13:"container_css";s:0:"";s:5:"depth";s:1:"2";}i:19;a:5:{s:4:"type";s:4:"text";s:4:"text";s:564:"PGg1PkxvcmVtIGlwc3VtPC9oNT4KPHVsPgo8bGk+PGEgaHJlZj0ie3tzdG9yZSBkaXJlY3RfdXJsPSdlbGVjdHJvbmljcy5odG1sJ319Ij5jb25zZWN0ZXR1ciA8L2E+PC9saT4KPGxpPjxhIGhyZWY9Int7c3RvcmUgZGlyZWN0X3VybD0nZWxlY3Ryb25pY3MuaHRtbCd9fSI+ZWl1c21vZCB0ZW1wb3I8L2E+PC9saT4KPGxpPjxhIGhyZWY9Int7c3RvcmUgZGlyZWN0X3VybD0nZWxlY3Ryb25pY3MuaHRtbCd9fSI+bGFib3JlIGV0IGRvbG9yZTwvYT48L2xpPgo8bGk+PGEgaHJlZj0ie3tzdG9yZSBkaXJlY3RfdXJsPSdlbGVjdHJvbmljcy5odG1sJ319Ij5sYWJvcmlzIG5pc2kgdXQ8L2E+PC9saT4KPGxpPjxhIGhyZWY9Int7c3RvcmUgZGlyZWN0X3VybD0nZWxlY3Ryb25pY3MuaHRtbCd9fSI+RHVpcyBhdXRlIGlydXJlPC9hPjwvbGk+CjwvdWw+";s:9:"css_class";s:0:"";s:13:"container_css";s:0:"";s:5:"depth";s:1:"3";}i:20;a:7:{s:4:"type";s:4:"hbox";s:5:"width";s:0:"";s:6:"height";s:0:"";s:7:"spacing";s:0:"";s:9:"css_class";s:19:"grid_18 omega alpha";s:13:"container_css";s:0:"";s:5:"depth";s:1:"1";}i:21;a:7:{s:4:"type";s:4:"vbox";s:5:"width";s:0:"";s:6:"height";s:0:"";s:7:"spacing";s:0:"";s:9:"css_class";s:12:"grid_6 alpha";s:13:"container_css";s:0:"";s:5:"depth";s:1:"2";}i:22;a:5:{s:4:"type";s:4:"text";s:4:"text";s:388:"PHA+PGEgaHJlZj0iZWxlY3Ryb25pY3MuaHRtbCI+PGltZyBjbGFzcz0iZmx1aWQiIHNyYz0ie3ttZWRpYSB1cmw9Ind5c2l3eWcvaW1nX21lbnVfMS5qcGcifX0iIGFsdD0iIiAvPjwvYT48L3A+CjxwPkxvcmVtIGlwc3VtIGRvbG9yIHNpdCBhbWV0LCBjb25zZWN0ZXQgYWxpcXVhLiBVdCBlbmltIGFkIG1pbmltIHZlbmlhbSwgcXVpcyBub3N0cnVkIGV4ZXJjaXRhdGlvbiB1bGxhbWNvIGxhYm9yaXMgbmlzaSB1dCBhbGlxdWlwIGV4IGVhIGNvbW1vZG8gY29uc2VxdWF0LiBEdWlzIGF1dGUgaXJ1cmUgLjwvcD4=";s:9:"css_class";s:0:"";s:13:"container_css";s:0:"";s:5:"depth";s:1:"3";}i:23;a:7:{s:4:"type";s:4:"vbox";s:5:"width";s:0:"";s:6:"height";s:0:"";s:7:"spacing";s:0:"";s:9:"css_class";s:6:"grid_6";s:13:"container_css";s:0:"";s:5:"depth";s:1:"2";}i:24;a:5:{s:4:"type";s:4:"text";s:4:"text";s:552:"PHA+TG9yZW0gaXBzdW0gZG9sb3Igc2l0ICBpcnVyZSBkb2xvciBpbiByZXByZWhlbmRlcml0IGluIHZvbHVwdGF0ZSB2ZWxpdCBlc3NlIGNpbGx1bSBkb2xvcmUgZXUgZnVnaWF0IG51bGxhIHBhcmlhdHVyLiBFeGNlcHRldXIgc2ludCBvY2NhZWNhdCBjdXBpZGF0YXQgbm9uIHByb2lkZW50LCBzdW50IGluIGN1bHBhIHF1aSBvZmZpY2lhIGRlc2VydW50IG1vbGxpdCBhbmltIGlkIGVzdCBsYWJvcnVtLjwvcD4KCjxwPkxvcmVtIGlwc3VtIGRvbG9yIHNpdCBhbWV0LCBjb25zZWN0ZXQgYWxpcXVhLiBVdCBlbmltIGFkIG1pbmltIHZlbmlhbSwgcXVpcyBub3N0cnVkIGV4ZXJjaXRhdGlvbiB1bGxhbWNvIGxhYm9yaXMgbmlzaSB1dCBhbGlxdWlwIGV4IGVhIGNvbW1vZG8gY29uc2VxdWF0LiBEdWlzIGF1dGUgaXJ1cmUgLjwvcD4=";s:9:"css_class";s:0:"";s:13:"container_css";s:0:"";s:5:"depth";s:1:"3";}i:25;a:7:{s:4:"type";s:4:"vbox";s:5:"width";s:0:"";s:6:"height";s:0:"";s:7:"spacing";s:0:"";s:9:"css_class";s:12:"grid_6 omega";s:13:"container_css";s:0:"";s:5:"depth";s:1:"2";}i:26;a:5:{s:4:"type";s:4:"text";s:4:"text";s:552:"PHA+TG9yZW0gaXBzdW0gZG9sb3Igc2l0ICBpcnVyZSBkb2xvciBpbiByZXByZWhlbmRlcml0IGluIHZvbHVwdGF0ZSB2ZWxpdCBlc3NlIGNpbGx1bSBkb2xvcmUgZXUgZnVnaWF0IG51bGxhIHBhcmlhdHVyLiBFeGNlcHRldXIgc2ludCBvY2NhZWNhdCBjdXBpZGF0YXQgbm9uIHByb2lkZW50LCBzdW50IGluIGN1bHBhIHF1aSBvZmZpY2lhIGRlc2VydW50IG1vbGxpdCBhbmltIGlkIGVzdCBsYWJvcnVtLjwvcD4KCjxwPkxvcmVtIGlwc3VtIGRvbG9yIHNpdCBhbWV0LCBjb25zZWN0ZXQgYWxpcXVhLiBVdCBlbmltIGFkIG1pbmltIHZlbmlhbSwgcXVpcyBub3N0cnVkIGV4ZXJjaXRhdGlvbiB1bGxhbWNvIGxhYm9yaXMgbmlzaSB1dCBhbGlxdWlwIGV4IGVhIGNvbW1vZG8gY29uc2VxdWF0LiBEdWlzIGF1dGUgaXJ1cmUgLjwvcD4=";s:9:"css_class";s:0:"";s:13:"container_css";s:0:"";s:5:"depth";s:1:"3";}i:27;a:8:{s:4:"type";s:4:"link";s:5:"label";s:25:"Mobiles &amp; Accessories";s:8:"sublabel";s:0:"";s:3:"url";s:51:"{{store direct_url="electronics/cell-phones.html"}}";s:6:"target";s:0:"";s:9:"css_class";s:5:"icon3";s:13:"container_css";s:0:"";s:5:"depth";s:1:"0";}i:28;a:7:{s:4:"type";s:4:"hbox";s:5:"width";s:0:"";s:6:"height";s:0:"";s:7:"spacing";s:0:"";s:9:"css_class";s:19:"grid_18 omega alpha";s:13:"container_css";s:0:"";s:5:"depth";s:1:"1";}i:29;a:7:{s:4:"type";s:4:"vbox";s:5:"width";s:0:"";s:6:"height";s:0:"";s:7:"spacing";s:0:"";s:9:"css_class";s:12:"grid_6 alpha";s:13:"container_css";s:0:"";s:5:"depth";s:1:"2";}i:30;a:5:{s:4:"type";s:4:"text";s:4:"text";s:1264:"PHA+PGEgaHJlZj0iZWxlY3Ryb25pY3MuaHRtbCI+PGltZyBzcmM9Int7bWVkaWEgdXJsPSJ3eXNpd3lnL2ltZ19tZW51XzIucG5nIn19IiBhbHQ9IiIgLz48L2E+PC9wPgo8cD48c21hbGw+TG9yZW0gaXBzdW0gZG9sb3Igc2l0IGFtZXQsIGNvbnNlY3RldHVyIGFkaXBpc2ljaW5nIGVsaXQsIHNlZCBkbyBlaXVzbW9kIHRlbXBvciBpbmNpZGlkdW50IHV0IGxhYm9yZSBldCBkb2xvcmUgbWFnbmEgYWxpcXVhLiBVdCBlbmltIGFkIG1pbmltIHZlbmlhbSwgcXVpcyBub3N0cnVkIGV4ZXJjaXRhdGlvbiB1bGxhbWNvIGxhYm9yaXMgbmlzaSB1dCBhbGlxdWlwIGV4IGVhIGNvbW1vZG8gY29uc2VxdWF0LiBEdWlzIGF1dGUgaXJ1cmUgZG9sb3IgaW4gcmVwcmVoZW5kZXJpdCBpbiB2b2x1cHRhdGUgdmVsaXQgZXNzZSBjaWxsdW0gZG9sb3JlIGV1IGZ1Z2lhdCBudWxsYSBwYXJpYXR1ci48L3NtYWxsPjwvcD4KPGg1PlRvcCBmYXZvcml0ZTwvaDU+CjxkaXYgY2xhc3M9Im5vX3F1aWNrc2hvcCI+e3t3aWRnZXQgdHlwZT0iZHluYW1pY3Byb2R1Y3RzL2R5bmFtaWNwcm9kdWN0cyIgb3JkZXJfYnk9Im5hbWUgYXNjIiBmZWF0dXJlZF9jaG9vc2U9ImVtX2ZlYXR1cmVkIiBsaW1pdF9jb3VudD0iMSIgY3VzdG9tX2NsYXNzPSJub19xdWlja3Nob3AiIHRodW1ibmFpbF93aWR0aD0iMTAwIiB0aHVtYm5haWxfaGVpZ2h0PSIxMDAiIHNob3dfcHJvZHVjdF9uYW1lPSJ0cnVlIiBzaG93X3RodW1ibmFpbD0idHJ1ZSIgYWx0X2ltZz0idGh1bWJuYWlsIiBzaG93X2Rlc2NyaXB0aW9uPSJ0cnVlIiBzaG93X3ByaWNlPSJ0cnVlIiBzaG93X3Jldmlld3M9InRydWUiIHNob3dfYWRkdG9jYXJ0PSJmYWxzZSIgc2hvd19hZGR0bz0iZmFsc2UiIHNob3dfbGFiZWw9InRydWUiIGNob29zZV90ZW1wbGF0ZT0iZW1fZmVhdHVyZWRfcHJvZHVjdHMvZmVhdHVyZWRfbGlzdC5waHRtbCJ9fTwvZGl2Pg==";s:9:"css_class";s:0:"";s:13:"container_css";s:0:"";s:5:"depth";s:1:"3";}i:31;a:7:{s:4:"type";s:4:"vbox";s:5:"width";s:0:"";s:6:"height";s:0:"";s:7:"spacing";s:0:"";s:9:"css_class";s:6:"grid_3";s:13:"container_css";s:0:"";s:5:"depth";s:1:"2";}i:32;a:5:{s:4:"type";s:4:"text";s:4:"text";s:1000:"PGg1PlBlbGxlbnRlc3F1ZTwvaDU+Cjx1bD4KPGxpPjxhIGhyZWY9Int7c3RvcmUgZGlyZWN0X3VybD0nZWxlY3Ryb25pY3MuaHRtbCd9fSI+YWRpcGlzaWNpbmcgZWxpdDwvYT48L2xpPgo8bGk+PGEgaHJlZj0ie3tzdG9yZSBkaXJlY3RfdXJsPSdlbGVjdHJvbmljcy5odG1sJ319Ij5wcm9pbiB2aXRhZSBkYXBpYnVzPC9hPjwvbGk+CjxsaT48YSBocmVmPSJ7e3N0b3JlIGRpcmVjdF91cmw9J2VsZWN0cm9uaWNzLmh0bWwnfX0iPmFsaXF1YW0gdm9sdXRwYXQ8L2E+PC9saT4KPGxpPjxhIGhyZWY9Int7c3RvcmUgZGlyZWN0X3VybD0nZWxlY3Ryb25pY3MuaHRtbCd9fSI+c2VkIHBsYWNlcmF0IGF1Z3VlPC9hPjwvbGk+CjxsaT48YSBocmVmPSJ7e3N0b3JlIGRpcmVjdF91cmw9J2VsZWN0cm9uaWNzLmh0bWwnfX0iPm1hdXJpcyByaG9uY3VzPC9hPjwvbGk+CjxsaT48YSBocmVmPSJ7e3N0b3JlIGRpcmVjdF91cmw9J2VsZWN0cm9uaWNzLmh0bWwnfX0iPnB1cnVzIGVyb3M8L2E+PC9saT4KPGxpPjxhIGhyZWY9Int7c3RvcmUgZGlyZWN0X3VybD0nZWxlY3Ryb25pY3MuaHRtbCd9fSI+c2VkIHRpbmNpZHVudCBkaWFtPC9hPjwvbGk+CjxsaT48YSBocmVmPSJ7e3N0b3JlIGRpcmVjdF91cmw9J2VsZWN0cm9uaWNzLmh0bWwnfX0iPmxhY3VzIGFjIHRlbGx1czwvYT48L2xpPgo8bGk+PGEgaHJlZj0ie3tzdG9yZSBkaXJlY3RfdXJsPSdlbGVjdHJvbmljcy5odG1sJ319Ij5hZGlwaXNpY2luZyBlbGl0PC9hPjwvbGk+CjwvdWw+";s:9:"css_class";s:0:"";s:13:"container_css";s:0:"";s:5:"depth";s:1:"3";}i:33;a:7:{s:4:"type";s:4:"vbox";s:5:"width";s:0:"";s:6:"height";s:0:"";s:7:"spacing";s:0:"";s:9:"css_class";s:6:"grid_3";s:13:"container_css";s:0:"";s:5:"depth";s:1:"2";}i:34;a:5:{s:4:"type";s:4:"text";s:4:"text";s:900:"PGg1PlByYWVzZW50IHRlbXBvcjwvaDU+Cjx1bD4KPGxpPjxhIGhyZWY9Int7c3RvcmUgZGlyZWN0X3VybD0nZWxlY3Ryb25pY3MuaHRtbCd9fSI+bWF1cmlzIHJob25jdXM8L2E+PC9saT4KPGxpPjxhIGhyZWY9Int7c3RvcmUgZGlyZWN0X3VybD0nZWxlY3Ryb25pY3MuaHRtbCd9fSI+cHVydXMgZXJvczwvYT48L2xpPgo8bGk+PGEgaHJlZj0ie3tzdG9yZSBkaXJlY3RfdXJsPSdlbGVjdHJvbmljcy5odG1sJ319Ij5zZWQgdGluY2lkdW50IGRpYW08L2E+PC9saT4KPGxpPjxhIGhyZWY9Int7c3RvcmUgZGlyZWN0X3VybD0nZWxlY3Ryb25pY3MuaHRtbCd9fSI+bGFjdXMgYWMgdGVsbHVzPC9hPjwvbGk+CjxsaT48YSBocmVmPSJ7e3N0b3JlIGRpcmVjdF91cmw9J2VsZWN0cm9uaWNzLmh0bWwnfX0iPmFkaXBpc2ljaW5nIGVsaXQ8L2E+PC9saT4KPGxpPjxhIGhyZWY9Int7c3RvcmUgZGlyZWN0X3VybD0nZWxlY3Ryb25pY3MuaHRtbCd9fSI+cHJvaW4gdml0YWUgZGFwaWJ1czwvYT48L2xpPgo8bGk+PGEgaHJlZj0ie3tzdG9yZSBkaXJlY3RfdXJsPSdlbGVjdHJvbmljcy5odG1sJ319Ij5hbGlxdWFtIHZvbHV0cGF0PC9hPjwvbGk+CjxsaT48YSBocmVmPSJ7e3N0b3JlIGRpcmVjdF91cmw9J2VsZWN0cm9uaWNzLmh0bWwnfX0iPnNlZCBwbGFjZXJhdCBhdWd1ZTwvYT48L2xpPgo8L3VsPg==";s:9:"css_class";s:0:"";s:13:"container_css";s:0:"";s:5:"depth";s:1:"3";}i:35;a:7:{s:4:"type";s:4:"vbox";s:5:"width";s:0:"";s:6:"height";s:0:"";s:7:"spacing";s:0:"";s:9:"css_class";s:12:"grid_6 omega";s:13:"container_css";s:0:"";s:5:"depth";s:1:"2";}i:36;a:5:{s:4:"type";s:4:"text";s:4:"text";s:636:"PGg1PlBsYWNlcmF0IHBvcnRhPC9oNT4KPHA+PGRpdiBjbGFzcz0ianMtdmlkZW8gd2lkZXNjcmVlbiI+PGlmcmFtZSBzcmM9Imh0dHA6Ly93d3cueW91dHViZS1ub2Nvb2tpZS5jb20vZW1iZWQveUFWTXhKeVVkdjA/cmVsPTAiIGZyYW1lYm9yZGVyPSIwIiB3aWR0aD0iMzcwIiBoZWlnaHQ9IjIwOCI+PC9pZnJhbWU+PC9kaXY+PC9wPgo8cD48c21hbGw+cmVtIGlwc3VtIGRvbG9yIHNpdCBhbWV0LCBjb25zZWN0ZXR1ciBhZGlwaXNpY2luZyBlbGl0LCBzZWQgZG8gZWl1c21vZCB0ZW1wb3IgaW5jaWRpZHVudCB1dCBsYWJvcmUgZXQgZG9sb3JlIG1hZ25hIGFsaXF1YS4gVXQgZW5pbSBhZCBtaW5pbSB2ZW5pYW0sIHF1aXMgbm9zdHJ1ZCBleGVyY2l0YXRpb24gdWxsYW1jbyBsYWJvcmlzIG5pc2kgdXQgYWxpcXVpcCBleCBlYSBjb21tb2RvIGNvbnNlcXVhdC4gRHVpcyBhdXRlIGlydXJlIGRvbG9yIGluIHJlcHJlaGU8L3NtYWxsPjwvcD4=";s:9:"css_class";s:0:"";s:13:"container_css";s:0:"";s:5:"depth";s:1:"3";}i:37;a:8:{s:4:"type";s:4:"link";s:5:"label";s:9:"Computers";s:8:"sublabel";s:0:"";s:3:"url";s:49:"{{store direct_url="electronics/computers.html"}}";s:6:"target";s:0:"";s:9:"css_class";s:5:"icon4";s:13:"container_css";s:0:"";s:5:"depth";s:1:"0";}i:38;a:7:{s:4:"type";s:4:"hbox";s:5:"width";s:0:"";s:6:"height";s:0:"";s:7:"spacing";s:0:"";s:9:"css_class";s:0:"";s:13:"container_css";s:0:"";s:5:"depth";s:1:"1";}i:39;a:7:{s:4:"type";s:4:"vbox";s:5:"width";s:0:"";s:6:"height";s:0:"";s:7:"spacing";s:0:"";s:9:"css_class";s:0:"";s:13:"container_css";s:0:"";s:5:"depth";s:1:"2";}i:40;a:5:{s:4:"type";s:4:"text";s:4:"text";s:972:"PHVsPgo8bGk+PGEgaHJlZj0ie3tzdG9yZSBkaXJlY3RfdXJsPSdlbGVjdHJvbmljcy5odG1sJ319Ij5hZGlwaXNpY2luZyBlbGl0PC9hPjwvbGk+CjxsaT48YSBocmVmPSJ7e3N0b3JlIGRpcmVjdF91cmw9J2VsZWN0cm9uaWNzLmh0bWwnfX0iPnByb2luIHZpdGFlIGRhcGlidXM8L2E+PC9saT4KPGxpPjxhIGhyZWY9Int7c3RvcmUgZGlyZWN0X3VybD0nZWxlY3Ryb25pY3MuaHRtbCd9fSI+YWxpcXVhbSB2b2x1dHBhdDwvYT48L2xpPgo8bGk+PGEgaHJlZj0ie3tzdG9yZSBkaXJlY3RfdXJsPSdlbGVjdHJvbmljcy5odG1sJ319Ij5zZWQgcGxhY2VyYXQgYXVndWU8L2E+PC9saT4KPGxpPjxhIGhyZWY9Int7c3RvcmUgZGlyZWN0X3VybD0nZWxlY3Ryb25pY3MuaHRtbCd9fSI+bWF1cmlzIHJob25jdXM8L2E+PC9saT4KPGxpPjxhIGhyZWY9Int7c3RvcmUgZGlyZWN0X3VybD0nZWxlY3Ryb25pY3MuaHRtbCd9fSI+cHVydXMgZXJvczwvYT48L2xpPgo8bGk+PGEgaHJlZj0ie3tzdG9yZSBkaXJlY3RfdXJsPSdlbGVjdHJvbmljcy5odG1sJ319Ij5zZWQgdGluY2lkdW50IGRpYW08L2E+PC9saT4KPGxpPjxhIGhyZWY9Int7c3RvcmUgZGlyZWN0X3VybD0nZWxlY3Ryb25pY3MuaHRtbCd9fSI+bGFjdXMgYWMgdGVsbHVzPC9hPjwvbGk+CjxsaT48YSBocmVmPSJ7e3N0b3JlIGRpcmVjdF91cmw9J2VsZWN0cm9uaWNzLmh0bWwnfX0iPmFkaXBpc2ljaW5nIGVsaXQ8L2E+PC9saT4KPC91bD4=";s:9:"css_class";s:0:"";s:13:"container_css";s:0:"";s:5:"depth";s:1:"3";}i:41;a:8:{s:4:"type";s:4:"link";s:5:"label";s:27:"Watches, Bags &amp; Wallets";s:8:"sublabel";s:0:"";s:3:"url";s:35:"{{store direct_url="apparel.html"}}";s:6:"target";s:0:"";s:9:"css_class";s:5:"icon5";s:13:"container_css";s:0:"";s:5:"depth";s:1:"0";}i:42;a:7:{s:4:"type";s:4:"hbox";s:5:"width";s:0:"";s:6:"height";s:0:"";s:7:"spacing";s:0:"";s:9:"css_class";s:19:"grid_18 omega alpha";s:13:"container_css";s:0:"";s:5:"depth";s:1:"1";}i:43;a:7:{s:4:"type";s:4:"vbox";s:5:"width";s:0:"";s:6:"height";s:0:"";s:7:"spacing";s:0:"";s:9:"css_class";s:0:"";s:13:"container_css";s:0:"";s:5:"depth";s:1:"2";}i:44;a:5:{s:4:"type";s:4:"text";s:4:"text";s:560:"PHAgY2xhc3M9ImltYWdlcyI+PGEgaHJlZj0iIyI+PGltZyBzcmM9Int7bWVkaWEgdXJsPSJ3eXNpd3lnLzEucG5nIn19IiBhbHQ9IiIgLz48L2E+PGEgaHJlZj0iIyI+PGltZyBzcmM9Int7bWVkaWEgdXJsPSJ3eXNpd3lnLzIucG5nIn19IiBhbHQ9IiIgLz48L2E+PGEgaHJlZj0iIyI+PGltZyBzcmM9Int7bWVkaWEgdXJsPSJ3eXNpd3lnLzMucG5nIn19IiBhbHQ9IiIgLz48L2E+PGEgaHJlZj0iIyI+PGltZyBzcmM9Int7bWVkaWEgdXJsPSJ3eXNpd3lnLzQucG5nIn19IiBhbHQ9IiIgLz48L2E+PGEgaHJlZj0iIyI+PGltZyBzcmM9Int7bWVkaWEgdXJsPSJ3eXNpd3lnLzUucG5nIn19IiBhbHQ9IiIgLz48L2E+PGEgaHJlZj0iIyI+PGltZyBzcmM9Int7bWVkaWEgdXJsPSJ3eXNpd3lnLzYucG5nIn19IiBhbHQ9IiIgLz48L2E+PC9wPg==";s:9:"css_class";s:0:"";s:13:"container_css";s:0:"";s:5:"depth";s:1:"3";}i:45;a:8:{s:4:"type";s:4:"link";s:5:"label";s:7:"Cameras";s:8:"sublabel";s:0:"";s:3:"url";s:47:"{{store direct_url="electronics/cameras.html"}}";s:6:"target";s:0:"";s:9:"css_class";s:5:"icon6";s:13:"container_css";s:0:"";s:5:"depth";s:1:"0";}i:46;a:7:{s:4:"type";s:4:"hbox";s:5:"width";s:0:"";s:6:"height";s:0:"";s:7:"spacing";s:0:"";s:9:"css_class";s:19:"grid_18 omega alpha";s:13:"container_css";s:0:"";s:5:"depth";s:1:"1";}i:47;a:7:{s:4:"type";s:4:"vbox";s:5:"width";s:0:"";s:6:"height";s:0:"";s:7:"spacing";s:0:"";s:9:"css_class";s:12:"grid_6 alpha";s:13:"container_css";s:0:"";s:5:"depth";s:1:"2";}i:48;a:5:{s:4:"type";s:4:"text";s:4:"text";s:1140:"PHA+PGEgaHJlZj0iIyI+PGltZyBzcmM9Int7bWVkaWEgdXJsPSJ3eXNpd3lnL2ltZ19tZW51XzIucG5nIn19IiBhbHQ9IiIgLz48L2E+PC9wPgo8cD48c21hbGw+TG9yZW0gaXBzdW0gZG9sb3Igc2l0IGFtZXQsIGNvbnNlY3RldHVyIGFkaXBpc2ljaW5nIGVsaXQsIHNlZCBkbyBlaXVzbW9kIHRlbXBvciBpbmNpZGlkdW50IHV0IGxhYm9yZSBldCBkb2xvcmUgbWFnbmEgYWxpcXVhLiBVdCBlbmltIGFkIG1pbmltIHZlbmlhbSwgcXVpcyBub3N0cnVkIGV4ZXJjaXRhdGlvbiB1bGxhbWNvIGxhYm9yaXMgbmlzaSB1dCBhbGlxdWlwIGV4IGVhIGNvbW1vZG8gY29uc2VxdWF0LiBEdWlzIGF1dGUgaXJ1cmUgZG9sb3IgaW4gcmVwcmVoZW5kZXJpdCBpbiB2b2x1cHRhdGUgdmVsaXQgZXNzZSBjaWxsdW0gZG9sb3JlIGV1IGZ1Z2lhdCBudWxsYSBwYXJpYXR1ci48L3NtYWxsPjwvcD4KPHA+TG9yZW0gaXBzdW0gZG9sb3Igc2l0ICBpcnVyZSBkb2xvciBpbiByZXByZWhlbmRlcml0IGluIHZvbHVwdGF0ZSB2ZWxpdCBlc3NlIGNpbGx1bSBkb2xvcmUgZXUgZnVnaWF0IG51bGxhIHBhcmlhdHVyLiBFeGNlcHRldXIgc2ludCBvY2NhZWNhdCBjdXBpZGF0YXQgbm9uIHByb2lkZW50LCBzdW50IGluIGN1bHBhIHF1aSBvZmZpY2lhIGRlc2VydW50IG1vbGxpdCBhbmltIGlkIGVzdCBsYWJvcnVtLjwvcD4KCjxwPkxvcmVtIGlwc3VtIGRvbG9yIHNpdCBhbWV0LCBjb25zZWN0ZXQgYWxpcXVhLiBVdCBlbmltIGFkIG1pbmltIHZlbmlhbSwgcXVpcyBub3N0cnVkIGV4ZXJjaXRhdGlvbiB1bGxhbWNvIGxhYm9yaXMgbmlzaSB1dCBhbGlxdWlwIGV4IGVhIGNvbW1vZG8gY29uc2VxdWF0LiBEdWlzIGF1dGUgaXJ1cmUgLjwvcD4=";s:9:"css_class";s:0:"";s:13:"container_css";s:0:"";s:5:"depth";s:1:"3";}i:49;a:7:{s:4:"type";s:4:"vbox";s:5:"width";s:0:"";s:6:"height";s:0:"";s:7:"spacing";s:0:"";s:9:"css_class";s:6:"grid_3";s:13:"container_css";s:0:"";s:5:"depth";s:1:"2";}i:50;a:5:{s:4:"type";s:4:"text";s:4:"text";s:1000:"PGg1PlBlbGxlbnRlc3F1ZTwvaDU+Cjx1bD4KPGxpPjxhIGhyZWY9Int7c3RvcmUgZGlyZWN0X3VybD0nZWxlY3Ryb25pY3MuaHRtbCd9fSI+YWRpcGlzaWNpbmcgZWxpdDwvYT48L2xpPgo8bGk+PGEgaHJlZj0ie3tzdG9yZSBkaXJlY3RfdXJsPSdlbGVjdHJvbmljcy5odG1sJ319Ij5wcm9pbiB2aXRhZSBkYXBpYnVzPC9hPjwvbGk+CjxsaT48YSBocmVmPSJ7e3N0b3JlIGRpcmVjdF91cmw9J2VsZWN0cm9uaWNzLmh0bWwnfX0iPmFsaXF1YW0gdm9sdXRwYXQ8L2E+PC9saT4KPGxpPjxhIGhyZWY9Int7c3RvcmUgZGlyZWN0X3VybD0nZWxlY3Ryb25pY3MuaHRtbCd9fSI+c2VkIHBsYWNlcmF0IGF1Z3VlPC9hPjwvbGk+CjxsaT48YSBocmVmPSJ7e3N0b3JlIGRpcmVjdF91cmw9J2VsZWN0cm9uaWNzLmh0bWwnfX0iPm1hdXJpcyByaG9uY3VzPC9hPjwvbGk+CjxsaT48YSBocmVmPSJ7e3N0b3JlIGRpcmVjdF91cmw9J2VsZWN0cm9uaWNzLmh0bWwnfX0iPnB1cnVzIGVyb3M8L2E+PC9saT4KPGxpPjxhIGhyZWY9Int7c3RvcmUgZGlyZWN0X3VybD0nZWxlY3Ryb25pY3MuaHRtbCd9fSI+c2VkIHRpbmNpZHVudCBkaWFtPC9hPjwvbGk+CjxsaT48YSBocmVmPSJ7e3N0b3JlIGRpcmVjdF91cmw9J2VsZWN0cm9uaWNzLmh0bWwnfX0iPmxhY3VzIGFjIHRlbGx1czwvYT48L2xpPgo8bGk+PGEgaHJlZj0ie3tzdG9yZSBkaXJlY3RfdXJsPSdlbGVjdHJvbmljcy5odG1sJ319Ij5hZGlwaXNpY2luZyBlbGl0PC9hPjwvbGk+CjwvdWw+";s:9:"css_class";s:0:"";s:13:"container_css";s:0:"";s:5:"depth";s:1:"3";}i:51;a:7:{s:4:"type";s:4:"vbox";s:5:"width";s:0:"";s:6:"height";s:0:"";s:7:"spacing";s:0:"";s:9:"css_class";s:6:"grid_3";s:13:"container_css";s:0:"";s:5:"depth";s:1:"2";}i:52;a:5:{s:4:"type";s:4:"text";s:4:"text";s:900:"PGg1PlByYWVzZW50IHRlbXBvcjwvaDU+Cjx1bD4KPGxpPjxhIGhyZWY9Int7c3RvcmUgZGlyZWN0X3VybD0nZWxlY3Ryb25pY3MuaHRtbCd9fSI+bWF1cmlzIHJob25jdXM8L2E+PC9saT4KPGxpPjxhIGhyZWY9Int7c3RvcmUgZGlyZWN0X3VybD0nZWxlY3Ryb25pY3MuaHRtbCd9fSI+cHVydXMgZXJvczwvYT48L2xpPgo8bGk+PGEgaHJlZj0ie3tzdG9yZSBkaXJlY3RfdXJsPSdlbGVjdHJvbmljcy5odG1sJ319Ij5zZWQgdGluY2lkdW50IGRpYW08L2E+PC9saT4KPGxpPjxhIGhyZWY9Int7c3RvcmUgZGlyZWN0X3VybD0nZWxlY3Ryb25pY3MuaHRtbCd9fSI+bGFjdXMgYWMgdGVsbHVzPC9hPjwvbGk+CjxsaT48YSBocmVmPSJ7e3N0b3JlIGRpcmVjdF91cmw9J2VsZWN0cm9uaWNzLmh0bWwnfX0iPmFkaXBpc2ljaW5nIGVsaXQ8L2E+PC9saT4KPGxpPjxhIGhyZWY9Int7c3RvcmUgZGlyZWN0X3VybD0nZWxlY3Ryb25pY3MuaHRtbCd9fSI+cHJvaW4gdml0YWUgZGFwaWJ1czwvYT48L2xpPgo8bGk+PGEgaHJlZj0ie3tzdG9yZSBkaXJlY3RfdXJsPSdlbGVjdHJvbmljcy5odG1sJ319Ij5hbGlxdWFtIHZvbHV0cGF0PC9hPjwvbGk+CjxsaT48YSBocmVmPSJ7e3N0b3JlIGRpcmVjdF91cmw9J2VsZWN0cm9uaWNzLmh0bWwnfX0iPnNlZCBwbGFjZXJhdCBhdWd1ZTwvYT48L2xpPgo8L3VsPg==";s:9:"css_class";s:0:"";s:13:"container_css";s:0:"";s:5:"depth";s:1:"3";}i:53;a:7:{s:4:"type";s:4:"vbox";s:5:"width";s:0:"";s:6:"height";s:0:"";s:7:"spacing";s:0:"";s:9:"css_class";s:12:"grid_6 omega";s:13:"container_css";s:0:"";s:5:"depth";s:1:"2";}i:54;a:5:{s:4:"type";s:4:"text";s:4:"text";s:664:"PGg1PkZhcm92aXRlIEZldWdpYXRzZWQ8L2g1Pgo8ZGl2IGNsYXNzPSJub19xdWlja3Nob3AiPnt7d2lkZ2V0IHR5cGU9ImR5bmFtaWNwcm9kdWN0cy9keW5hbWljcHJvZHVjdHMiIG9yZGVyX2J5PSJuYW1lIGFzYyIgZmVhdHVyZWRfY2hvb3NlPSJlbV9mZWF0dXJlZCIgbGltaXRfY291bnQ9IjEiIGN1c3RvbV9jbGFzcz0ibm9fcXVpY2tzaG9wIiB0aHVtYm5haWxfd2lkdGg9IjI2MCIgdGh1bWJuYWlsX2hlaWdodD0iMjYwIiBzaG93X3Byb2R1Y3RfbmFtZT0idHJ1ZSIgc2hvd190aHVtYm5haWw9InRydWUiIGFsdF9pbWc9InRodW1ibmFpbCIgc2hvd19kZXNjcmlwdGlvbj0idHJ1ZSIgc2hvd19wcmljZT0idHJ1ZSIgc2hvd19yZXZpZXdzPSJ0cnVlIiBzaG93X2FkZHRvY2FydD0iZmFsc2UiIHNob3dfYWRkdG89ImZhbHNlIiBzaG93X2xhYmVsPSJ0cnVlIiBjaG9vc2VfdGVtcGxhdGU9ImVtX2ZlYXR1cmVkX3Byb2R1Y3RzL2ZlYXR1cmVkX2dyaWQucGh0bWwifX08L2Rpdj4=";s:9:"css_class";s:0:"";s:13:"container_css";s:0:"";s:5:"depth";s:1:"3";}i:55;a:8:{s:4:"type";s:4:"link";s:5:"label";s:28:"Books, Pens &amp; Stationery";s:8:"sublabel";s:0:"";s:3:"url";s:37:"{{store direct_url="furniture.html"}}";s:6:"target";s:0:"";s:9:"css_class";s:5:"icon7";s:13:"container_css";s:0:"";s:5:"depth";s:1:"0";}i:56;a:5:{s:4:"type";s:4:"text";s:4:"text";s:112:"e3tibG9jayB0eXBlPSJtZWdhbWVudXByby9jYXRhbG9nbmF2aWdhdGlvbiIgbmFtZT0ibWFpbm1lZ2FtZW51IiBjYXRlZ29yeV9pZD0iMyJ9fQ==";s:9:"css_class";s:0:"";s:13:"container_css";s:0:"";s:5:"depth";s:1:"1";}i:57;a:8:{s:4:"type";s:4:"link";s:5:"label";s:18:"Home &amp; Kitchen";s:8:"sublabel";s:0:"";s:3:"url";s:41:"{{store direct_url="apparel/shoes.html"}}";s:6:"target";s:0:"";s:9:"css_class";s:5:"icon8";s:13:"container_css";s:0:"";s:5:"depth";s:1:"0";}i:58;a:5:{s:4:"type";s:4:"text";s:4:"text";s:144:"e3tibG9jayB0eXBlPSJtZWdhbWVudXByby9jYXRhbG9nbmF2aWdhdGlvbiIgbmFtZT0ibWFpbm1lZ2FtZW51IiBjYXRlZ29yeV9pZD0iMyIgY3NzX2NsYXNzPSJob3Jpem9udGFsIn19Cg==";s:9:"css_class";s:0:"";s:13:"container_css";s:0:"";s:5:"depth";s:1:"1";}i:59;a:8:{s:4:"type";s:4:"link";s:5:"label";s:26:"Beauty &amp; Personal Care";s:8:"sublabel";s:0:"";s:3:"url";s:35:"{{store direct_url="apparel.html"}}";s:6:"target";s:0:"";s:9:"css_class";s:5:"icon9";s:13:"container_css";s:0:"";s:5:"depth";s:1:"0";}i:60;a:8:{s:4:"type";s:4:"link";s:5:"label";s:7:"Gamming";s:8:"sublabel";s:0:"";s:3:"url";s:39:"{{store direct_url="electronics.html"}}";s:6:"target";s:0:"";s:9:"css_class";s:6:"icon10";s:13:"container_css";s:0:"";s:5:"depth";s:1:"0";}i:61;a:8:{s:4:"type";s:4:"link";s:5:"label";s:22:"TV &amp; Video & Audio";s:8:"sublabel";s:0:"";s:3:"url";s:57:"{{store direct_url="electronics/computers/laptops.html"}}";s:6:"target";s:0:"";s:9:"css_class";s:6:"icon11";s:13:"container_css";s:0:"";s:5:"depth";s:1:"0";}i:62;a:8:{s:4:"type";s:4:"link";s:5:"label";s:19:"Music &amp; Posters";s:8:"sublabel";s:0:"";s:3:"url";s:35:"{{store direct_url="apparel.html"}}";s:6:"target";s:0:"";s:9:"css_class";s:6:"icon12";s:13:"container_css";s:0:"";s:5:"depth";s:1:"0";}i:63;a:8:{s:4:"type";s:4:"link";s:5:"label";s:20:"Baby Care &amp; Toys";s:8:"sublabel";s:0:"";s:3:"url";s:37:"{{store direct_url="furniture.html"}}";s:6:"target";s:0:"";s:9:"css_class";s:6:"icon13";s:13:"container_css";s:0:"";s:5:"depth";s:1:"0";}i:64;a:8:{s:4:"type";s:4:"link";s:5:"label";s:20:"Sports &amp; Fitness";s:8:"sublabel";s:0:"";s:3:"url";s:41:"{{store direct_url="apparel/shoes.html"}}";s:6:"target";s:0:"";s:9:"css_class";s:6:"icon14";s:13:"container_css";s:0:"";s:5:"depth";s:1:"0";}i:65;a:8:{s:4:"type";s:4:"link";s:5:"label";s:13:"eBooks (Beta)";s:8:"sublabel";s:0:"";s:3:"url";s:51:"{{store direct_url="electronics/cell-phones.html"}}";s:6:"target";s:0:"";s:9:"css_class";s:6:"icon15";s:13:"container_css";s:0:"";s:5:"depth";s:1:"0";}i:66;a:8:{s:4:"type";s:4:"link";s:5:"label";s:13:"MP3 Downloads";s:8:"sublabel";s:0:"";s:3:"url";s:57:"{{store direct_url="electronics/computers/laptops.html"}}";s:6:"target";s:0:"";s:9:"css_class";s:6:"icon16";s:13:"container_css";s:0:"";s:5:"depth";s:1:"0";}}]]></content>
+    </menu>
+  </megamenu>
+  <widget_instance>
+    <widget id="1">
+      <instance_id><![CDATA[1]]></instance_id>
+      <title><![CDATA[Gala Electronues Main Menu]]></title>
+      <store_ids><![CDATA[a:1:{i:0;i:0;}]]></store_ids>
+      <widget_parameters><![CDATA[a:1:{s:4:"menu";s:1:"2";}]]></widget_parameters>
+      <sort_order><![CDATA[0]]></sort_order>
+      <page_groups><![CDATA[a:1:{i:0;a:2:{s:10:"page_group";s:9:"all_pages";s:9:"all_pages";a:6:{s:7:"page_id";s:1:"1";s:5:"group";s:9:"all_pages";s:5:"block";s:8:"top.menu";s:9:"for_value";s:3:"all";s:13:"layout_handle";s:7:"default";s:8:"template";s:0:"";}}}]]></page_groups>
+      <instance_type><![CDATA[megamenupro/megamenupro]]></instance_type>
+      <package_theme><![CDATA[default/galaelectronues]]></package_theme>
+    </widget>
+    <widget id="2">
+      <instance_id><![CDATA[2]]></instance_id>
+      <title><![CDATA[Gala Electronues Main Slideshow - Area03]]></title>
+      <store_ids><![CDATA[a:1:{i:0;i:0;}]]></store_ids>
+      <widget_parameters><![CDATA[a:50:{s:5:"text1";s:269:"<span class="slideshow-more">conseq magna</span> <span class="slideshow-des">Conseq magna eget ante hendrerit sed sollicitudin velit ullamcorper. Aenean enim sapie nulla vehicula tellus id libero dignissim </span><div class="discover-now"><a href="#">shop now</a></div>";s:12:"thumbsimage1";s:0:"";s:4:"url1";s:14:"furniture.html";s:6:"image1";s:10:"slide1.png";s:5:"text2";s:269:"<span class="slideshow-more">conseq magna</span> <span class="slideshow-des">Conseq magna eget ante hendrerit sed sollicitudin velit ullamcorper. Aenean enim sapie nulla vehicula tellus id libero dignissim </span><div class="discover-now"><a href="#">shop now</a></div>";s:12:"thumbsimage2";s:0:"";s:4:"url2";s:16:"electronics.html";s:6:"image2";s:10:"slide2.png";s:5:"text3";s:269:"<span class="slideshow-more">conseq magna</span> <span class="slideshow-des">Conseq magna eget ante hendrerit sed sollicitudin velit ullamcorper. Aenean enim sapie nulla vehicula tellus id libero dignissim </span><div class="discover-now"><a href="#">shop now</a></div>";s:12:"thumbsimage3";s:0:"";s:4:"url3";s:12:"apparel.html";s:6:"image3";s:10:"slide3.png";s:5:"text4";s:0:"";s:12:"thumbsimage4";s:0:"";s:4:"url4";s:0:"";s:6:"image4";s:0:"";s:5:"text5";s:0:"";s:12:"thumbsimage5";s:0:"";s:4:"url5";s:0:"";s:6:"image5";s:0:"";s:5:"text6";s:0:"";s:12:"thumbsimage6";s:0:"";s:4:"url6";s:0:"";s:6:"image6";s:0:"";s:5:"text7";s:0:"";s:12:"thumbsimage7";s:0:"";s:4:"url7";s:0:"";s:6:"image7";s:0:"";s:5:"text8";s:0:"";s:12:"thumbsimage8";s:0:"";s:4:"url8";s:0:"";s:6:"image8";s:0:"";s:5:"text9";s:0:"";s:12:"thumbsimage9";s:0:"";s:4:"url9";s:0:"";s:6:"image9";s:0:"";s:6:"effect";s:6:"random";s:6:"slices";s:2:"15";s:7:"boxcols";s:1:"8";s:7:"boxrows";s:1:"4";s:9:"animspeed";s:3:"500";s:9:"pausetime";s:4:"5000";s:10:"startslide";s:1:"0";s:12:"directionnav";s:4:"true";s:10:"controlnav";s:5:"false";s:16:"controlnavthumbs";s:5:"false";s:12:"pauseonhover";s:5:"false";s:8:"prevtext";s:4:"Prev";s:8:"nexttext";s:4:"Next";s:11:"randomstart";s:4:"true";}]]></widget_parameters>
+      <sort_order><![CDATA[0]]></sort_order>
+      <page_groups><![CDATA[a:1:{i:0;a:2:{s:10:"page_group";s:5:"pages";s:5:"pages";a:6:{s:7:"page_id";s:1:"2";s:5:"group";s:5:"pages";s:5:"block";s:8:"em_area3";s:9:"for_value";s:3:"all";s:13:"layout_handle";s:15:"cms_index_index";s:8:"template";s:0:"";}}}]]></page_groups>
+      <instance_type><![CDATA[slideshowwidget/create]]></instance_type>
+      <package_theme><![CDATA[default/galaelectronues]]></package_theme>
+    </widget>
+    <widget id="3">
+      <instance_id><![CDATA[3]]></instance_id>
+      <title><![CDATA[Gala Electronues Home Banner - Area04]]></title>
+      <store_ids><![CDATA[a:1:{i:0;i:0;}]]></store_ids>
+      <widget_parameters><![CDATA[a:5:{s:8:"block_id";s:1:"6";s:12:"custom_class";s:0:"";s:25:"custom_html_wrapper_class";s:0:"";s:22:"custom_html_wrapper_id";s:0:"";s:11:"block_title";s:0:"";}]]></widget_parameters>
+      <sort_order><![CDATA[1]]></sort_order>
+      <page_groups><![CDATA[a:1:{i:0;a:2:{s:10:"page_group";s:5:"pages";s:5:"pages";a:6:{s:7:"page_id";s:2:"13";s:5:"group";s:5:"pages";s:5:"block";s:8:"em_area4";s:9:"for_value";s:3:"all";s:13:"layout_handle";s:15:"cms_index_index";s:8:"template";s:0:"";}}}]]></page_groups>
+      <instance_type><![CDATA[cmswidget/widget_block]]></instance_type>
+      <package_theme><![CDATA[default/galaelectronues]]></package_theme>
+    </widget>
+    <widget id="4">
+      <instance_id><![CDATA[4]]></instance_id>
+      <title><![CDATA[Gala Electronues New Products - Area07]]></title>
+      <store_ids><![CDATA[a:1:{i:0;i:0;}]]></store_ids>
+      <widget_parameters><![CDATA[a:24:{s:12:"new_category";a:1:{i:0;s:1:"3";}s:11:"limit_count";s:2:"16";s:12:"column_count";s:2:"99";s:12:"custom_class";s:3:"box";s:8:"order_by";s:8:"name asc";s:14:"frontend_title";s:12:"New Products";s:20:"frontend_description";s:0:"";s:10:"item_width";s:3:"157";s:11:"item_height";s:3:"265";s:12:"item_spacing";s:2:"60";s:15:"thumbnail_width";s:3:"157";s:16:"thumbnail_height";s:3:"157";s:17:"show_product_name";s:4:"true";s:14:"show_thumbnail";s:4:"true";s:7:"alt_img";s:9:"thumbnail";s:16:"show_description";s:5:"false";s:10:"show_price";s:4:"true";s:12:"show_reviews";s:4:"true";s:14:"show_addtocart";s:5:"false";s:10:"show_addto";s:4:"true";s:10:"show_label";s:4:"true";s:15:"choose_template";s:30:"em_new_products/new_grid.phtml";s:12:"custom_theme";s:0:"";s:14:"cache_lifetime";s:0:"";}]]></widget_parameters>
+      <sort_order><![CDATA[0]]></sort_order>
+      <page_groups><![CDATA[a:0:{}]]></page_groups>
+      <instance_type><![CDATA[newproducts/list]]></instance_type>
+      <package_theme><![CDATA[default/galaelectronues]]></package_theme>
+    </widget>
+    <widget id="5">
+      <instance_id><![CDATA[5]]></instance_id>
+      <title><![CDATA[Gala Electronues New Products Slider - Area07]]></title>
+      <store_ids><![CDATA[a:1:{i:0;i:0;}]]></store_ids>
+      <widget_parameters><![CDATA[a:9:{s:8:"instance";s:1:"4";s:9:"direction";s:1:"0";s:9:"container";s:14:".products-grid";s:12:"slider_width";s:0:"";s:13:"slider_height";s:0:"";s:12:"auto_sliding";s:1:"0";s:8:"circular";s:1:"0";s:15:"items_per_slide";s:1:"3";s:9:"css_class";s:0:"";}]]></widget_parameters>
+      <sort_order><![CDATA[0]]></sort_order>
+      <page_groups><![CDATA[a:1:{i:0;a:2:{s:10:"page_group";s:5:"pages";s:5:"pages";a:6:{s:7:"page_id";s:2:"20";s:5:"group";s:5:"pages";s:5:"block";s:8:"em_area7";s:9:"for_value";s:3:"all";s:13:"layout_handle";s:15:"cms_index_index";s:8:"template";s:0:"";}}}]]></page_groups>
+      <instance_type><![CDATA[sliderwidget/slide]]></instance_type>
+      <package_theme><![CDATA[default/galaelectronues]]></package_theme>
+    </widget>
+    <widget id="6">
+      <instance_id><![CDATA[6]]></instance_id>
+      <title><![CDATA[Gala Electronues Mobiles - Area07]]></title>
+      <store_ids><![CDATA[a:1:{i:0;i:0;}]]></store_ids>
+      <widget_parameters><![CDATA[a:25:{s:8:"order_by";s:8:"name asc";s:12:"new_category";a:1:{i:0;s:1:"8";}s:15:"featured_choose";s:11:"em_featured";s:11:"limit_count";s:1:"4";s:12:"column_count";s:1:"7";s:12:"custom_class";s:7:"box-top";s:14:"frontend_title";s:7:"Mobiles";s:20:"frontend_description";s:0:"";s:10:"item_width";s:0:"";s:11:"item_height";s:0:"";s:12:"item_spacing";s:0:"";s:15:"thumbnail_width";s:3:"157";s:16:"thumbnail_height";s:3:"157";s:17:"show_product_name";s:4:"true";s:14:"show_thumbnail";s:4:"true";s:7:"alt_img";s:9:"thumbnail";s:16:"show_description";s:5:"false";s:10:"show_price";s:4:"true";s:12:"show_reviews";s:4:"true";s:14:"show_addtocart";s:5:"false";s:10:"show_addto";s:5:"false";s:10:"show_label";s:4:"true";s:15:"choose_template";s:40:"em_featured_products/featured_grid.phtml";s:12:"custom_theme";s:0:"";s:14:"cache_lifetime";s:0:"";}]]></widget_parameters>
+      <sort_order><![CDATA[1]]></sort_order>
+      <page_groups><![CDATA[a:1:{i:0;a:2:{s:10:"page_group";s:5:"pages";s:5:"pages";a:6:{s:7:"page_id";s:1:"4";s:5:"group";s:5:"pages";s:5:"block";s:8:"em_area7";s:9:"for_value";s:3:"all";s:13:"layout_handle";s:15:"cms_index_index";s:8:"template";s:0:"";}}}]]></page_groups>
+      <instance_type><![CDATA[dynamicproducts/dynamicproducts]]></instance_type>
+      <package_theme><![CDATA[default/galaelectronues]]></package_theme>
+    </widget>
+    <widget id="7">
+      <instance_id><![CDATA[7]]></instance_id>
+      <title><![CDATA[Gala Electronues Computers - Area07]]></title>
+      <store_ids><![CDATA[a:1:{i:0;i:0;}]]></store_ids>
+      <widget_parameters><![CDATA[a:25:{s:8:"order_by";s:8:"name asc";s:12:"new_category";a:1:{i:0;s:2:"15";}s:15:"featured_choose";s:11:"em_featured";s:11:"limit_count";s:1:"4";s:12:"column_count";s:1:"4";s:12:"custom_class";s:7:"box-top";s:14:"frontend_title";s:9:"Computers";s:20:"frontend_description";s:0:"";s:10:"item_width";s:0:"";s:11:"item_height";s:0:"";s:12:"item_spacing";s:0:"";s:15:"thumbnail_width";s:3:"157";s:16:"thumbnail_height";s:3:"157";s:17:"show_product_name";s:4:"true";s:14:"show_thumbnail";s:4:"true";s:7:"alt_img";s:9:"thumbnail";s:16:"show_description";s:5:"false";s:10:"show_price";s:4:"true";s:12:"show_reviews";s:4:"true";s:14:"show_addtocart";s:5:"false";s:10:"show_addto";s:5:"false";s:10:"show_label";s:4:"true";s:15:"choose_template";s:40:"em_featured_products/featured_grid.phtml";s:12:"custom_theme";s:0:"";s:14:"cache_lifetime";s:0:"";}]]></widget_parameters>
+      <sort_order><![CDATA[3]]></sort_order>
+      <page_groups><![CDATA[a:1:{i:0;a:2:{s:10:"page_group";s:5:"pages";s:5:"pages";a:6:{s:7:"page_id";s:1:"5";s:5:"group";s:5:"pages";s:5:"block";s:8:"em_area7";s:9:"for_value";s:3:"all";s:13:"layout_handle";s:15:"cms_index_index";s:8:"template";s:0:"";}}}]]></page_groups>
+      <instance_type><![CDATA[dynamicproducts/dynamicproducts]]></instance_type>
+      <package_theme><![CDATA[default/galaelectronues]]></package_theme>
+    </widget>
+    <widget id="8">
+      <instance_id><![CDATA[8]]></instance_id>
+      <title><![CDATA[Gala Electronues Bestselling Books - Area07]]></title>
+      <store_ids><![CDATA[a:1:{i:0;i:0;}]]></store_ids>
+      <widget_parameters><![CDATA[a:23:{s:12:"new_category";a:1:{i:0;s:2:"22";}s:11:"limit_count";s:1:"4";s:12:"column_count";s:1:"4";s:12:"custom_class";s:7:"box-top";s:14:"frontend_title";s:17:"Bestselling Books";s:20:"frontend_description";s:0:"";s:10:"item_width";s:0:"";s:11:"item_height";s:0:"";s:12:"item_spacing";s:0:"";s:15:"thumbnail_width";s:3:"157";s:16:"thumbnail_height";s:3:"157";s:17:"show_product_name";s:4:"true";s:14:"show_thumbnail";s:4:"true";s:7:"alt_img";s:9:"thumbnail";s:16:"show_description";s:5:"false";s:10:"show_price";s:4:"true";s:12:"show_reviews";s:4:"true";s:14:"show_addtocart";s:5:"false";s:10:"show_addto";s:5:"false";s:10:"show_label";s:4:"true";s:15:"choose_template";s:44:"em_bestseller_products/bestseller_grid.phtml";s:12:"custom_theme";s:0:"";s:14:"cache_lifetime";s:0:"";}]]></widget_parameters>
+      <sort_order><![CDATA[5]]></sort_order>
+      <page_groups><![CDATA[a:1:{i:0;a:2:{s:10:"page_group";s:5:"pages";s:5:"pages";a:6:{s:7:"page_id";s:1:"6";s:5:"group";s:5:"pages";s:5:"block";s:8:"em_area7";s:9:"for_value";s:3:"all";s:13:"layout_handle";s:15:"cms_index_index";s:8:"template";s:0:"";}}}]]></page_groups>
+      <instance_type><![CDATA[bestsellerproducts/list]]></instance_type>
+      <package_theme><![CDATA[default/galaelectronues]]></package_theme>
+    </widget>
+    <widget id="9">
+      <instance_id><![CDATA[9]]></instance_id>
+      <title><![CDATA[Gala Electronues Watches Bags &amp; Wallets - Area07]]></title>
+      <store_ids><![CDATA[a:1:{i:0;i:0;}]]></store_ids>
+      <widget_parameters><![CDATA[a:25:{s:8:"order_by";s:8:"name asc";s:12:"new_category";a:1:{i:0;s:2:"34";}s:15:"featured_choose";s:11:"em_featured";s:11:"limit_count";s:1:"4";s:12:"column_count";s:1:"4";s:12:"custom_class";s:7:"box-top";s:14:"frontend_title";s:27:"Watches, Bags &amp; Wallets";s:20:"frontend_description";s:0:"";s:10:"item_width";s:0:"";s:11:"item_height";s:0:"";s:12:"item_spacing";s:0:"";s:15:"thumbnail_width";s:3:"157";s:16:"thumbnail_height";s:3:"157";s:17:"show_product_name";s:4:"true";s:14:"show_thumbnail";s:4:"true";s:7:"alt_img";s:9:"thumbnail";s:16:"show_description";s:5:"false";s:10:"show_price";s:4:"true";s:12:"show_reviews";s:4:"true";s:14:"show_addtocart";s:5:"false";s:10:"show_addto";s:5:"false";s:10:"show_label";s:4:"true";s:15:"choose_template";s:40:"em_featured_products/featured_grid.phtml";s:12:"custom_theme";s:0:"";s:14:"cache_lifetime";s:0:"";}]]></widget_parameters>
+      <sort_order><![CDATA[7]]></sort_order>
+      <page_groups><![CDATA[a:1:{i:0;a:2:{s:10:"page_group";s:5:"pages";s:5:"pages";a:6:{s:7:"page_id";s:1:"7";s:5:"group";s:5:"pages";s:5:"block";s:8:"em_area7";s:9:"for_value";s:3:"all";s:13:"layout_handle";s:15:"cms_index_index";s:8:"template";s:0:"";}}}]]></page_groups>
+      <instance_type><![CDATA[dynamicproducts/dynamicproducts]]></instance_type>
+      <package_theme><![CDATA[default/galaelectronues]]></package_theme>
+    </widget>
+    <widget id="10">
+      <instance_id><![CDATA[10]]></instance_id>
+      <title><![CDATA[Gala Electronues Cameras & Camera Accessories - Area07]]></title>
+      <store_ids><![CDATA[a:1:{i:0;i:0;}]]></store_ids>
+      <widget_parameters><![CDATA[a:25:{s:8:"order_by";s:8:"name asc";s:12:"new_category";a:1:{i:0;s:2:"12";}s:15:"featured_choose";s:11:"em_featured";s:11:"limit_count";s:1:"4";s:12:"column_count";s:1:"4";s:12:"custom_class";s:7:"box-top";s:14:"frontend_title";s:32:"Cameras &amp; Camera Accessories";s:20:"frontend_description";s:0:"";s:10:"item_width";s:0:"";s:11:"item_height";s:0:"";s:12:"item_spacing";s:0:"";s:15:"thumbnail_width";s:3:"157";s:16:"thumbnail_height";s:3:"157";s:17:"show_product_name";s:4:"true";s:14:"show_thumbnail";s:4:"true";s:7:"alt_img";s:9:"thumbnail";s:16:"show_description";s:5:"false";s:10:"show_price";s:4:"true";s:12:"show_reviews";s:4:"true";s:14:"show_addtocart";s:5:"false";s:10:"show_addto";s:5:"false";s:10:"show_label";s:4:"true";s:15:"choose_template";s:40:"em_featured_products/featured_grid.phtml";s:12:"custom_theme";s:0:"";s:14:"cache_lifetime";s:0:"";}]]></widget_parameters>
+      <sort_order><![CDATA[9]]></sort_order>
+      <page_groups><![CDATA[a:1:{i:0;a:2:{s:10:"page_group";s:5:"pages";s:5:"pages";a:6:{s:7:"page_id";s:1:"8";s:5:"group";s:5:"pages";s:5:"block";s:8:"em_area7";s:9:"for_value";s:3:"all";s:13:"layout_handle";s:15:"cms_index_index";s:8:"template";s:0:"";}}}]]></page_groups>
+      <instance_type><![CDATA[dynamicproducts/dynamicproducts]]></instance_type>
+      <package_theme><![CDATA[default/galaelectronues]]></package_theme>
+    </widget>
+    <widget id="11">
+      <instance_id><![CDATA[11]]></instance_id>
+      <title><![CDATA[Gala Electronues Beauty & Health Care - Area07]]></title>
+      <store_ids><![CDATA[a:1:{i:0;i:0;}]]></store_ids>
+      <widget_parameters><![CDATA[a:25:{s:8:"order_by";s:8:"name asc";s:12:"new_category";a:1:{i:0;s:2:"33";}s:15:"featured_choose";s:11:"em_featured";s:11:"limit_count";s:1:"4";s:12:"column_count";s:1:"4";s:12:"custom_class";s:7:"box-top";s:14:"frontend_title";s:24:"Beauty &amp; Health Care";s:20:"frontend_description";s:0:"";s:10:"item_width";s:0:"";s:11:"item_height";s:0:"";s:12:"item_spacing";s:0:"";s:15:"thumbnail_width";s:3:"157";s:16:"thumbnail_height";s:3:"157";s:17:"show_product_name";s:4:"true";s:14:"show_thumbnail";s:4:"true";s:7:"alt_img";s:9:"thumbnail";s:16:"show_description";s:5:"false";s:10:"show_price";s:4:"true";s:12:"show_reviews";s:4:"true";s:14:"show_addtocart";s:5:"false";s:10:"show_addto";s:5:"false";s:10:"show_label";s:4:"true";s:15:"choose_template";s:40:"em_featured_products/featured_grid.phtml";s:12:"custom_theme";s:0:"";s:14:"cache_lifetime";s:0:"";}]]></widget_parameters>
+      <sort_order><![CDATA[11]]></sort_order>
+      <page_groups><![CDATA[a:1:{i:0;a:2:{s:10:"page_group";s:5:"pages";s:5:"pages";a:6:{s:7:"page_id";s:2:"10";s:5:"group";s:5:"pages";s:5:"block";s:8:"em_area7";s:9:"for_value";s:3:"all";s:13:"layout_handle";s:15:"cms_index_index";s:8:"template";s:0:"";}}}]]></page_groups>
+      <instance_type><![CDATA[dynamicproducts/dynamicproducts]]></instance_type>
+      <package_theme><![CDATA[default/galaelectronues]]></package_theme>
+    </widget>
+    <widget id="12">
+      <instance_id><![CDATA[12]]></instance_id>
+      <title><![CDATA[Gala Electronues Clothing - Area07]]></title>
+      <store_ids><![CDATA[a:1:{i:0;i:0;}]]></store_ids>
+      <widget_parameters><![CDATA[a:25:{s:8:"order_by";s:8:"name asc";s:12:"new_category";a:1:{i:0;s:1:"4";}s:15:"featured_choose";s:11:"em_featured";s:11:"limit_count";s:1:"4";s:12:"column_count";s:1:"4";s:12:"custom_class";s:7:"box-top";s:14:"frontend_title";s:8:"Clothing";s:20:"frontend_description";s:0:"";s:10:"item_width";s:0:"";s:11:"item_height";s:0:"";s:12:"item_spacing";s:0:"";s:15:"thumbnail_width";s:3:"157";s:16:"thumbnail_height";s:3:"157";s:17:"show_product_name";s:4:"true";s:14:"show_thumbnail";s:4:"true";s:7:"alt_img";s:9:"thumbnail";s:16:"show_description";s:5:"false";s:10:"show_price";s:4:"true";s:12:"show_reviews";s:4:"true";s:14:"show_addtocart";s:5:"false";s:10:"show_addto";s:5:"false";s:10:"show_label";s:4:"true";s:15:"choose_template";s:40:"em_featured_products/featured_grid.phtml";s:12:"custom_theme";s:0:"";s:14:"cache_lifetime";s:0:"";}]]></widget_parameters>
+      <sort_order><![CDATA[13]]></sort_order>
+      <page_groups><![CDATA[a:1:{i:0;a:2:{s:10:"page_group";s:5:"pages";s:5:"pages";a:6:{s:7:"page_id";s:1:"9";s:5:"group";s:5:"pages";s:5:"block";s:8:"em_area7";s:9:"for_value";s:3:"all";s:13:"layout_handle";s:15:"cms_index_index";s:8:"template";s:0:"";}}}]]></page_groups>
+      <instance_type><![CDATA[dynamicproducts/dynamicproducts]]></instance_type>
+      <package_theme><![CDATA[default/galaelectronues]]></package_theme>
+    </widget>
+    <widget id="13">
+      <instance_id><![CDATA[13]]></instance_id>
+      <title><![CDATA[Gala Electronues Audio & Speakers - Area10]]></title>
+      <store_ids><![CDATA[a:1:{i:0;i:0;}]]></store_ids>
+      <widget_parameters><![CDATA[a:25:{s:8:"order_by";s:8:"name asc";s:12:"new_category";a:1:{i:0;s:2:"19";}s:15:"featured_choose";s:11:"em_featured";s:11:"limit_count";s:1:"1";s:12:"column_count";s:1:"1";s:12:"custom_class";s:4:"box1";s:14:"frontend_title";s:20:"Audio &amp; Speakers";s:20:"frontend_description";s:59:"<a class="free-ship" href="#">Free shipping and returns</a>";s:10:"item_width";s:0:"";s:11:"item_height";s:0:"";s:12:"item_spacing";s:0:"";s:15:"thumbnail_width";s:3:"238";s:16:"thumbnail_height";s:3:"238";s:17:"show_product_name";s:4:"true";s:14:"show_thumbnail";s:4:"true";s:7:"alt_img";s:9:"thumbnail";s:16:"show_description";s:5:"false";s:10:"show_price";s:4:"true";s:12:"show_reviews";s:4:"true";s:14:"show_addtocart";s:5:"false";s:10:"show_addto";s:5:"false";s:10:"show_label";s:4:"true";s:15:"choose_template";s:40:"em_featured_products/featured_grid.phtml";s:12:"custom_theme";s:0:"";s:14:"cache_lifetime";s:0:"";}]]></widget_parameters>
+      <sort_order><![CDATA[0]]></sort_order>
+      <page_groups><![CDATA[a:1:{i:0;a:2:{s:10:"page_group";s:5:"pages";s:5:"pages";a:6:{s:7:"page_id";s:2:"11";s:5:"group";s:5:"pages";s:5:"block";s:9:"em_area10";s:9:"for_value";s:3:"all";s:13:"layout_handle";s:15:"cms_index_index";s:8:"template";s:0:"";}}}]]></page_groups>
+      <instance_type><![CDATA[dynamicproducts/dynamicproducts]]></instance_type>
+      <package_theme><![CDATA[default/galaelectronues]]></package_theme>
+    </widget>
+    <widget id="14">
+      <instance_id><![CDATA[14]]></instance_id>
+      <title><![CDATA[Gala Electronues Support - Header]]></title>
+      <store_ids><![CDATA[a:1:{i:0;i:0;}]]></store_ids>
+      <widget_parameters><![CDATA[a:5:{s:8:"block_id";s:1:"7";s:12:"custom_class";s:0:"";s:25:"custom_html_wrapper_class";s:0:"";s:22:"custom_html_wrapper_id";s:0:"";s:11:"block_title";s:0:"";}]]></widget_parameters>
+      <sort_order><![CDATA[0]]></sort_order>
+      <page_groups><![CDATA[a:1:{i:0;a:2:{s:10:"page_group";s:9:"all_pages";s:9:"all_pages";a:6:{s:7:"page_id";s:2:"12";s:5:"group";s:9:"all_pages";s:5:"block";s:13:"top.container";s:9:"for_value";s:3:"all";s:13:"layout_handle";s:7:"default";s:8:"template";s:0:"";}}}]]></page_groups>
+      <instance_type><![CDATA[cmswidget/widget_block]]></instance_type>
+      <package_theme><![CDATA[default/galaelectronues]]></package_theme>
+    </widget>
+    <widget id="15">
+      <instance_id><![CDATA[15]]></instance_id>
+      <title><![CDATA[Gala Electronues Toys - Area10]]></title>
+      <store_ids><![CDATA[a:1:{i:0;i:0;}]]></store_ids>
+      <widget_parameters><![CDATA[a:25:{s:8:"order_by";s:8:"name asc";s:12:"new_category";a:1:{i:0;s:2:"23";}s:15:"featured_choose";s:11:"em_featured";s:11:"limit_count";s:1:"1";s:12:"column_count";s:0:"";s:12:"custom_class";s:4:"box1";s:14:"frontend_title";s:4:"TOYS";s:20:"frontend_description";s:59:"<a class="free-ship" href="#">Free shipping and returns</a>";s:10:"item_width";s:0:"";s:11:"item_height";s:0:"";s:12:"item_spacing";s:0:"";s:15:"thumbnail_width";s:3:"238";s:16:"thumbnail_height";s:3:"238";s:17:"show_product_name";s:4:"true";s:14:"show_thumbnail";s:4:"true";s:7:"alt_img";s:9:"thumbnail";s:16:"show_description";s:5:"false";s:10:"show_price";s:4:"true";s:12:"show_reviews";s:4:"true";s:14:"show_addtocart";s:5:"false";s:10:"show_addto";s:5:"false";s:10:"show_label";s:4:"true";s:15:"choose_template";s:40:"em_featured_products/featured_grid.phtml";s:12:"custom_theme";s:0:"";s:14:"cache_lifetime";s:0:"";}]]></widget_parameters>
+      <sort_order><![CDATA[1]]></sort_order>
+      <page_groups><![CDATA[a:1:{i:0;a:2:{s:10:"page_group";s:5:"pages";s:5:"pages";a:6:{s:7:"page_id";s:2:"14";s:5:"group";s:5:"pages";s:5:"block";s:9:"em_area10";s:9:"for_value";s:3:"all";s:13:"layout_handle";s:15:"cms_index_index";s:8:"template";s:0:"";}}}]]></page_groups>
+      <instance_type><![CDATA[dynamicproducts/dynamicproducts]]></instance_type>
+      <package_theme><![CDATA[default/galaelectronues]]></package_theme>
+    </widget>
+    <widget id="16">
+      <instance_id><![CDATA[16]]></instance_id>
+      <title><![CDATA[Gala Electronues TV & Video - Area10]]></title>
+      <store_ids><![CDATA[a:1:{i:0;i:0;}]]></store_ids>
+      <widget_parameters><![CDATA[a:25:{s:8:"order_by";s:8:"name asc";s:12:"new_category";a:1:{i:0;s:2:"30";}s:15:"featured_choose";s:11:"em_featured";s:11:"limit_count";s:1:"3";s:12:"column_count";s:1:"1";s:12:"custom_class";s:17:"box1 box-tv-video";s:14:"frontend_title";s:14:"TV &amp; VIDEO";s:20:"frontend_description";s:59:"<a class="free-ship" href="#">Free shipping and returns</a>";s:10:"item_width";s:0:"";s:11:"item_height";s:0:"";s:12:"item_spacing";s:0:"";s:15:"thumbnail_width";s:3:"238";s:16:"thumbnail_height";s:3:"238";s:17:"show_product_name";s:4:"true";s:14:"show_thumbnail";s:4:"true";s:7:"alt_img";s:9:"thumbnail";s:16:"show_description";s:5:"false";s:10:"show_price";s:4:"true";s:12:"show_reviews";s:4:"true";s:14:"show_addtocart";s:5:"false";s:10:"show_addto";s:5:"false";s:10:"show_label";s:4:"true";s:15:"choose_template";s:40:"em_featured_products/featured_grid.phtml";s:12:"custom_theme";s:0:"";s:14:"cache_lifetime";s:0:"";}]]></widget_parameters>
+      <sort_order><![CDATA[2]]></sort_order>
+      <page_groups><![CDATA[a:1:{i:0;a:2:{s:10:"page_group";s:5:"pages";s:5:"pages";a:6:{s:7:"page_id";s:2:"15";s:5:"group";s:5:"pages";s:5:"block";s:9:"em_area10";s:9:"for_value";s:3:"all";s:13:"layout_handle";s:15:"cms_index_index";s:8:"template";s:0:"";}}}]]></page_groups>
+      <instance_type><![CDATA[dynamicproducts/dynamicproducts]]></instance_type>
+      <package_theme><![CDATA[default/galaelectronues]]></package_theme>
+    </widget>
+    <widget id="17">
+      <instance_id><![CDATA[17]]></instance_id>
+      <title><![CDATA[Gala Electronues Gaming - Area10]]></title>
+      <store_ids><![CDATA[a:1:{i:0;i:0;}]]></store_ids>
+      <widget_parameters><![CDATA[a:25:{s:8:"order_by";s:8:"name asc";s:12:"new_category";a:1:{i:0;s:2:"24";}s:15:"featured_choose";s:11:"em_featured";s:11:"limit_count";s:1:"1";s:12:"column_count";s:1:"1";s:12:"custom_class";s:4:"box1";s:14:"frontend_title";s:6:"GAMING";s:20:"frontend_description";s:59:"<a class="free-ship" href="#">Free shipping and returns</a>";s:10:"item_width";s:0:"";s:11:"item_height";s:0:"";s:12:"item_spacing";s:0:"";s:15:"thumbnail_width";s:3:"238";s:16:"thumbnail_height";s:3:"238";s:17:"show_product_name";s:4:"true";s:14:"show_thumbnail";s:4:"true";s:7:"alt_img";s:9:"thumbnail";s:16:"show_description";s:5:"false";s:10:"show_price";s:4:"true";s:12:"show_reviews";s:4:"true";s:14:"show_addtocart";s:5:"false";s:10:"show_addto";s:5:"false";s:10:"show_label";s:4:"true";s:15:"choose_template";s:40:"em_featured_products/featured_grid.phtml";s:12:"custom_theme";s:0:"";s:14:"cache_lifetime";s:0:"";}]]></widget_parameters>
+      <sort_order><![CDATA[4]]></sort_order>
+      <page_groups><![CDATA[a:1:{i:0;a:2:{s:10:"page_group";s:5:"pages";s:5:"pages";a:6:{s:7:"page_id";s:2:"16";s:5:"group";s:5:"pages";s:5:"block";s:9:"em_area10";s:9:"for_value";s:3:"all";s:13:"layout_handle";s:15:"cms_index_index";s:8:"template";s:0:"";}}}]]></page_groups>
+      <instance_type><![CDATA[dynamicproducts/dynamicproducts]]></instance_type>
+      <package_theme><![CDATA[default/galaelectronues]]></package_theme>
+    </widget>
+    <widget id="18">
+      <instance_id><![CDATA[18]]></instance_id>
+      <title><![CDATA[Gala Electronues Pens & Stationery - Area10]]></title>
+      <store_ids><![CDATA[a:1:{i:0;i:0;}]]></store_ids>
+      <widget_parameters><![CDATA[a:25:{s:8:"order_by";s:8:"name asc";s:12:"new_category";a:1:{i:0;s:2:"31";}s:15:"featured_choose";s:11:"em_featured";s:11:"limit_count";s:1:"1";s:12:"column_count";s:1:"1";s:12:"custom_class";s:4:"box1";s:14:"frontend_title";s:17:"PENS & STATIONERY";s:20:"frontend_description";s:59:"<a class="free-ship" href="#">Free shipping and returns</a>";s:10:"item_width";s:0:"";s:11:"item_height";s:0:"";s:12:"item_spacing";s:0:"";s:15:"thumbnail_width";s:3:"238";s:16:"thumbnail_height";s:3:"238";s:17:"show_product_name";s:4:"true";s:14:"show_thumbnail";s:4:"true";s:7:"alt_img";s:9:"thumbnail";s:16:"show_description";s:5:"false";s:10:"show_price";s:4:"true";s:12:"show_reviews";s:4:"true";s:14:"show_addtocart";s:5:"false";s:10:"show_addto";s:5:"false";s:10:"show_label";s:4:"true";s:15:"choose_template";s:40:"em_featured_products/featured_grid.phtml";s:12:"custom_theme";s:0:"";s:14:"cache_lifetime";s:0:"";}]]></widget_parameters>
+      <sort_order><![CDATA[5]]></sort_order>
+      <page_groups><![CDATA[a:1:{i:0;a:2:{s:10:"page_group";s:5:"pages";s:5:"pages";a:6:{s:7:"page_id";s:2:"17";s:5:"group";s:5:"pages";s:5:"block";s:9:"em_area10";s:9:"for_value";s:3:"all";s:13:"layout_handle";s:15:"cms_index_index";s:8:"template";s:0:"";}}}]]></page_groups>
+      <instance_type><![CDATA[dynamicproducts/dynamicproducts]]></instance_type>
+      <package_theme><![CDATA[default/galaelectronues]]></package_theme>
+    </widget>
+    <widget id="19">
+      <instance_id><![CDATA[19]]></instance_id>
+      <title><![CDATA[Gala Electronues MP3 Downloads - Area10]]></title>
+      <store_ids><![CDATA[a:1:{i:0;i:0;}]]></store_ids>
+      <widget_parameters><![CDATA[a:25:{s:8:"order_by";s:8:"name asc";s:12:"new_category";a:1:{i:0;s:2:"32";}s:15:"featured_choose";s:11:"em_featured";s:11:"limit_count";s:1:"1";s:12:"column_count";s:1:"1";s:12:"custom_class";s:4:"box1";s:14:"frontend_title";s:13:"MP3 DOWNLOADS";s:20:"frontend_description";s:59:"<a class="free-ship" href="#">Free shipping and returns</a>";s:10:"item_width";s:0:"";s:11:"item_height";s:0:"";s:12:"item_spacing";s:0:"";s:15:"thumbnail_width";s:3:"238";s:16:"thumbnail_height";s:3:"238";s:17:"show_product_name";s:4:"true";s:14:"show_thumbnail";s:4:"true";s:7:"alt_img";s:9:"thumbnail";s:16:"show_description";s:5:"false";s:10:"show_price";s:4:"true";s:12:"show_reviews";s:4:"true";s:14:"show_addtocart";s:5:"false";s:10:"show_addto";s:5:"false";s:10:"show_label";s:4:"true";s:15:"choose_template";s:40:"em_featured_products/featured_grid.phtml";s:12:"custom_theme";s:0:"";s:14:"cache_lifetime";s:0:"";}]]></widget_parameters>
+      <sort_order><![CDATA[6]]></sort_order>
+      <page_groups><![CDATA[a:1:{i:0;a:2:{s:10:"page_group";s:5:"pages";s:5:"pages";a:6:{s:7:"page_id";s:2:"18";s:5:"group";s:5:"pages";s:5:"block";s:9:"em_area10";s:9:"for_value";s:3:"all";s:13:"layout_handle";s:15:"cms_index_index";s:8:"template";s:0:"";}}}]]></page_groups>
+      <instance_type><![CDATA[dynamicproducts/dynamicproducts]]></instance_type>
+      <package_theme><![CDATA[default/galaelectronues]]></package_theme>
+    </widget>
+    <widget id="22">
+      <instance_id><![CDATA[22]]></instance_id>
+      <title><![CDATA[Gala Electronues Home Text Mobiles - Area07]]></title>
+      <store_ids><![CDATA[a:1:{i:0;i:0;}]]></store_ids>
+      <widget_parameters><![CDATA[a:5:{s:8:"block_id";s:1:"8";s:12:"custom_class";s:10:"box-bottom";s:25:"custom_html_wrapper_class";s:0:"";s:22:"custom_html_wrapper_id";s:0:"";s:11:"block_title";s:0:"";}]]></widget_parameters>
+      <sort_order><![CDATA[2]]></sort_order>
+      <page_groups><![CDATA[a:1:{i:0;a:2:{s:10:"page_group";s:5:"pages";s:5:"pages";a:6:{s:7:"page_id";s:2:"21";s:5:"group";s:5:"pages";s:5:"block";s:8:"em_area7";s:9:"for_value";s:3:"all";s:13:"layout_handle";s:15:"cms_index_index";s:8:"template";s:0:"";}}}]]></page_groups>
+      <instance_type><![CDATA[cmswidget/widget_block]]></instance_type>
+      <package_theme><![CDATA[default/galaelectronues]]></package_theme>
+    </widget>
+    <widget id="23">
+      <instance_id><![CDATA[23]]></instance_id>
+      <title><![CDATA[Gala Electronues Home Text Computers - Area07]]></title>
+      <store_ids><![CDATA[a:1:{i:0;i:0;}]]></store_ids>
+      <widget_parameters><![CDATA[a:5:{s:8:"block_id";s:1:"9";s:12:"custom_class";s:10:"box-bottom";s:25:"custom_html_wrapper_class";s:0:"";s:22:"custom_html_wrapper_id";s:0:"";s:11:"block_title";s:0:"";}]]></widget_parameters>
+      <sort_order><![CDATA[4]]></sort_order>
+      <page_groups><![CDATA[a:1:{i:0;a:2:{s:10:"page_group";s:5:"pages";s:5:"pages";a:6:{s:7:"page_id";s:2:"22";s:5:"group";s:5:"pages";s:5:"block";s:8:"em_area7";s:9:"for_value";s:3:"all";s:13:"layout_handle";s:15:"cms_index_index";s:8:"template";s:0:"";}}}]]></page_groups>
+      <instance_type><![CDATA[cmswidget/widget_block]]></instance_type>
+      <package_theme><![CDATA[default/galaelectronues]]></package_theme>
+    </widget>
+    <widget id="24">
+      <instance_id><![CDATA[24]]></instance_id>
+      <title><![CDATA[Gala Electronues Home Text Bestselling Books - Area07]]></title>
+      <store_ids><![CDATA[a:1:{i:0;i:0;}]]></store_ids>
+      <widget_parameters><![CDATA[a:5:{s:8:"block_id";s:2:"10";s:12:"custom_class";s:10:"box-bottom";s:25:"custom_html_wrapper_class";s:0:"";s:22:"custom_html_wrapper_id";s:0:"";s:11:"block_title";s:0:"";}]]></widget_parameters>
+      <sort_order><![CDATA[6]]></sort_order>
+      <page_groups><![CDATA[a:1:{i:0;a:2:{s:10:"page_group";s:5:"pages";s:5:"pages";a:6:{s:7:"page_id";s:2:"42";s:5:"group";s:5:"pages";s:5:"block";s:8:"em_area7";s:9:"for_value";s:3:"all";s:13:"layout_handle";s:15:"cms_index_index";s:8:"template";s:0:"";}}}]]></page_groups>
+      <instance_type><![CDATA[cmswidget/widget_block]]></instance_type>
+      <package_theme><![CDATA[default/galaelectronues]]></package_theme>
+    </widget>
+    <widget id="25">
+      <instance_id><![CDATA[25]]></instance_id>
+      <title><![CDATA[Gala Electronues Home Text Watches, Bags & Wallets - Area07]]></title>
+      <store_ids><![CDATA[a:1:{i:0;i:0;}]]></store_ids>
+      <widget_parameters><![CDATA[a:5:{s:8:"block_id";s:2:"11";s:12:"custom_class";s:10:"box-bottom";s:25:"custom_html_wrapper_class";s:0:"";s:22:"custom_html_wrapper_id";s:0:"";s:11:"block_title";s:0:"";}]]></widget_parameters>
+      <sort_order><![CDATA[8]]></sort_order>
+      <page_groups><![CDATA[a:1:{i:0;a:2:{s:10:"page_group";s:5:"pages";s:5:"pages";a:6:{s:7:"page_id";s:2:"23";s:5:"group";s:5:"pages";s:5:"block";s:8:"em_area7";s:9:"for_value";s:3:"all";s:13:"layout_handle";s:15:"cms_index_index";s:8:"template";s:0:"";}}}]]></page_groups>
+      <instance_type><![CDATA[cmswidget/widget_block]]></instance_type>
+      <package_theme><![CDATA[default/galaelectronues]]></package_theme>
+    </widget>
+    <widget id="26">
+      <instance_id><![CDATA[26]]></instance_id>
+      <title><![CDATA[Gala Electronues Home Text Cameras & Camera Accessories - Area07]]></title>
+      <store_ids><![CDATA[a:1:{i:0;i:0;}]]></store_ids>
+      <widget_parameters><![CDATA[a:5:{s:8:"block_id";s:2:"12";s:12:"custom_class";s:10:"box-bottom";s:25:"custom_html_wrapper_class";s:0:"";s:22:"custom_html_wrapper_id";s:0:"";s:11:"block_title";s:0:"";}]]></widget_parameters>
+      <sort_order><![CDATA[10]]></sort_order>
+      <page_groups><![CDATA[a:1:{i:0;a:2:{s:10:"page_group";s:5:"pages";s:5:"pages";a:6:{s:7:"page_id";s:2:"24";s:5:"group";s:5:"pages";s:5:"block";s:8:"em_area7";s:9:"for_value";s:3:"all";s:13:"layout_handle";s:15:"cms_index_index";s:8:"template";s:0:"";}}}]]></page_groups>
+      <instance_type><![CDATA[cmswidget/widget_block]]></instance_type>
+      <package_theme><![CDATA[default/galaelectronues]]></package_theme>
+    </widget>
+    <widget id="27">
+      <instance_id><![CDATA[27]]></instance_id>
+      <title><![CDATA[Gala Electronues Home Text Beauty & Health Care - Area07]]></title>
+      <store_ids><![CDATA[a:1:{i:0;i:0;}]]></store_ids>
+      <widget_parameters><![CDATA[a:5:{s:8:"block_id";s:2:"13";s:12:"custom_class";s:10:"box-bottom";s:25:"custom_html_wrapper_class";s:0:"";s:22:"custom_html_wrapper_id";s:0:"";s:11:"block_title";s:0:"";}]]></widget_parameters>
+      <sort_order><![CDATA[12]]></sort_order>
+      <page_groups><![CDATA[a:1:{i:0;a:2:{s:10:"page_group";s:5:"pages";s:5:"pages";a:6:{s:7:"page_id";s:2:"25";s:5:"group";s:5:"pages";s:5:"block";s:8:"em_area7";s:9:"for_value";s:3:"all";s:13:"layout_handle";s:15:"cms_index_index";s:8:"template";s:0:"";}}}]]></page_groups>
+      <instance_type><![CDATA[cmswidget/widget_block]]></instance_type>
+      <package_theme><![CDATA[default/galaelectronues]]></package_theme>
+    </widget>
+    <widget id="28">
+      <instance_id><![CDATA[28]]></instance_id>
+      <title><![CDATA[Gala Electronues Home Text Clothing - Area07]]></title>
+      <store_ids><![CDATA[a:1:{i:0;i:0;}]]></store_ids>
+      <widget_parameters><![CDATA[a:5:{s:8:"block_id";s:2:"14";s:12:"custom_class";s:10:"box-bottom";s:25:"custom_html_wrapper_class";s:0:"";s:22:"custom_html_wrapper_id";s:0:"";s:11:"block_title";s:0:"";}]]></widget_parameters>
+      <sort_order><![CDATA[14]]></sort_order>
+      <page_groups><![CDATA[a:1:{i:0;a:2:{s:10:"page_group";s:5:"pages";s:5:"pages";a:6:{s:7:"page_id";s:2:"26";s:5:"group";s:5:"pages";s:5:"block";s:8:"em_area7";s:9:"for_value";s:3:"all";s:13:"layout_handle";s:15:"cms_index_index";s:8:"template";s:0:"";}}}]]></page_groups>
+      <instance_type><![CDATA[cmswidget/widget_block]]></instance_type>
+      <package_theme><![CDATA[default/galaelectronues]]></package_theme>
+    </widget>
+    <widget id="29">
+      <instance_id><![CDATA[29]]></instance_id>
+      <title><![CDATA[Gala Electronues Footer Text - Area13]]></title>
+      <store_ids><![CDATA[a:1:{i:0;i:0;}]]></store_ids>
+      <widget_parameters><![CDATA[a:5:{s:8:"block_id";s:2:"15";s:12:"custom_class";s:11:"footer-text";s:25:"custom_html_wrapper_class";s:0:"";s:22:"custom_html_wrapper_id";s:0:"";s:11:"block_title";s:0:"";}]]></widget_parameters>
+      <sort_order><![CDATA[1]]></sort_order>
+      <page_groups><![CDATA[a:1:{i:0;a:2:{s:10:"page_group";s:9:"all_pages";s:9:"all_pages";a:6:{s:7:"page_id";s:2:"27";s:5:"group";s:9:"all_pages";s:5:"block";s:9:"em_area13";s:9:"for_value";s:3:"all";s:13:"layout_handle";s:7:"default";s:8:"template";s:0:"";}}}]]></page_groups>
+      <instance_type><![CDATA[cmswidget/widget_block]]></instance_type>
+      <package_theme><![CDATA[default/galaelectronues]]></package_theme>
+    </widget>
+    <widget id="30">
+      <instance_id><![CDATA[30]]></instance_id>
+      <title><![CDATA[Gala Electronues Footer Information - Area14]]></title>
+      <store_ids><![CDATA[a:1:{i:0;i:0;}]]></store_ids>
+      <widget_parameters><![CDATA[a:5:{s:8:"block_id";s:2:"16";s:12:"custom_class";s:18:"footer-information";s:25:"custom_html_wrapper_class";s:0:"";s:22:"custom_html_wrapper_id";s:0:"";s:11:"block_title";s:0:"";}]]></widget_parameters>
+      <sort_order><![CDATA[0]]></sort_order>
+      <page_groups><![CDATA[a:1:{i:0;a:2:{s:10:"page_group";s:9:"all_pages";s:9:"all_pages";a:6:{s:7:"page_id";s:2:"28";s:5:"group";s:9:"all_pages";s:5:"block";s:9:"em_area14";s:9:"for_value";s:3:"all";s:13:"layout_handle";s:7:"default";s:8:"template";s:0:"";}}}]]></page_groups>
+      <instance_type><![CDATA[cmswidget/widget_block]]></instance_type>
+      <package_theme><![CDATA[default/galaelectronues]]></package_theme>
+    </widget>
+    <widget id="31">
+      <instance_id><![CDATA[31]]></instance_id>
+      <title><![CDATA[Gala Electronues News Letter Footer - Area14]]></title>
+      <store_ids><![CDATA[a:1:{i:0;i:0;}]]></store_ids>
+      <widget_parameters><![CDATA[a:5:{s:8:"block_id";s:2:"17";s:12:"custom_class";s:10:"newsletter";s:25:"custom_html_wrapper_class";s:0:"";s:22:"custom_html_wrapper_id";s:0:"";s:11:"block_title";s:0:"";}]]></widget_parameters>
+      <sort_order><![CDATA[1]]></sort_order>
+      <page_groups><![CDATA[a:1:{i:0;a:2:{s:10:"page_group";s:9:"all_pages";s:9:"all_pages";a:6:{s:7:"page_id";s:2:"29";s:5:"group";s:9:"all_pages";s:5:"block";s:9:"em_area14";s:9:"for_value";s:3:"all";s:13:"layout_handle";s:7:"default";s:8:"template";s:0:"";}}}]]></page_groups>
+      <instance_type><![CDATA[cmswidget/widget_block]]></instance_type>
+      <package_theme><![CDATA[default/galaelectronues]]></package_theme>
+    </widget>
+    <widget id="32">
+      <instance_id><![CDATA[32]]></instance_id>
+      <title><![CDATA[Gala Electronues Footer Friend - Area15]]></title>
+      <store_ids><![CDATA[a:1:{i:0;i:0;}]]></store_ids>
+      <widget_parameters><![CDATA[a:5:{s:8:"block_id";s:2:"18";s:12:"custom_class";s:12:"footer-right";s:25:"custom_html_wrapper_class";s:0:"";s:22:"custom_html_wrapper_id";s:0:"";s:11:"block_title";s:0:"";}]]></widget_parameters>
+      <sort_order><![CDATA[0]]></sort_order>
+      <page_groups><![CDATA[a:1:{i:0;a:2:{s:10:"page_group";s:9:"all_pages";s:9:"all_pages";a:6:{s:7:"page_id";s:2:"30";s:5:"group";s:9:"all_pages";s:5:"block";s:9:"em_area15";s:9:"for_value";s:3:"all";s:13:"layout_handle";s:7:"default";s:8:"template";s:0:"";}}}]]></page_groups>
+      <instance_type><![CDATA[cmswidget/widget_block]]></instance_type>
+      <package_theme><![CDATA[default/galaelectronues]]></package_theme>
+    </widget>
+    <widget id="33">
+      <instance_id><![CDATA[33]]></instance_id>
+      <title><![CDATA[Gala Electronues Footer Bootom]]></title>
+      <store_ids><![CDATA[a:1:{i:0;i:0;}]]></store_ids>
+      <widget_parameters><![CDATA[a:5:{s:8:"block_id";s:2:"19";s:12:"custom_class";s:7:"payment";s:25:"custom_html_wrapper_class";s:0:"";s:22:"custom_html_wrapper_id";s:0:"";s:11:"block_title";s:0:"";}]]></widget_parameters>
+      <sort_order><![CDATA[1]]></sort_order>
+      <page_groups><![CDATA[a:1:{i:0;a:2:{s:10:"page_group";s:9:"all_pages";s:9:"all_pages";a:6:{s:7:"page_id";s:2:"31";s:5:"group";s:9:"all_pages";s:5:"block";s:9:"em_area16";s:9:"for_value";s:3:"all";s:13:"layout_handle";s:7:"default";s:8:"template";s:0:"";}}}]]></page_groups>
+      <instance_type><![CDATA[cmswidget/widget_block]]></instance_type>
+      <package_theme><![CDATA[default/galaelectronues]]></package_theme>
+    </widget>
+    <widget id="34">
+      <instance_id><![CDATA[34]]></instance_id>
+      <title><![CDATA[Gala Electronues Latest Review - Area10]]></title>
+      <store_ids><![CDATA[a:1:{i:0;i:0;}]]></store_ids>
+      <widget_parameters><![CDATA[a:14:{s:11:"limit_count";s:1:"2";s:12:"new_category";a:1:{i:0;s:1:"3";}s:12:"column_count";s:1:"1";s:14:"frontend_title";s:13:"LATEST REVIEW";s:15:"thumbnail_width";s:3:"100";s:16:"thumbnail_height";s:3:"100";s:17:"show_product_name";s:4:"true";s:14:"show_thumbnail";s:4:"true";s:10:"show_price";s:4:"true";s:14:"show_addtocart";s:4:"true";s:10:"show_addto";s:4:"true";s:10:"show_label";s:4:"true";s:15:"choose_template";s:46:"em_recentviewproducts/grid_products_full.phtml";s:14:"cache_lifetime";s:0:"";}]]></widget_parameters>
+      <sort_order><![CDATA[3]]></sort_order>
+      <page_groups><![CDATA[a:3:{i:0;a:2:{s:10:"page_group";s:20:"notanchor_categories";s:20:"notanchor_categories";a:6:{s:7:"page_id";s:2:"32";s:5:"group";s:20:"notanchor_categories";s:5:"block";s:9:"em_area10";s:9:"for_value";s:3:"all";s:13:"layout_handle";s:24:"catalog_category_default";s:8:"template";s:0:"";}}i:1;a:2:{s:10:"page_group";s:17:"anchor_categories";s:17:"anchor_categories";a:6:{s:7:"page_id";s:2:"33";s:5:"group";s:17:"anchor_categories";s:5:"block";s:9:"em_area10";s:9:"for_value";s:3:"all";s:13:"layout_handle";s:24:"catalog_category_layered";s:8:"template";s:0:"";}}i:2;a:2:{s:10:"page_group";s:12:"all_products";s:12:"all_products";a:6:{s:7:"page_id";s:2:"34";s:5:"group";s:12:"all_products";s:5:"block";s:9:"em_area10";s:9:"for_value";s:3:"all";s:13:"layout_handle";s:20:"catalog_product_view";s:8:"template";s:0:"";}}}]]></page_groups>
+      <instance_type><![CDATA[recentreviewproducts/list]]></instance_type>
+      <package_theme><![CDATA[default/galaelectronues]]></package_theme>
+    </widget>
+    <widget id="35">
+      <instance_id><![CDATA[35]]></instance_id>
+      <title><![CDATA[Gala Electronues Home Baner Left - Area10]]></title>
+      <store_ids><![CDATA[a:1:{i:0;i:0;}]]></store_ids>
+      <widget_parameters><![CDATA[a:5:{s:8:"block_id";s:2:"20";s:12:"custom_class";s:16:"home-banner-left";s:25:"custom_html_wrapper_class";s:0:"";s:22:"custom_html_wrapper_id";s:0:"";s:11:"block_title";s:0:"";}]]></widget_parameters>
+      <sort_order><![CDATA[7]]></sort_order>
+      <page_groups><![CDATA[a:1:{i:0;a:2:{s:10:"page_group";s:5:"pages";s:5:"pages";a:6:{s:7:"page_id";s:2:"35";s:5:"group";s:5:"pages";s:5:"block";s:9:"em_area10";s:9:"for_value";s:3:"all";s:13:"layout_handle";s:15:"cms_index_index";s:8:"template";s:0:"";}}}]]></page_groups>
+      <instance_type><![CDATA[cmswidget/widget_block]]></instance_type>
+      <package_theme><![CDATA[default/galaelectronues]]></package_theme>
+    </widget>
+    <widget id="36">
+      <instance_id><![CDATA[36]]></instance_id>
+      <title><![CDATA[Gala Electronues Catalog Banner Left - Area10]]></title>
+      <store_ids><![CDATA[a:1:{i:0;i:0;}]]></store_ids>
+      <widget_parameters><![CDATA[a:5:{s:8:"block_id";s:2:"21";s:12:"custom_class";s:0:"";s:25:"custom_html_wrapper_class";s:0:"";s:22:"custom_html_wrapper_id";s:0:"";s:11:"block_title";s:0:"";}]]></widget_parameters>
+      <sort_order><![CDATA[4]]></sort_order>
+      <page_groups><![CDATA[a:6:{i:0;a:2:{s:10:"page_group";s:12:"all_products";s:12:"all_products";a:6:{s:7:"page_id";s:2:"36";s:5:"group";s:12:"all_products";s:5:"block";s:9:"em_area10";s:9:"for_value";s:3:"all";s:13:"layout_handle";s:20:"catalog_product_view";s:8:"template";s:0:"";}}i:1;a:2:{s:10:"page_group";s:20:"notanchor_categories";s:20:"notanchor_categories";a:6:{s:7:"page_id";s:2:"37";s:5:"group";s:20:"notanchor_categories";s:5:"block";s:9:"em_area10";s:9:"for_value";s:3:"all";s:13:"layout_handle";s:24:"catalog_category_default";s:8:"template";s:0:"";}}i:2;a:2:{s:10:"page_group";s:17:"anchor_categories";s:17:"anchor_categories";a:6:{s:7:"page_id";s:2:"38";s:5:"group";s:17:"anchor_categories";s:5:"block";s:9:"em_area10";s:9:"for_value";s:3:"all";s:13:"layout_handle";s:24:"catalog_category_layered";s:8:"template";s:0:"";}}i:3;a:2:{s:10:"page_group";s:5:"pages";s:5:"pages";a:6:{s:7:"page_id";s:2:"39";s:5:"group";s:5:"pages";s:5:"block";s:9:"em_area10";s:9:"for_value";s:3:"all";s:13:"layout_handle";s:23:"checkout_onepage_review";s:8:"template";s:0:"";}}i:4;a:2:{s:10:"page_group";s:5:"pages";s:5:"pages";a:6:{s:7:"page_id";s:2:"40";s:5:"group";s:5:"pages";s:5:"block";s:9:"em_area10";s:9:"for_value";s:3:"all";s:13:"layout_handle";s:24:"checkout_onepage_success";s:8:"template";s:0:"";}}i:5;a:2:{s:10:"page_group";s:5:"pages";s:5:"pages";a:6:{s:7:"page_id";s:2:"41";s:5:"group";s:5:"pages";s:5:"block";s:9:"em_area10";s:9:"for_value";s:3:"all";s:13:"layout_handle";s:24:"checkout_onepage_failure";s:8:"template";s:0:"";}}}]]></page_groups>
+      <instance_type><![CDATA[cmswidget/widget_block]]></instance_type>
+      <package_theme><![CDATA[default/galaelectronues]]></package_theme>
+    </widget>
+    <widget id="37">
+      <instance_id><![CDATA[37]]></instance_id>
+      <title><![CDATA[Gala Electronues Sample Block - Area 08]]></title>
+      <store_ids><![CDATA[a:1:{i:0;i:0;}]]></store_ids>
+      <widget_parameters><![CDATA[a:5:{s:8:"block_id";s:2:"22";s:12:"custom_class";s:0:"";s:25:"custom_html_wrapper_class";s:0:"";s:22:"custom_html_wrapper_id";s:0:"";s:11:"block_title";s:0:"";}]]></widget_parameters>
+      <sort_order><![CDATA[0]]></sort_order>
+      <page_groups><![CDATA[a:1:{i:0;a:2:{s:10:"page_group";s:12:"all_products";s:12:"all_products";a:6:{s:7:"page_id";s:2:"43";s:5:"group";s:12:"all_products";s:5:"block";s:8:"em_area8";s:9:"for_value";s:3:"all";s:13:"layout_handle";s:20:"catalog_product_view";s:8:"template";s:0:"";}}}]]></page_groups>
+      <instance_type><![CDATA[cmswidget/widget_block]]></instance_type>
+      <package_theme><![CDATA[default/galaelectronues]]></package_theme>
+    </widget>
+    <widget id="38">
+      <instance_id><![CDATA[38]]></instance_id>
+      <title><![CDATA[Gala Electronues Sample Block - Area 09]]></title>
+      <store_ids><![CDATA[a:1:{i:0;i:0;}]]></store_ids>
+      <widget_parameters><![CDATA[a:5:{s:8:"block_id";s:2:"23";s:12:"custom_class";s:0:"";s:25:"custom_html_wrapper_class";s:0:"";s:22:"custom_html_wrapper_id";s:0:"";s:11:"block_title";s:0:"";}]]></widget_parameters>
+      <sort_order><![CDATA[0]]></sort_order>
+      <page_groups><![CDATA[a:1:{i:0;a:2:{s:10:"page_group";s:12:"all_products";s:12:"all_products";a:6:{s:7:"page_id";s:2:"45";s:5:"group";s:12:"all_products";s:5:"block";s:8:"em_area9";s:9:"for_value";s:3:"all";s:13:"layout_handle";s:20:"catalog_product_view";s:8:"template";s:0:"";}}}]]></page_groups>
+      <instance_type><![CDATA[cmswidget/widget_block]]></instance_type>
+      <package_theme><![CDATA[default/galaelectronues]]></package_theme>
+    </widget>
+    <widget id="39">
+      <instance_id><![CDATA[39]]></instance_id>
+      <title><![CDATA[Gala Electronues Sample Block - Area 05]]></title>
+      <store_ids><![CDATA[a:1:{i:0;i:0;}]]></store_ids>
+      <widget_parameters><![CDATA[a:5:{s:8:"block_id";s:2:"24";s:12:"custom_class";s:0:"";s:25:"custom_html_wrapper_class";s:0:"";s:22:"custom_html_wrapper_id";s:0:"";s:11:"block_title";s:0:"";}]]></widget_parameters>
+      <sort_order><![CDATA[0]]></sort_order>
+      <page_groups><![CDATA[a:1:{i:0;a:2:{s:10:"page_group";s:12:"all_products";s:12:"all_products";a:6:{s:7:"page_id";s:2:"44";s:5:"group";s:12:"all_products";s:5:"block";s:8:"em_area5";s:9:"for_value";s:3:"all";s:13:"layout_handle";s:20:"catalog_product_view";s:8:"template";s:0:"";}}}]]></page_groups>
+      <instance_type><![CDATA[cmswidget/widget_block]]></instance_type>
+      <package_theme><![CDATA[default/galaelectronues]]></package_theme>
+    </widget>
+    <widget id="40">
+      <instance_id><![CDATA[40]]></instance_id>
+      <title><![CDATA[Gala Electronues Sample Block - Area 06]]></title>
+      <store_ids><![CDATA[a:1:{i:0;i:0;}]]></store_ids>
+      <widget_parameters><![CDATA[a:5:{s:8:"block_id";s:2:"25";s:12:"custom_class";s:0:"";s:25:"custom_html_wrapper_class";s:0:"";s:22:"custom_html_wrapper_id";s:0:"";s:11:"block_title";s:0:"";}]]></widget_parameters>
+      <sort_order><![CDATA[0]]></sort_order>
+      <page_groups><![CDATA[a:1:{i:0;a:2:{s:10:"page_group";s:12:"all_products";s:12:"all_products";a:6:{s:7:"page_id";s:2:"46";s:5:"group";s:12:"all_products";s:5:"block";s:8:"em_area6";s:9:"for_value";s:3:"all";s:13:"layout_handle";s:20:"catalog_product_view";s:8:"template";s:0:"";}}}]]></page_groups>
+      <instance_type><![CDATA[cmswidget/widget_block]]></instance_type>
+      <package_theme><![CDATA[default/galaelectronues]]></package_theme>
+    </widget>
+    <widget id="41">
+      <instance_id><![CDATA[41]]></instance_id>
+      <title><![CDATA[Gala Electronues Sample Block - Alert Url]]></title>
+      <store_ids><![CDATA[a:1:{i:0;i:0;}]]></store_ids>
+      <widget_parameters><![CDATA[a:5:{s:8:"block_id";s:2:"26";s:12:"custom_class";s:0:"";s:25:"custom_html_wrapper_class";s:0:"";s:22:"custom_html_wrapper_id";s:0:"";s:11:"block_title";s:0:"";}]]></widget_parameters>
+      <sort_order><![CDATA[0]]></sort_order>
+      <page_groups><![CDATA[a:1:{i:0;a:2:{s:10:"page_group";s:12:"all_products";s:12:"all_products";a:6:{s:7:"page_id";s:2:"47";s:5:"group";s:12:"all_products";s:5:"block";s:10:"alert.urls";s:9:"for_value";s:3:"all";s:13:"layout_handle";s:20:"catalog_product_view";s:8:"template";s:0:"";}}}]]></page_groups>
+      <instance_type><![CDATA[cmswidget/widget_block]]></instance_type>
+      <package_theme><![CDATA[default/galaelectronues]]></package_theme>
+    </widget>
+    <widget id="42">
+      <instance_id><![CDATA[42]]></instance_id>
+      <title><![CDATA[Gala Electronues Sample Block - Extra Hint]]></title>
+      <store_ids><![CDATA[a:1:{i:0;i:0;}]]></store_ids>
+      <widget_parameters><![CDATA[a:5:{s:8:"block_id";s:2:"27";s:12:"custom_class";s:0:"";s:25:"custom_html_wrapper_class";s:0:"";s:22:"custom_html_wrapper_id";s:0:"";s:11:"block_title";s:0:"";}]]></widget_parameters>
+      <sort_order><![CDATA[0]]></sort_order>
+      <page_groups><![CDATA[a:1:{i:0;a:2:{s:10:"page_group";s:12:"all_products";s:12:"all_products";a:6:{s:7:"page_id";s:2:"48";s:5:"group";s:12:"all_products";s:5:"block";s:22:"product.info.extrahint";s:9:"for_value";s:3:"all";s:13:"layout_handle";s:20:"catalog_product_view";s:8:"template";s:0:"";}}}]]></page_groups>
+      <instance_type><![CDATA[cmswidget/widget_block]]></instance_type>
+      <package_theme><![CDATA[default/galaelectronues]]></package_theme>
+    </widget>
+    <widget id="43">
+      <instance_id><![CDATA[43]]></instance_id>
+      <title><![CDATA[Gala Electronues Sample Block - Product View Short Description After]]></title>
+      <store_ids><![CDATA[a:1:{i:0;i:0;}]]></store_ids>
+      <widget_parameters><![CDATA[a:5:{s:8:"block_id";s:2:"28";s:12:"custom_class";s:0:"";s:25:"custom_html_wrapper_class";s:0:"";s:22:"custom_html_wrapper_id";s:0:"";s:11:"block_title";s:0:"";}]]></widget_parameters>
+      <sort_order><![CDATA[0]]></sort_order>
+      <page_groups><![CDATA[a:1:{i:0;a:2:{s:10:"page_group";s:12:"all_products";s:12:"all_products";a:6:{s:7:"page_id";s:2:"49";s:5:"group";s:12:"all_products";s:5:"block";s:28:"product.info.short_des_after";s:9:"for_value";s:3:"all";s:13:"layout_handle";s:20:"catalog_product_view";s:8:"template";s:0:"";}}}]]></page_groups>
+      <instance_type><![CDATA[cmswidget/widget_block]]></instance_type>
+      <package_theme><![CDATA[default/galaelectronues]]></package_theme>
+    </widget>
+    <widget id="44">
+      <instance_id><![CDATA[44]]></instance_id>
+      <title><![CDATA[Gala Electronues - Product Collateral Sample 1]]></title>
+      <store_ids><![CDATA[a:1:{i:0;i:0;}]]></store_ids>
+      <widget_parameters><![CDATA[a:5:{s:8:"block_id";s:2:"29";s:12:"custom_class";s:0:"";s:25:"custom_html_wrapper_class";s:0:"";s:22:"custom_html_wrapper_id";s:0:"";s:11:"block_title";s:12:"Custom Tab 1";}]]></widget_parameters>
+      <sort_order><![CDATA[0]]></sort_order>
+      <page_groups><![CDATA[a:1:{i:0;a:2:{s:10:"page_group";s:12:"all_products";s:12:"all_products";a:6:{s:7:"page_id";s:2:"50";s:5:"group";s:12:"all_products";s:5:"block";s:33:"product.info.additonal_collateral";s:9:"for_value";s:3:"all";s:13:"layout_handle";s:20:"catalog_product_view";s:8:"template";s:0:"";}}}]]></page_groups>
+      <instance_type><![CDATA[cmswidget/widget_block]]></instance_type>
+      <package_theme><![CDATA[default/galaelectronues]]></package_theme>
+    </widget>
+    <widget id="45">
+      <instance_id><![CDATA[45]]></instance_id>
+      <title><![CDATA[Gala Electronues - Product Collateral Sample 2]]></title>
+      <store_ids><![CDATA[a:1:{i:0;i:0;}]]></store_ids>
+      <widget_parameters><![CDATA[a:5:{s:8:"block_id";s:2:"29";s:12:"custom_class";s:0:"";s:25:"custom_html_wrapper_class";s:0:"";s:22:"custom_html_wrapper_id";s:0:"";s:11:"block_title";s:12:"Custom Tab N";}]]></widget_parameters>
+      <sort_order><![CDATA[0]]></sort_order>
+      <page_groups><![CDATA[a:1:{i:0;a:2:{s:10:"page_group";s:12:"all_products";s:12:"all_products";a:6:{s:7:"page_id";s:2:"51";s:5:"group";s:12:"all_products";s:5:"block";s:33:"product.info.additonal_collateral";s:9:"for_value";s:3:"all";s:13:"layout_handle";s:20:"catalog_product_view";s:8:"template";s:0:"";}}}]]></page_groups>
+      <instance_type><![CDATA[cmswidget/widget_block]]></instance_type>
+      <package_theme><![CDATA[default/galaelectronues]]></package_theme>
+    </widget>
+  </widget_instance>
+</sample_data>

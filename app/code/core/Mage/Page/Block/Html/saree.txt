@@ -1,0 +1,423 @@
+
+                                        <li>
+                                            <label>
+                                                <small class="red">*</small> Around Bust</label>
+                                            <input type="text" maxlength="4" class="smll" id="txtbust" rel="saree-aroundbust" +="" tabindex="5"><span style="float:left;  position:relative" class="errorWrap"><span class="alert" style="left: -131px; top: 53px;"><span class="upArrow"></span>&nbsp;&nbsp;Not within range&nbsp;&nbsp;</span></span>
+                                            <div>
+                                                <span class="inch">(<label>32.00</label>-<label>44.00</label>)<br>
+                                                    inch</span> <span class="rangeOff">(<label>81</label>-<label>112</label>)<br>
+                                                        cm</span>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <label>
+                                                <small class="red">*</small> Around Above Waist</label>
+                                            <input maxlength="4" type="text" class="smll" id="txtawaist" rel="saree-around-above-waist" tabindex="6">
+                                            <div>
+                                                <span class="inch">(<label>24.00</label>-<label>50.00</label>)<br>
+                                                    inch</span> <span class="rangeOff">(<label>61</label>-<label>127</label>)<br>
+                                                        cm</span>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <label>
+                                                Shoulder</label>
+                                            <input maxlength="4" type="text" class="smll" id="txtshoulder" rel="saree-shoulder" tabindex="7">
+                                            <div>
+                                                <span class="inch">(<label>13.00</label>-<label>20.00</label>)<br>
+                                                    inch</span> <span class="rangeOff">(<label>33</label>-<label>51</label>)<br>
+                                                        cm</span>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <label>
+                                                <small class="red">*</small> Around Arm Hole</label>
+                                            <input maxlength="4" type="text" class="smll" id="txtarmhole" rel="saree-around-arm-hole" tabindex="8">
+                                            <div>
+                                                <span class="inch">(<label>12.00</label>-<label>32.00</label>)<br>
+                                                    inch</span> <span class="rangeOff">(<label>30</label>-<label>81</label>)<br>
+                                                        cm</span>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <label>
+                                                <small class="red">*</small> Around Arm</label>
+                                            <input maxlength="4" type="text" class="smll" id="txtarm" rel="saree-around-arm" tabindex="9">
+                                            <div>
+                                                <span class="inch">(<label>8.00</label>-<label>32.00</label>)<br>
+                                                    inch</span> <span class="rangeOff">(<label>20</label>-<label>81</label>)<br>
+                                                        cm</span>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <label>
+                                                <small class="red">*</small> Your Height</label>
+                                            <select class="smll" style="*margin-top:8px;" id="txtheight" rel="saree-height" tabindex="10">
+                                                <option value="0">Select</option><option value="4.0">4' 0''</option><option value="4.1">4' 1''</option><option value="4.2">4' 2''</option><option value="4.3">4' 3''</option><option value="4.4">4' 4''</option><option value="4.5">4' 5''</option><option value="4.6">4' 6''</option><option value="4.7">4' 7''</option><option value="4.8">4' 8''</option><option value="4.9">4' 9''</option><option value="4.10">4' 10''</option><option value="4.11">4' 11''</option><option value="5.0">5' 0''</option><option value="5.1">5' 1''</option><option value="5.2">5' 2''</option><option value="5.3">5' 3''</option><option value="5.4">5' 4''</option><option value="5.5">5' 5''</option><option value="5.6">5' 6''</option><option value="5.7">5' 7''</option><option value="5.8">5' 8''</option><option value="5.9">5' 9''</option><option value="5.10">5' 10''</option><option value="5.11">5' 11''</option><option value="6.0">6' 0''</option><option value="6.1">6' 1''</option><option value="6.2">6' 2''</option>
+                                            </select>
+                                            <select class="disnone" style="display: none;" rel="saree-height" id="txtheightCm" tabindex="10">
+                                                <option value="0">Select</option><option value="122">122</option><option value="123">123</option><option value="124">124</option><option value="125">125</option><option value="126">126</option><option value="127">127</option><option value="128">128</option><option value="129">129</option><option value="130">130</option><option value="131">131</option><option value="132">132</option><option value="133">133</option><option value="134">134</option><option value="135">135</option><option value="136">136</option><option value="137">137</option><option value="138">138</option><option value="139">139</option><option value="140">140</option><option value="141">141</option><option value="142">142</option><option value="143">143</option><option value="144">144</option><option value="145">145</option><option value="146">146</option><option value="147">147</option><option value="148">148</option><option value="149">149</option><option value="150">150</option><option value="151">151</option><option value="152">152</option><option value="153">153</option><option value="154">154</option><option value="155">155</option><option value="156">156</option><option value="157">157</option><option value="158">158</option><option value="159">159</option><option value="160">160</option><option value="161">161</option><option value="162">162</option><option value="163">163</option><option value="164">164</option><option value="165">165</option><option value="166">166</option><option value="167">167</option><option value="168">168</option><option value="169">169</option><option value="170">170</option><option value="171">171</option><option value="172">172</option><option value="173">173</option><option value="174">174</option><option value="175">175</option><option value="176">176</option><option value="177">177</option><option value="178">178</option><option value="179">179</option><option value="180">180</option><option value="181">181</option><option value="182">182</option><option value="183">183</option><option value="184">184</option><option value="185">185</option><option value="186">186</option><option value="187">187</option><option value="188">188</option><option value="189">189</option><option value="190">190</option><option value="191">191</option><option value="192">192</option><option value="193">193</option><option value="194">194</option><option value="195">195</option><option value="196">196</option><option value="197">197</option><option value="198">198</option><option value="199">199</option><option value="200">200</option><option value="201">201</option><option value="202">202</option><option value="203">203</option><option value="204">204</option><option value="205">205</option><option value="206">206</option><option value="207">207</option><option value="208">208</option><option value="209">209</option><option value="210">210</option><option value="211">211</option>
+                                            </select>
+                                            <div>
+                                                <span class="inch">feet</span> <span class="rangeOff">cm</span>
+                                            </div>
+                                        </li>
+                                        <li style="font-size: 12px;">
+                                            <label>
+                                                &nbsp;</label><small class="red">*</small> <em>Indicates a required field</em></li>
+                                    </ul>
+                                    <div class="inchCm"><p><strong>Measurement Unit</strong><br></p><p><input style="vertical-align:middle" type="radio" class="checkOn" id="unitinch" name="Munit" checked="checked" value="inch"><span>Inches</span><input style="vertical-align:middle" type="radio" id="unitcm" name="Munit" value="cm"><span>Centimeters </span></p></div>
+                                    
+                                </div>
+                                <div class="demoRgt demoWidth rgt">
+                                    <div class="lft mesureUnit">
+                                        <div class="clr">
+                                        </div>
+                                        <div class="howMesure fit" id="txtbusttext" style="display: none;">
+                                            <span class="rgtArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                                            <p>
+                                                How to Measure</p>
+                                            <h3>
+                                                <strong>Around Bust</strong></h3>
+                                            <p>
+                                                Measure under arms around the fullest part of the bust. Be sure to keep tape level across back and comfortably loose as per your wearing habits.
+                                            </p>
+                                        </div>
+                                        <div class="howMesure fit" style="display: none;" id="txtawaisttext">
+                                            <span class="rgtArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                                            <p>
+                                                How to Measure</p>
+                                            <h3>
+                                                <strong>Around Above Waist</strong></h3>
+                                            <p>
+                                                Place the tape well under arms, straight across the back and measure this from just
+                                                under the bust and just above the waist.
+                                            </p>
+                                        </div>
+                                        <div class="howMesure  fit" style="display: none;" id="txtshouldertext">
+                                            <span class="rgtArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                                            <p>
+                                                How to Measure</p>
+                                            <h3>
+                                                <strong>Shoulder</strong></h3>
+                                            <p>
+                                                Measure shoulder from one shoulder point to other shoulder point horizontally from
+                                                back.
+                                            </p>
+                                        </div>
+                                        <div class="howMesure fit" style="display: none;" id="txtarmholetext">
+                                            <span class="rgtArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                                            <p>
+                                                How to Measure</p>
+                                            <h3>
+                                                <strong>Around Arm Hole</strong></h3>
+                                            <p>
+                                                From the highest point on the shoulder measure around arm hole with your arm hanging
+                                                down.
+                                            </p>
+                                        </div>
+                                        <div class="howMesure fit" style="display: none;" id="txtarmtext">
+                                            <span class="rgtArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                                            <p>
+                                                How to Measure</p>
+                                            <h3>
+                                                <strong>Around Arm</strong></h3>
+                                            <p>
+                                                Measure the middle of bisceps level of your arm keeping the hand relaxed.
+                                            </p>
+                                        </div>
+                                        <div class="howMesure fit" id="txtheighttext" style="display: none;">
+                                            <span class="rgtArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                                            <p>
+                                                How to Measure</p>
+                                            <h3>
+                                                <strong>Your Height</strong></h3>
+                                            <p>
+                                                Stand in your stocking feet with your feet slightly apart and your back to a wall.
+                                                Measure from the floor to the top of your head.
+                                            </p>
+                                        </div>
+                                        <div class="howMesure fit" id="txtheightCmtext" style="display: none;">
+                                            <span class="rgtArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                                            <p>
+                                                How to Measure</p>
+                                            <h3>
+                                                <strong>Your Height</strong></h3>
+                                            <p>
+                                                Stand in your stocking feet with your feet slightly apart and your back to a wall.
+                                                Measure from the floor to the top of your head.
+                                            </p>
+                                        </div>
+                                        <div class="clr">
+                                        </div>
+                                        <div class="measureTutorial" style="display: none;">
+                                            <img src="../images/mmt/video-icon.gif" alt=""><span>How to Measure Tutorial</span></div>
+                                    </div>
+                                    <div class="rgt">
+                                        <img id="fitdummy" class="DummyImg" src="../images/mmt/saree-dummy.jpg" alt=""></div>
+                                </div>
+                                <div class="clr">
+                                </div>
+                                <div class="nextStep">
+                                    <div class="lft">
+                                        <a href="../usfui/piplarge.aspx?icode=ssy293" onclick="dataLayer.push({'event' : 'Event-Measurement-Click','eventCategory' : 'Udesign-Blouse','eventAction' : 'measurement','eventLabel': 'back','eventValue' :'' });" class="blueLink" tabindex="12">&lt;&lt; Cancel and return</a>
+                                        <a href="#" tabindex="13" onclick="save_exit_Measurement(2,'#style','saveandexit');" class="newOrangeBtn" title="Save &amp; Exit">Save &amp; Exit</a>
+                                        </div>
+                                    <div class="rgt amount">
+                                        <a href="#" onclick="stepClick(2,'#style');" class="newOrangeBtn" title="Next Step" tabindex="11">
+                                            Next Step</a></div>
+                                </div>
+                            </div>
+                            <div class="clr">
+                            </div>
+                            
+                        </div>
+                    </div>
+    <div onclick="stepClick(2,this);" class="pageHeading">
+                        <div class="txt1">
+                            <span class="icon" id="styleImg">
+                                <img src="../images/mmt/style.png" alt=""></span> <span id="style">2. Style
+                                    <div class="rgt Sign">
+                                        <img alt="" src="../images/mmt/up-arrow.png"></div>
+                                </span>
+                        </div>
+                    </div>
+                    <div style="display: none;" class="rolesRosponsblites step" id="step2">
+                        <div class="tabCont">
+                            <div id="kameezStyle">
+                                <div class="measureBoxLeft lft">
+                                    <ul class="lft">
+                                        <li id="FNechLi">
+                                            <label>
+                                                <p>
+                                                    <span class="red">* </span>Front Neck Style</p>
+                                            </label>
+                                            <a id="Front-Neck-Style" class="select lft" href="#" tabindex="14">Select</a> </li>
+                                        <li>
+                                            <label>
+                                                <p>
+                                                    <span class="red">* </span>Front Neck Depth</p>
+                                            </label>
+                                            <div class="val lft">
+                                                <input maxlength="4" type="text" id="txtfrontneckdepth" rel="saree-frontneck-depth" tabindex="15">
+                                                <div id="FNstyle">
+                                                    <span class="inch">(<label>3.00</label>-<label>8.00</label>)<br>
+                                                        inch</span> <span class="rangeOff">(<label>8</label>-<label>20</label>)<br>
+                                                            cm</span>
+                                                </div>
+                                            </div>
+                                        </li>
+                                        <li id="BNechLi">
+                                            <label>
+                                                <p>
+                                                    <span class="red">* </span>Back Neck Style</p>
+                                            </label>
+                                            <a id="Back-Neck-Style" class="select lft" href="#" tabindex="16">Select</a></li>
+                                        <li>
+                                            <label>
+                                                <p>
+                                                    <span class="red">* </span>Back Neck Depth</p>
+                                            </label>
+                                            <div class="val lft">
+                                                <input maxlength="4" type="text" id="txtbackneckdepth" rel="saree-backneck-depth" tabindex="17">
+                                                <div id="BNstyle">
+                                                    <span class="inch">(<label>1.00</label>-<label>10.00</label>)<br>
+                                                        inch</span> <span class="rangeOff">(<label>3</label>-<label>25</label>)<br>
+                                                            cm</span>
+                                                </div>
+                                            </div>
+                                        </li>
+                                        <li id="SleeveStyleLi">
+                                            <label>
+                                                <p>
+                                                    <span class="red">* </span>Sleeve Style</p>
+                                            </label>
+                                            <a id="Sleeve-Style" class="select lft" href="#" tabindex="18">Select</a> </li>
+                                        <li>
+                                            <label>
+                                                <p>
+                                                    <span class="red">* </span>Sleeve Length</p>
+                                            </label>
+                                            <div class="val lft">
+                                                <input maxlength="4" type="text" id="txtsleevelength" rel="saree-sleeve-length" tabindex="19">
+                                                <div id="Slength">
+                                                    <span class="inch">(<label>0.00</label>-<label>25.00</label>)<br>
+                                                        inch</span> <span class="rangeOff">(<label>0</label>-<label>64</label>)<br>
+                                                            cm</span>
+                                                </div>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <label>
+                                                <p>
+                                                    <span class="red">* </span>Blouse Length</p>
+                                            </label>
+                                            <div class="val lft">
+                                                <input maxlength="4" type="text" id="txtuppertoplength" rel="saree-blouse-length" tabindex="20">
+                                                <div>
+                                                    <span class="inch">(<label>13.00</label>-<label>24.00</label>)<br>
+                                                        inch</span> <span class="rangeOff">(<label>33</label>-<label>61</label>)<br>
+                                                            cm</span>
+                                                </div>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <label>
+                                                <p>
+                                                    Closing Side</p>
+                                            </label>
+                                            <div class="clrBlk lft">
+                                            <input tabindex="19" type="radio" style="float:left; vertical-align:middle; margin-top:1px; margin-right:5px" name="closingSlSide" value="Front" checked="checked">Front&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                            <input type="radio" name="closingSlSide" style="margin-right:5px; vertical-align:middle;" value="Back">Back&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                            <input type="radio" style="vertical-align:middle;" name="closingSlSide" value="Side"> Side
+                                                
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <label>
+                                                <p>
+                                                    Closing With</p>
+                                            </label>
+                                            <div class="clrBlk lft">
+                                                <input tabindex="21" type="radio" style="float:left; margin-top:1px; margin-right:5px" name="closingSlWith" value="Hook" checked="checked">
+                                                Hook&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                                <input type="radio" name="closingSlWith" value="Zip" disabled="disabled">
+                                                Zip</div>
+                                        </li>
+                                        <li>
+                                            <label>
+                                                <p>
+                                                    Lining</p>
+                                            </label>
+                                            <div class="val lft">
+                                                <input style="*margin-top: 15px;" id="Lining" type="checkbox" disabled="true" checked="checked">
+                                                <div class="toolTipImgN" style="margin-top:16px; margin-left:5px;">
+                                        &nbsp;&nbsp;&nbsp;&nbsp;<div class="toolTipMsgN" style="display: ; width:176px; left:-88px;">
+                                            <span class="lftArrow inch" style="top:-16px; left:86px;">&nbsp;&nbsp;&nbsp;</span>Provided complimentary, as per<br> our tailoring expertise.</div>
+                                    </div>
+                                            </div>
+                                        </li>
+                                        <li style="font-size: 12px;">
+                                            <label>
+                                                &nbsp;</label><span class="red" style="margin-left:15px;">*</span> <em>Indicates a required field</em></li>
+                                    </ul>
+                                </div>
+                                <div >
+                                    <div class="rgt DummyBox">
+                                        <div class="howMesure styleMesure" id="txtfrontneckdepthtext" style="display: none;">
+                                            <span class="rgtArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                                            <p>
+                                                How to Measure</p>
+                                            <h3>
+                                                <strong>Front Neck Depth</strong></h3>
+                                            <p>
+                                                Measuring from the neck to your desired depth diagonally back neck point.
+                                            </p>
+                                        </div>
+                                        <div class="howMesure styleMesure" id="txtbackneckdepthtext" style="display: none;">
+                                            <span class="rgtArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                                            <p>
+                                                How to Measure</p>
+                                            <h3>
+                                                <strong>Back Neck Depth</strong></h3>
+                                            <p>
+                                                Measuring from the back neck point to your desired depth diagonally.
+                                            </p>
+                                        </div>
+                                        <div class="howMesure styleMesure" id="txtsleevelengthtext" style="display: none;">
+                                            <span class="rgtArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                                            <p>
+                                                How to Measure</p>
+                                            <h3>
+                                                <strong>Sleeve Length</strong></h3>
+                                            <p>
+                                                Starting from the outside edge of the shoulder bone and measure upto the desired
+                                                length.
+                                            </p>
+                                        </div>
+                                        <div class="howMesure styleMesure" id="txtuppertoplengthtext" style="display: none;">
+                                            <span class="rgtArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                                            <p>
+                                                How to Measure</p>
+                                            <h3>
+                                                <strong>Blouse Length</strong></h3>
+                                            <p>
+                                                Measure length from to point of your shoulder to desired length like show in the
+                                                how to measure image.
+                                            </p>
+                                        </div>
+                                        <img alt="" src="../images/mmt/saree-dummy.jpg" class="DummyImg">
+                                    </div>
+                                    <div class="styles" id="stylebox" style="display: none;">
+                                    </div>
+                                    <div class="clr">
+                                    </div>
+                                    
+                                    <p>To create a magic spell on your attire, we have reinvented the styling factor with Traditional, Trendy and Designer Styles, designed by our fashion experts.</p>
+                                    
+                                </div>
+                                <div class="clr">
+                                </div>
+                                <div class="nextStep">
+                                <div class="lft">
+                                        <a class="blueLink" href="../usfui/piplarge.aspx?icode=ssy293" onclick="dataLayer.push({'event' : 'Event-Measurement-Click','eventCategory' : 'Udesign-Blouse', 'eventAction' : 'measurement', 'eventLabel': 'backtoitem', 'eventValue' :'' });" tabindex="23">&lt;&lt; Cancel and return</a>
+                                        <a href="#" tabindex="11" onclick="save_exit_Measurement(2,'#style','saveandexit');" class="newOrangeBtn" title="Save &amp; Exit">Save &amp; Exit</a>
+                                        </div>
+                                    <div class="rgt amount">
+                                        <a class="newgreyBtn" onclick="stepClick(1,'#fit');dataLayer.push({'event' : 'Event-Measurement-Click','eventCategory' : 'Udesign-Blouse', 'eventAction' : 'Style', 'eventLabel': 'back', 'eventValue' :'' });" style="margin-right: 10px;" title="Back" href="#" tabindex="22">Back</a> <a class="newOrangeBtn" onclick="stepClick(3,'#adornment');" href="#" title="Next Step" tabindex="21">Next Step</a></div>
+                                </div>
+                            </div>
+                                </div>
+                                <div class="clr">
+                                </div>
+                                
+                            </div>
+                 
+                <div id="adornmentStep" onclick="stepClick(3,this);" class="pageHeading">
+                    <div class="txt1">
+                        <span class="icon" id="adorImg">
+                            <img src="../images/mmt/adornment.png" alt=""></span> <span id="adornment">3. Adornment
+                                <div class="rgt">
+                                    <span class="stripCominSoon disnone">Coming Soon</span>
+                                    <div class="rgt Sign">
+                                        <img alt="" src="../images/mmt/up-arrow.png"></div>
+                                </div>
+                            </span>
+                    </div>
+                </div>
+                
+          
+                <div  class="step" id="step3">
+                    <div class="tabCont">
+                        <div class="measureBoxLeft lft" style="border-left: none;">
+                            <ul class="lft">
+                                <li>
+                                    <label><p>Adornment Placement</p></label>
+                                    <a href="#" class="select lft" id="adornmentType" tabindex="24">Select</a> </li>
+                                <li>
+                                    <label><p>Adornment Type</p></label>
+                                    <a href="#" class="select lft" id="adornmentPlacement" tabindex="25">Select</a> </li>
+                            </ul>
+                        </div>
+                        <div >
+                            <div class="rgt DummyBox">
+                                <img alt="" src="../images/mmt/saree-dummy.jpg" class="DummyImg">
+                            </div>
+                            <div class="styles " id="adornmentStyle" style="display: none;">
+                            </div>
+                            <div class="clr">
+                            </div>
+                            <br>
+                            <p>
+                                Sprinkle the tinge of glamor with additional adornments to your outfit, with clinking
+                                tassels, handpicked by our Fashion Gurus.</p>
+                                <p><strong>Note: </strong>Only two adornments per placement will be provided, irrespective of the style selected.</p>
+                            <div class="rgt">
+                                <a tabindex="26" class="skippage" id="skipPage" onclick="stepClick(4,'#skipPage');revieworder(this);dataLayer.push({'event' : 'Event-Measurement-Click','eventCategory' : 'Udesign-Blouse', 'eventAction' : 'adornment', 'eventLabel': 'skip', 'eventValue' :'' });" title="Skip this step" style="margin-bottom: 2px; color: #005d84; padding: 4px 10px; font-size: 13px;" href="#">Skip this step ››</a></div>
+                        </div>
+                        <div class="clr">
+                        </div>
+                        <div class="nextStep">
+                        
+                </div>      
+</div>

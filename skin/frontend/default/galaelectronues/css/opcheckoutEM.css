@@ -1,0 +1,154 @@
+/**
+ * OneStepCheckout by EMThemes
+ *
+ * Based on Magento 1.7.0.0 source code
+ *
+ * @category    design
+ * @package     base_default
+ * @copyright   Copyright (c) 2012 EMThemes. (http://www.emthemes.com)
+ * @license     Commercial License. Granted for authorized users only.
+ */
+#checkoutSteps.opc-1sc{padding:20px; border:1px solid #C4C4C3; overflow:hidden; -moz-border-radius-topleft: 3px;
+-moz-border-radius-topright: 3px;
+border-top-left-radius: 3px;
+border-top-right-radius: 3px;}
+.opc-1sc:after { content:'.'; display:block; clear:both; visibility:hidden; height:0; overflow:hidden; zoom:1 }
+.opc-col1, .opc-col2, .opc-col3 { width:29%; float:left; padding:0 2%; }
+.opc-col1{padding-left:0;  border-right:1px solid #cdcdcd;  min-height:200px}
+.opc-col3 {width:33%;  border-left:1px solid #cdcdcd; padding-right:0;}
+.opc-col1 { margin-left:0 }
+.opc-col .tool-tip{left:30%}
+.adapt-0 .opc-col .tool-tip{left:0%}
+.opc-col .section { margin-bottom:2em;}
+#opc-billing ,#opc-shipping{border-bottom:none;}
+#opc-shipping{padding-top:21px}
+.opc-col .section:last-child { border-bottom:0 }
+
+.opc-col .step-title .number { text-align:center;float:left;padding:5px 12px; font:normal 14px/1.35 helvetica,arial,sans-serif;margin-right:10px }
+.opc-col .step{clear:both;font:11px Arial;color:#646464;}
+
+
+.opc-col .step-title h2 {font:14px/45px Arial;text-transform:uppercase;color:#fff; text-align:left}
+.opc-col .step-title h2 {padding:0;}
+.opc-col3 .step-title h2{}
+.opc-1sc p.required{clear:both; text-align:right;}
+
+.opc-col .form-list div.fields,
+.opc-col .form-list .field { width:100%;margin-bottom:8px; }
+.opc-col .form-list .input-box { width:100% }
+
+.opc-col .form-list input.input-text { width:70%;}
+.opc-col .form-list select { width:75.5%; }
+.opc-col .form-list li.wide .input-box { width:100% }
+.opc-col .form-list li.wide input.input-text { width:70% !important;}
+.opc-col .form-list li.wide select { width:95% }
+
+.opc-col .discount { margin-top:10px }
+
+#opc-review .buttons-set { padding:0; border:0; margin:1em 0 0 }
+
+/* hide checkbox "Use Billing Address" */
+#opc-shipping .control { display:none !important }
+
+/* hide all continue buttons except review's */
+.opc-col .buttons-set { display:none !important }
+#opc-review .buttons-set { display:block !important }
+.opc-1sc #opc-login p{margin-bottom:27px}
+#opc-login p a {text-transform:uppercase; font-size:10px;}
+#opc-login-popup { position:fixed; width:300px; margin:0 auto; z-index:9999; background:#fff; padding:10px 20px; text-align:left }
+#opc-login-popup-overlay { display:block; position:fixed; width:100%; height:100%; top:0; left:0; z-index:9998; background:#000; opacity:0.7; filter: alpha(opacity=75); }
+#opc-login-popup .close-btn { background:url(../images/btn_popup-close.png) no-repeat; width:38px; height:38px; position:absolute;; top:-16px; right:-16px; text-indent:-99999px }
+.opc-col #opc-review .product-name {font:12px Arial;padding-top:0px; margin-top:1px; margin-top:2px\0/}
+#opc-login-popup .form-list .input-box { width:100% }
+#opc-login-popup .form-list input.input-text { width:90% !important; }
+#opc-login-popup .buttons-set { margin-top:5px }
+
+.opc-1sc .data-table thead th{padding:11px 8px;font:bold 10px Arial;text-transform:uppercase;border:none;white-space:normal !important; background:none;border-bottom:1px solid #c4c4c3;border-top:1px solid #c4c4c3;}
+.opc-1sc .data-table thead th:first-child{border-left:1px solid #c4c4c3;}
+.opc-1sc .data-table thead th.last{border-right:1px solid #c4c4c3;}
+.opc-col .step-title {margin-bottom:18px; }
+.opc-col3 .step-title{margin-bottom:27px; }
+.opc-col #opc-review .data-table{margin:0;border:none;}
+.opc-col #opc-review .data-table tfoot td{padding:8px 0 0px 20px;text-align:right !important; border:none}
+.opc-col #opc-review .data-table tfoot tr.first td{padding-top:22px;}
+.opc-col #opc-review .data-table tfoot tr.last td{padding-bottom:28px;}
+.opc-col .discount-form .input-box input{width:64%;margin-bottom:20px;float:left; margin-top:7px !important}
+.opc-col .form-list li{margin:0;}
+.opc-col .form-list li.control label{font-size:11px}
+.opc-col .form-list li.wide{margin-bottom:8px;}
+.opc-col .form-list #billing-new-address-form li.control{}
+.opc-col .form-list #billing-new-address-form{margin-bottom:0px}
+.opc-col .form-list li.control{padding:5px 0 4px;}
+.opc-col input.radio{margin-top:0;margin-top:-1px \0/;}
+.opc-col #checkout-step-payment .form-list label{margin-bottom:8px;margin-top:5px;}
+#opc-login-popup .buttons-set button.button{float:right;}
+#opc-login-popup .buttons-set .f-left{margin-top:11px;}
+.opc-col #opc-payment .sp-methods .form-list{ padding:0;}
+.opc-col .sp-methods select.month,
+.opc-col .sp-methods select.year{width:117px !important;}
+.opc-col #checkout-step-payment .sp-methods dt{margin:0;}
+.opc-col .sp-methods input.cvv{margin:3px 0 0 0;}
+.v-fix input.cvv{width:233px !important}
+.opc-col .cvv-what-is-this{float:left;margin:3px 0 0 10px;}
+.opc-col .order-review .data-table td{padding:25px 8px;border-right:1px solid #e0e0e0;border-bottom:1px solid #c4c4c3; border-left:none; border-right:none;color:#7F7F7F;}
+.opc-col .order-review .data-table td.a-right{text-align:center !important}
+.opc-col .order-review .data-table tfoot  td{border-bottom:none; font-size:16px; color:#303030}
+.opc-col .order-review .data-table td:first-child{padding-left:0}
+.opc-col  #opc-review .buttons-set p.f-left{margin:6px 0 0 0;float:left !important;width:100%;text-align:left;}
+.opc-col  #opc-review dd .price{font-size:12px; margin-top:0}
+.opc-col  #opc-review .price{color:#5e5e5e;font:bold 14px Arial; display:block; margin-top:-5px}
+.opc-col #opc-review tfoot .price{margin-top:-3px; font-size:16px; color:#02a5fa; font-weight:bold}
+.opc-col  #opc-review  tfoot tr.last .price{font:bold 16px Titillium Web, Arial;margin-top:-3px; color:#02a5fa}
+.opc-col .checkout-agreements li{margin:10px 0 0 0!important;clear:both;}
+.opc-col  #opc-review .buttons-set button.button{margin-top:18px;}
+.opc-col .data-table tfoot strong{font:normal 16px Arial; color:#303030}
+.opc-col #opc-review .buttons-set{position:relative;margin:0;}
+.opc-col #opc-review #checkout-review-submit .buttons-set .please-wait{float:left !important; clear:both;white-space:nowrap; position:static; margin-top:10px}
+.opc-col #review-buttons-container.buttons-set{float:left}
+.discount-form .input-box{clear:both;}
+.opc-col .discount-form .input-box input{width:77.5% !important;margin-right:15px;margin-top:0px;}
+.discount-form .input-box .validation-advice{margin-top:0;}
+.opc-col .checkout-agreements .agree input.checkbox{margin-top:-4px;}
+#opc-review .buttons-set button.button{float:left !important}
+.opc-col1 .form-list li.control input.checkbox{margin-top:-3px;}
+.opc-col .sp-methods label{font:normal 12px Arial}
+
+.checkout-onepage-index .col-main{border:1px solid #c4c4c3}
+.checkout-onepage-index .page-title{padding:10px 20px 0}
+#opc-payment{clear:both}
+.gift-messages-form .form-list input.input-text,
+.gift-messages-form .form-list li.wide textarea{width:220px}
+.opc-col .discount button.button{clear:both; float:left}
+#opc-login-popup h3{margin-bottom:0}
+
+.adapt-2 .opc-col1, .adapt-2 .opc-col2{width:26%}
+.adapt-2 .opc-col .form-list li.wide input.input-text{width: 87.5% !important}
+.adapt-2 .opc-col .form-list input.input-text{width: 87.5%}
+.adapt-2 .opc-col .form-list select{width:95.3%}
+.adapt-2 .opc-col #checkout-step-payment .form-list input.input-text{width: 211px}
+.adapt-2 .opc-col #checkout-step-payment .form-list select{width:228px}
+.adapt-2 .opc-col #checkout-step-payment .form-list .v-fix input.input-text.cvv{width:211px !important}
+.adapt-2 .opc-col .sp-methods select.month, 
+.adapt-2 .opc-col .sp-methods select.year{width:107px !important}
+.adapt-2 .opc-col .cvv-what-is-this{margin-left:0}
+.adapt-2 .opc-col #checkout-review-table td{padding:20px 7px 16px}
+.adapt-2 .opc-col #checkout-review-table th{ padding:12px 7px 11px}
+
+.adapt-1 .opc-col1, .adapt-1 .opc-col2, .adapt-1 .opc-col3{width:100%; border:none; padding-left:0;}
+.adapt-1 .opc-col1{min-height:50px}
+.adapt-1 .opc-col .form-list select{width:72.7%}
+.adapt-1 .opc-col .sp-methods select.month, .adapt-1 .opc-col .sp-methods select.year{width:231px !important}
+.adapt-1 .v-fix input.cvv{width:459px !important}
+.adapt-1 .opc-col #review-buttons-container.buttons-set{width:100%}
+
+.adapt-0 .opc-col1, .adapt-0 .opc-col2, .adapt-0 .opc-col3{width:100%; border:none; padding-left:0}
+.adapt-0 .opc-col .form-list select{width:263px}
+.adapt-0 .opc-col .form-list input.input-text{width:245px}
+.adapt-0 .opc-col .form-list li.wide input.input-text{width:245px !important}
+.adapt-0 .opc-col .sp-methods select.month, .adapt-0 .opc-col .sp-methods select.year{width:123px !important}
+.adapt-0 .v-fix input.cvv{width:245px !important}
+
+.adapt-0 #opc-login-popup{width:265px; left:10px}
+.adapt-0 .opc-col #checkout-review-table td{ padding:20px 5px 16px}
+.adapt-0 .opc-col #checkout-review-table th{ padding:12px 4px 11px}
+.adapt-0 #checkoutSteps.opc-1sc{overflow:visible}

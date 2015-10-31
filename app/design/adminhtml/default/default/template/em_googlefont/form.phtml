@@ -1,0 +1,440 @@
+<?php
+/**
+ * Magento
+ *
+ * NOTICE OF LICENSE
+ *
+ * This source file is subject to the Academic Free License (AFL 3.0)
+ * that is bundled with this package in the file LICENSE_AFL.txt.
+ * It is also available through the world-wide-web at this URL:
+ * http://opensource.org/licenses/afl-3.0.php
+ * If you did not receive a copy of the license and are unable to
+ * obtain it through the world-wide-web, please send an email
+ * to license@magentocommerce.com so we can send you a copy immediately.
+ *
+ * DISCLAIMER
+ *
+ * Do not edit or add to this file if you wish to upgrade Magento to newer
+ * versions in the future. If you wish to customize Magento for your
+ * needs please refer to http://www.magentocommerce.com for more information.
+ *
+ * @category    design
+ * @package     default_default
+ * @copyright   Copyright (c) 2012 Magento Inc. (http://www.magentocommerce.com)
+ * @license     http://opensource.org/licenses/afl-3.0.php  Academic Free License (AFL 3.0)
+ */
+?>
+<!--script src="http://ajax.googleapis.com/ajax/libs/jquery/1.5/jquery.min.js"></script-->
+<div class="entry-edit">
+    <?php echo $this->getFormHtml();?>
+</div>
+<?php echo $this->getChildHtml('form_after');?>
+<?php // Mage::log(Mage::getStoreConfig('googlefont/googlefont_config/option_1'));
+	//Mage::log(Mage::getStoreConfig('googlefont/googlefont_config/option_2'));
+	//Mage::log(Mage::getStoreConfig('googlefont/googlefont_config/option_3'))
+	
+	$font_option_1 = Mage::getStoreConfig('googlefont/googlefont_config/option_1');	
+	$font_option_2 = Mage::getStoreConfig('googlefont/googlefont_config/option_2');	
+	$font_option_3 = Mage::getStoreConfig('googlefont/googlefont_config/option_3');	
+?>
+
+
+<script>	
+	//var WebFontConfig;
+	
+	jQuery(window).load(function () {
+	  
+	  var total = 0;
+	  var fontList;
+	  var font1;
+	  var option1;
+	  var font2;
+	  var option2;
+	  var font3;
+	  var option3; 
+	 
+	  getList();
+
+	});
+
+	jQuery('#googlefont_googlefont_config_option_1').change(function () {
+		
+		
+		//jQuery('html').attr("class","")
+		font = jQuery('#googlefont_googlefont_config_font_1').val();
+		option = jQuery('#googlefont_googlefont_config_option_1').val();
+		
+		addfont(font,option,1);
+	});	  
+	
+	
+	jQuery('#googlefont_googlefont_config_font_1').change(function () {
+		font = jQuery('#googlefont_googlefont_config_font_1').val();
+		option = jQuery('#googlefont_googlefont_config_option_1');
+		
+		fillselectOption(option,font,jQuery(option).val());
+		addfont(font,jQuery(option).val(),1);
+	});	 
+	
+	jQuery('#googlefont_googlefont_config_option_2').change(function () {
+		
+		//jQuery('html').attr("class","")
+		font = jQuery('#googlefont_googlefont_config_font_2').val();
+		option = jQuery('#googlefont_googlefont_config_option_2').val();
+		
+		addfont(font,option,2);
+	});	
+	
+	
+	jQuery('#googlefont_googlefont_config_font_2').change(function () {
+		
+		//jQuery('html').attr("class","")
+		font = jQuery('#googlefont_googlefont_config_font_2').val();
+		option = jQuery('#googlefont_googlefont_config_option_2');
+		fillselectOption(option,font,jQuery(option).val());
+		addfont(font,jQuery(option).val(),2);
+	});	 
+	
+	jQuery('#googlefont_googlefont_config_option_3').change(function () {
+	
+		//jQuery('html').attr("class","")
+		font = jQuery('#googlefont_googlefont_config_font_3').val();
+		option = jQuery('#googlefont_googlefont_config_option_3').val();
+		addfont(font,option,3);
+	});	
+	
+	jQuery('#googlefont_googlefont_config_font_3').change(function () {
+		
+		//jQuery('html').attr("class","")
+		font = jQuery('#googlefont_googlefont_config_font_3').val();
+		option = jQuery('#googlefont_googlefont_config_option_3');
+		fillselectOption(option,font,jQuery(option).val());
+		addfont(font,jQuery(option).val(),3);
+	});	 
+	
+	
+	
+	loadfont = function(font1,option1,font2,option2,font3,option3){ 
+		WebFontConfig = {
+			google: {
+				families: [font1+':'+option1,font2+':'+option2,font3+':'+option3]
+				//families: ["'"+font1+":"+option1+"','"+font2+":"+option2+"','"+font3+':'+option3+"'"]
+				//families: [font1+String.fromCharCode(58)+option1+','+font2+String.fromCharCode(58)+option2]
+				//families: ['Ubuntu:300','Ubuntu:700']
+			},
+			fontloading: function(fontFamily, fontDescription) { 
+								
+			},
+			fontactive: function(fontFamily, fontDescription) {
+				
+				var weight1 = parseInt(option1.charAt(0));
+				weight1 *=100;
+				var weight2 = parseInt(option2.charAt(0));
+				weight2 *=100;
+				var weight3 = parseInt(option3.charAt(0));
+				weight3 *=100;
+				
+				jQuery("#preview_googlefont_googlefont_config_option_1").css("display","block");
+				
+				//jQuery("#preview_googlefont_googlefont_config_option_1+img").css("display","none");
+				jQuery("#preview_googlefont_googlefont_config_option_1").contents().filter(
+						function() {
+						return this.nodeType == 3; //Node.TEXT_NODE
+						}).remove();
+				jQuery("#preview_googlefont_googlefont_config_option_1").append("EM google font review");
+				jQuery("#preview_googlefont_googlefont_config_option_1").css("color","black");
+				if(option1.search("i")!=-1)
+					jQuery("#preview_googlefont_googlefont_config_option_1").css("fontStyle","italic");
+				else
+					jQuery("#preview_googlefont_googlefont_config_option_1").css("fontStyle","normal");
+				jQuery("#preview_googlefont_googlefont_config_option_1").css("font-weight",weight1);
+				jQuery("#preview_googlefont_googlefont_config_option_1").css("fontFamily",font1);
+				
+				jQuery("#preview_googlefont_googlefont_config_option_2").css("display","block");
+				//jQuery("#preview_googlefont_googlefont_config_option_2+img").css("display","none");
+				jQuery("#preview_googlefont_googlefont_config_option_2").contents().filter(
+						function() {
+						return this.nodeType == 3; //Node.TEXT_NODE
+						}).remove();
+				jQuery("#preview_googlefont_googlefont_config_option_2").append("EM google font review");
+				jQuery("#preview_googlefont_googlefont_config_option_2").css("color","black");
+				if(option2.search("i")!=-1)
+					jQuery("#preview_googlefont_googlefont_config_option_2").css("fontStyle","italic");
+				else
+					jQuery("#preview_googlefont_googlefont_config_option_2").css("fontStyle","normal");
+				jQuery("#preview_googlefont_googlefont_config_option_2").css("font-weight",weight2);
+				jQuery("#preview_googlefont_googlefont_config_option_2").css("fontFamily",font2);
+		
+				jQuery("#preview_googlefont_googlefont_config_option_3").css("display","block");
+				//jQuery("#preview_googlefont_googlefont_config_option_3+img").css("display","none");
+				jQuery("#preview_googlefont_googlefont_config_option_3").contents().filter(
+					function() {
+					return this.nodeType == 3; //Node.TEXT_NODE
+					}).remove();
+				jQuery("#preview_googlefont_googlefont_config_option_3").append("EM google font review");
+				jQuery("#preview_googlefont_googlefont_config_option_3").css("color","black");
+				if(option3.search("i")!=-1)
+					jQuery("#preview_googlefont_googlefont_config_option_3").css("fontStyle","italic");
+				else
+					jQuery("#preview_googlefont_googlefont_config_option_3").css("fontStyle","normal");
+					jQuery("#preview_googlefont_googlefont_config_option_3").css("font-weight",weight3);
+					jQuery("#preview_googlefont_googlefont_config_option_3").css("fontFamily",font3);
+							
+				
+			}
+			
+		};
+
+		(function() {
+			var wf = document.createElement('script');
+			wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
+				'://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+			wf.type = 'text/javascript';
+			wf.async = 'false';
+			var s = document.getElementsByTagName('script')[0];
+			s.parentNode.insertBefore(wf, s);
+			//U.load(window.WebFontConfig);
+		  })();
+}
+
+
+
+	
+	addfont = function(font,option,n){  
+		
+		WebFontConfig = {
+			google: {
+				families: [font+':'+option]
+			},
+			fontloading: function(fontFamily, fontDescription) { 
+				// do something
+				//alert("loading")
+				switch(n)
+				{case 1:
+						jQuery("#preview_googlefont_googlefont_config_option_1").css("display","none");
+						jQuery("#preview_googlefont_googlefont_config_option_1+img").css("display","block");
+						
+						jQuery("#preview_googlefont_googlefont_config_option_1+img").css("width","20px");
+						jQuery("#preview_googlefont_googlefont_config_option_1+img").css("height","20px");
+						break;
+					case 2:
+						jQuery("#preview_googlefont_googlefont_config_option_2").css("display","none");
+						jQuery("#preview_googlefont_googlefont_config_option_2+img").css("display","block");
+						jQuery("#preview_googlefont_googlefont_config_option_2+img").css("width","20px");
+						jQuery("#preview_googlefont_googlefont_config_option_2+img").css("height","20px");
+						break;
+					case 3:
+						jQuery("#preview_googlefont_googlefont_config_option_3").css("display","none");
+						jQuery("#preview_googlefont_googlefont_config_option_3+img").css("display","block");
+						jQuery("#preview_googlefont_googlefont_config_option_3+img").css("width","20px");
+						jQuery("#preview_googlefont_googlefont_config_option_3+img").css("height","20px");
+						break;
+				}
+			},
+			fontactive: function(fontFamily, fontDescription) {
+			
+				var opt = fontDescription;
+				var weight = parseInt(fontDescription.charAt(fontDescription.length-1));
+				weight *=100;
+				switch(n)
+				{
+					case 1:
+						jQuery("#preview_googlefont_googlefont_config_option_1").css("display","block");
+						
+						jQuery("#preview_googlefont_googlefont_config_option_1+img").css("display","none");
+						jQuery("#preview_googlefont_googlefont_config_option_1").contents().filter(
+								function() {
+								return this.nodeType == 3; //Node.TEXT_NODE
+								}).remove();
+						jQuery("#preview_googlefont_googlefont_config_option_1").append("EM google font review");
+						jQuery("#preview_googlefont_googlefont_config_option_1").css("color","black");
+						if(opt.search("i")!=-1)
+							jQuery("#preview_googlefont_googlefont_config_option_1").css("fontStyle","italic");
+						else
+							jQuery("#preview_googlefont_googlefont_config_option_1").css("fontStyle","normal");
+						jQuery("#preview_googlefont_googlefont_config_option_1").css("font-weight",weight);
+						jQuery("#preview_googlefont_googlefont_config_option_1").css("fontFamily",fontFamily);
+						
+						break;
+					case 2:
+						jQuery("#preview_googlefont_googlefont_config_option_2").css("display","block");
+						jQuery("#preview_googlefont_googlefont_config_option_2+img").css("display","none");
+						jQuery("#preview_googlefont_googlefont_config_option_2").contents().filter(
+								function() {
+								return this.nodeType == 3; //Node.TEXT_NODE
+								}).remove();
+						jQuery("#preview_googlefont_googlefont_config_option_2").append("EM google font review");
+						jQuery("#preview_googlefont_googlefont_config_option_2").css("color","black");
+						if(opt.search("i")!=-1)
+							jQuery("#preview_googlefont_googlefont_config_option_2").css("fontStyle","italic");
+						else
+							jQuery("#preview_googlefont_googlefont_config_option_2").css("fontStyle","normal");
+						jQuery("#preview_googlefont_googlefont_config_option_2").css("font-weight",weight);
+						jQuery("#preview_googlefont_googlefont_config_option_2").css("fontFamily",fontFamily);
+						break;
+					case 3:
+						jQuery("#preview_googlefont_googlefont_config_option_3").css("display","block");
+						jQuery("#preview_googlefont_googlefont_config_option_3+img").css("display","none");
+						jQuery("#preview_googlefont_googlefont_config_option_3").contents().filter(
+							function() {
+							return this.nodeType == 3; //Node.TEXT_NODE
+							}).remove();
+						jQuery("#preview_googlefont_googlefont_config_option_3").append("EM google font review");
+						jQuery("#preview_googlefont_googlefont_config_option_3").css("color","black");
+						if(opt.search("i")!=-1)
+							jQuery("#preview_googlefont_googlefont_config_option_3").css("fontStyle","italic");
+						else
+							jQuery("#preview_googlefont_googlefont_config_option_3").css("fontStyle","normal");
+							jQuery("#preview_googlefont_googlefont_config_option_3").css("font-weight",weight);
+							jQuery("#preview_googlefont_googlefont_config_option_3").css("fontFamily",fontFamily);
+						break;
+				}
+				
+				
+			},
+			
+			
+			fontinactive:function(fontFamily, fontDescription) {
+				alert("Can't load font. Please check it on http://www.google.com/webfonts ");
+				switch(n)
+				{
+					case 1:
+						jQuery("#preview_googlefont_googlefont_config_option_1").css("display","block");
+						jQuery("#preview_googlefont_googlefont_config_option_1+img").css("display","none");
+						jQuery("#preview_googlefont_googlefont_config_option_1").css("font-family","serif");
+						break;
+					case 2:
+						jQuery("#preview_googlefont_googlefont_config_option_2").css("display","block");
+						jQuery("#preview_googlefont_googlefont_config_option_2+img").css("display","none");
+						jQuery("#preview_googlefont_googlefont_config_option_2").css("font-family","serif");
+						break;
+					case 3:
+						jQuery("#preview_googlefont_googlefont_config_option_3").css("display","block");
+						jQuery("#preview_googlefont_googlefont_config_option_3+img").css("display","none");
+						jQuery("#preview_googlefont_googlefont_config_option_3").css("font-family","serif");
+						break;
+				}
+			}
+			
+			
+		};
+
+		(function() {
+			var wf = document.createElement('script');
+			wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
+				'://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+			wf.type = 'text/javascript';
+			wf.async = 'false';
+			var s = document.getElementsByTagName('script')[0];
+			s.parentNode.insertBefore(wf, s);
+			//U.load(window.WebFontConfig);
+		  })();
+}
+
+
+getList = function(){
+    jQuery.ajax({  
+        type: "GET", 
+        url: "https://www.googleapis.com/webfonts/v1/webfonts?key=AIzaSyAvkzfG3jbHQdM7zwHO6c5w58wwpHXJ3gk", 
+        dataType:'json',
+        success: function(data){ 
+			fontList = data.items;
+            total = fontList.length;
+			
+			initselectOption();
+        }
+    },
+        "json");
+		
+}
+checkFont = function(fontName,fontDescription){ 
+	var i;
+	var match = 0;
+	
+	for(i=0;i<total;i++)
+	{
+		if(fontName==fontList[i].family)
+		{
+			var variantsList = fontList[i].variants
+			//var _italic=fontDescription;
+			//var _weight =fontName;
+			//_weight *= 100;
+			/*if(fontDescription.search("i")!=-1)
+				_italic = "italic";*/
+			var fontVar = fontDescription;
+			if(fontDescription == "400")
+				fontVar = "regular";
+			if(fontDescription == "400italic")
+				fontVar = "italic";
+			for(var j=0;j<variantsList.length;j++)
+			{
+				if(fontVar==variantsList[j])
+				{
+					match = 1;
+					break;
+				}
+			}
+			break;
+			
+		}
+		
+	}
+	
+	if(match == 0) return -1;
+	else return 1;
+	
+}	  
+
+initselectOption = function(){
+	font1 = jQuery('#googlefont_googlefont_config_font_1').val();
+	  option1 = jQuery('#googlefont_googlefont_config_option_1');
+	  font2 = jQuery('#googlefont_googlefont_config_font_2').val();
+	  option2 = jQuery('#googlefont_googlefont_config_option_2');
+	  font3 = jQuery('#googlefont_googlefont_config_font_3').val();
+	  option3 = jQuery('#googlefont_googlefont_config_option_3');
+	  //load font lan dau
+	  opt1 = <?php echo "'".$font_option_1."'"; ?>;
+	  opt2 = <?php echo "'".$font_option_2."'"; ?>;
+	  opt3 = <?php echo "'".$font_option_3."'"; ?>;
+	
+	
+	fillselectOption(option1,font1,opt1);
+	fillselectOption(option2,font2,opt2);
+	fillselectOption(option3,font3,opt3);
+	loadfont(font1,jQuery(option1).val(),font2,jQuery(option2).val(),font3,jQuery(option3).val());
+	  
+}
+
+fillselectOption = function(ele,fontName,val)
+{ 	valFont = val;	
+	if(val == "400")
+		valFont = "regular";
+	if(val == "400italic")
+		valFont = "italic";
+		
+	jQuery(ele).children().remove();
+	var varienList
+	for(i=0;i<total;i++)
+	{
+		if(fontName == fontList[i].family )
+		{
+			 varienList = fontList[i].variants;
+			break;
+		}
+	}
+	
+	for(j=0;j<varienList.length;j++)
+	{
+		if(varienList[j] == val)
+			jQuery(ele).append("<option value='"+varienList[j]+"' selected='selected'>"+varienList[j]+"</option>");
+		else
+			jQuery(ele).append("<option value='"+varienList[j]+"'>"+varienList[j]+"</option>");
+	}
+}
+
+</script>
+
+
+
+	
+	

@@ -1,0 +1,298 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <EM_Galaelectronuessettings>
+            <version>0.1.0</version>
+        </EM_Galaelectronuessettings>
+    </modules>
+	 <adminhtml>
+        <acl>
+            <resources>
+                <admin>
+                    <children>
+                        <system>
+                            <children>
+                                <config>
+                                    <children>
+                                        <galaelectronues>
+                                            <title>Image Configure</title>
+                                        </galaelectronues>
+                                    </children>
+                                </config>
+                            </children>
+                        </system>
+                    </children>
+                </admin>
+            </resources>
+        </acl>
+        <layout>
+            <updates>
+                <galaelectronuessettings>
+                    <file>galaelectronuessettings.xml</file>
+                </galaelectronuessettings>
+            </updates>
+        </layout>
+        <menu>
+            <emthemes translate="title">
+                <title>Techcapro Theme</title>
+                <sort_order>72</sort_order>
+                <children>
+                    <galaelectronues_setting module="galaelectronuessettings" translate="title">
+                        <title>Techcapro Theme Settings</title>
+                        <sort_order>10</sort_order>
+                        <action>adminhtml/system_config/edit/section/galaelectronues/</action>
+                    </galaelectronues_setting>
+                    <help module="galaelectronuessettings" translate="title">
+                        <title>Help &amp; Support</title>
+                        <sort_order>200</sort_order>
+                        <children>
+                            <galaelectronues_userguide module="galaelectronuessettings" translate="title">
+                                <title>Techcapro Theme User Guide</title>
+                                <sort_order>10</sort_order>
+                                <action>adminhtml/galaelectronuessettings_link/userguide/</action>
+                            </galaelectronues_userguide>
+                            <forum module="galaelectronuessettings" translate="title">
+                                <title>Community Forum</title>
+                                <sort_order>20</sort_order>
+                                <action>adminhtml/galaelectronuessettings_link/gotoforum/</action>
+                            </forum>
+                            <ticket module="galaelectronuessettings" translate="title">
+                                <title>Submit a Support Ticket</title>
+                                <sort_order>30</sort_order>
+                                <action>adminhtml/galaelectronuessettings_link/submitticket/</action>
+                            </ticket>
+                            <galaelectronues_sample_data module="galaelectronuessettings" translate="title">
+                                <title>Techcapro Theme Sample Data</title>
+                                <sort_order>50</sort_order>
+                                <action>adminhtml/galaelectronuessettings_theme/export/</action>
+                            </galaelectronues_sample_data>
+                        </children>
+                    </help>
+                    <more module="galaelectronuessettings" translate="title">
+                        <title>More...</title>
+                        <sort_order>210</sort_order>
+                        <children>
+                            <customization module="galaelectronuessettings" translate="title">
+                                <title>I need theme customization</title>
+                                <sort_order>10</sort_order>
+                                <action>adminhtml/galaelectronuessettings_link/service_customization/</action>
+                            </customization>
+                            <design module="galaelectronuessettings" translate="title">
+                                <title>I need custom design</title>
+                                <sort_order>20</sort_order>
+                                <action>adminhtml/galaelectronuessettings_link/service_design/</action>
+                            </design>
+                            <dev module="galaelectronuessettings" translate="title">
+                                <title>Extension Development</title>
+                                <sort_order>30</sort_order>
+                                <action>adminhtml/galaelectronuessettings_link/service_extdev/</action>
+                            </dev>
+                            <boost module="galaelectronuessettings" translate="title">
+                                <title>Speed Optimization</title>
+                                <sort_order>40</sort_order>
+                                <action>adminhtml/galaelectronuessettings_link/service_boost/</action>
+                            </boost>
+                            <more module="galaelectronuessettings" translate="title">
+                                <title>More...</title>
+                                <sort_order>60</sort_order>
+                                <action>adminhtml/galaelectronuessettings_link/service_more/</action>
+                            </more>
+                        </children>
+                    </more>
+                </children>
+            </emthemes>
+        </menu>
+    </adminhtml>
+
+    <frontend>
+        <routers>
+            <galaelectronuessettings>
+                <use>standard</use>
+                <args>
+                    <module>EM_Galaelectronuessettings</module>
+                    <frontName>galaelectronuessettings</frontName>
+                </args>
+            </galaelectronuessettings>
+        </routers>
+        <layout>
+            <updates>
+                <galaelectronuessettings>
+                    <file>galaelectronuessettings.xml</file>
+                </galaelectronuessettings>
+            </updates>
+        </layout>
+		<events>
+    		<controller_action_layout_generate_blocks_before>
+    			<observers>
+    				<galaelectronues_config_after_save>
+    					<class>EM_Galaelectronuessettings_Model_Observer</class>
+    					<method>beforeGenerateBlocks</method> 
+    				</galaelectronues_config_after_save>
+    			</observers>
+    		</controller_action_layout_generate_blocks_before>		
+			<catalog_product_collection_load_before>
+    			<observers>
+    				<galaelectronuessettings>
+    					<class>EM_Galaelectronuessettings_Model_Observer</class>
+    					<method>beforeCatalogProductCollectionLoad</method> 
+    				</galaelectronuessettings>
+    			</observers>
+    		</catalog_product_collection_load_before>
+    	</events>
+    </frontend>
+    <admin>
+		<routers>
+			<adminhtml>
+				<args>
+					<modules>
+						<galaelectronuessettings before="Mage_Adminhtml">EM_Galaelectronuessettings_Adminhtml</galaelectronuessettings>
+					</modules>
+				</args>
+			</adminhtml>
+		</routers>
+    </admin>
+    <adminhtml>
+		
+		<acl>
+			<resources>
+				<all>
+					<title>Allow Everything</title>
+				</all>
+				<admin>
+					<children>
+						<EM_Galaelectronuessettings>
+							<title>galaelectronuessettings Module</title>
+							<sort_order>10</sort_order>
+						</EM_Galaelectronuessettings>
+					</children>
+				</admin>
+			</resources>
+		</acl>
+		<layout>
+			<updates>
+				<galaelectronuessettings>
+					<file>galaelectronuessettings.xml</file>
+				</galaelectronuessettings>
+			</updates>
+		</layout>
+        <events>
+    		<controller_action_postdispatch_adminhtml_system_config_save>
+    			<observers>
+    				<config_after_save>
+    					<class>EM_Galaelectronuessettings_Model_Observer</class>
+    					<method>afterConfigSave</method> 
+    				</config_after_save>
+    			</observers>
+    		</controller_action_postdispatch_adminhtml_system_config_save>		
+    	</events> 
+    </adminhtml>
+    
+    <global>
+        <models>
+            <galaelectronuessettings>
+                <class>EM_Galaelectronuessettings_Model</class>
+                <resourceModel>galaelectronuessettings_mysql4</resourceModel>
+            </galaelectronuessettings>
+            <galaelectronuessettings_mysql4>
+                <class>EM_Galaelectronuessettings_Model_Mysql4</class>
+                <entities>
+                    <galaelectronuessettings>
+                        <table>galaelectronuessettings</table>
+                    </galaelectronuessettings>
+                    <megamenupro>
+                        <table>megamenupro</table>
+                    </megamenupro>
+                </entities>
+            </galaelectronuessettings_mysql4>
+        </models>
+        <resources>
+            <galaelectronuessettings_setup>
+                <setup>
+                    <module>EM_Galaelectronuessettings</module>
+					<class>Mage_Eav_Model_Entity_Setup</class>
+                </setup>
+                <connection>
+                    <use>core_setup</use>
+                </connection>
+            </galaelectronuessettings_setup>
+            <galaelectronuessettings_write>
+                <connection>
+                    <use>core_write</use>
+                </connection>
+            </galaelectronuessettings_write>
+            <galaelectronuessettings_read>
+                <connection>
+                    <use>core_read</use>
+                </connection>
+            </galaelectronuessettings_read>
+        </resources>
+        <blocks>
+            <galaelectronuessettings>
+                <class>EM_Galaelectronuessettings_Block</class>
+            </galaelectronuessettings>
+        </blocks>
+        <helpers>
+            <galaelectronuessettings>
+                <class>EM_Galaelectronuessettings_Helper</class>
+            </galaelectronuessettings>
+			<catalog>
+				<rewrite>
+					<image>EM_Galaelectronuessettings_Helper_CatalogImage</image>
+				</rewrite>
+			</catalog>
+        </helpers>
+    </global>
+	<default>
+		<galaelectronues>
+			<general>
+				<disable_default_nav>0</disable_default_nav>
+				<freezed_top_menu>0</freezed_top_menu>
+				<disable_frontend_variation>1</disable_frontend_variation>
+				<disable_footer_links>0</disable_footer_links>
+			</general>
+			<typography>
+                <google_fonts>Droid Sans</google_fonts>
+			</typography>
+			<products_grid>
+                <show_product_name>1</show_product_name>
+                <show_sku>1</show_sku>
+                <show_thumbnail>1</show_thumbnail>
+                <show_desc>1</show_desc>
+                <show_price>1</show_price>
+                <show_reviews>1</show_reviews>
+                <show_addtocart>1</show_addtocart>
+                <show_addto>1</show_addto>
+                <show_label>1</show_label>
+			</products_grid>
+            <products_list>
+                <show_product_name>1</show_product_name>
+                <show_sku>1</show_sku>
+                <show_thumbnail>1</show_thumbnail>
+                <show_desc>1</show_desc>
+                <show_price>1</show_price>
+                <show_reviews>1</show_reviews>
+                <show_addtocart>1</show_addtocart>
+                <show_addto>1</show_addto>
+                <show_label>1</show_label>
+            </products_list>
+			<image_product>
+				<use_tabs>1</use_tabs>
+			</image_product>
+            <image_sidebar>
+                <sidebar_width>90</sidebar_width>
+                <sidebar_height>90</sidebar_height>
+            </image_sidebar>
+            <image_popularcategory>
+                <popularcategory_width>120</popularcategory_width>
+                <popularcategory_height>120</popularcategory_height>
+            </image_popularcategory>
+            <image_shopping_cart>
+                <shopping_cart_width>85</shopping_cart_width>
+				<shopping_cart_height>85</shopping_cart_height>
+			</image_shopping_cart>
+			<ajaxcart>
+				<auto_close>0</auto_close>
+			</ajaxcart>
+		</galaelectronues>
+	</default>
+</config>

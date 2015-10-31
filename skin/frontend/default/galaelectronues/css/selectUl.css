@@ -1,0 +1,17 @@
+/*ul.plainSelect {
+    border: 1px solid #000;
+}
+ul.plainSelect li {
+    background-color: #f90;
+    display: list-item;
+}
+
+ul.plainSelect li.unselected {
+    background-color: #fff;
+    display: none;
+}
+
+ul.plainSelect:hover li,
+ul.plainSelect:hover li.unselected {
+    display: list-item;
+}*/

@@ -1,0 +1,47 @@
+#bg_fade {background-color:#000;left:0px;margin:0px;padding:0px;position:fixed;top:0px;visibility:hidden;width:100%;z-index:998;height:1000px}
+#containerDiv {min-width: 350px;max-width:500px;z-index: 999;display:none;position:fixed;}
+#containerDiv .ajaxcart {position: relative;padding: 20px;text-align: center;border: 10px solid #EAE9E6;background-color: white;z-index: 99999; max-height:600px}
+#containerDiv .ajaxcart .row2 {clear:left; padding-bottom:0px; overflow:hidden}
+#containerDiv .ajaxcart #ajax_image img {float:left;margin-right:7px;}
+#containerDiv .ajaxcart #ajax_image  { margin-bottom: 10px;overflow: hidden;text-align: left;}
+#containerDiv .ajaxcart #ajax_image span {text-align:left;}
+#containerDiv .ajaxcart .row2 a { /*background: none repeat scroll 0 0 #F18200;*/border: 1px solid #067FDB;color: #FFFFFF;display:  inline-block;font: bold 12px/32px Arial,Helvetica,sans-serif;height: 32px;padding: 0 15px;text-align: center;white-space: nowrap; text-decoration: none; text-transform:uppercase;
+background: #87e0fd; /* Old browsers */
+background: -moz-linear-gradient(top, #87e0fd 0%, #53afed 53%, #067fdb 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#87e0fd), color-stop(53%,#53afed), color-stop(100%,#067fdb)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top, #87e0fd 0%,#53afed 53%,#067fdb 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top, #87e0fd 0%,#53afed 53%,#067fdb 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top, #87e0fd 0%,#53afed 53%,#067fdb 100%); /* IE10+ */
+background: linear-gradient(to bottom, #87e0fd 0%,#53afed 53%,#067fdb 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#87e0fd', endColorstr='#067fdb',GradientType=0 ); /* IE6-9 */; border-radius:3px; -moz-border-radius:3px; -webkit-border-radius:3px;}
+#containerDiv .ajaxcart .row2 a:hover{
+background: #067fdb; /* Old browsers */
+background: -moz-linear-gradient(top, #067fdb 0%, #067fdb 0%, #53afed 53%, #87e0fd 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#067fdb), color-stop(0%,#067fdb), color-stop(53%,#53afed), color-stop(100%,#87e0fd)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top, #067fdb 0%,#067fdb 0%,#53afed 53%,#87e0fd 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top, #067fdb 0%,#067fdb 0%,#53afed 53%,#87e0fd 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top, #067fdb 0%,#067fdb 0%,#53afed 53%,#87e0fd 100%); /* IE10+ */
+background: linear-gradient(to bottom, #067fdb 0%,#067fdb 0%,#53afed 53%,#87e0fd 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#067fdb', endColorstr='#87e0fd',GradientType=0 ); /* IE6-9 */
+}
+
+#containerDiv .ajaxcart .row2 a span { border: 0 none;padding: 0;}
+.product-essential {position:relative;}
+.ajaxcart .product-options{ max-height:370px; overflow-y:scroll}
+.ajaxcart .product_title{ text-transform:uppercase; text-align:center}
+.ajaxcart .product-shop .product-options-bottom .price-box{ float:left}
+.ajaxcart .product-shop .product-options-bottom{ margin-top:10px; border:1px solid #e4e4e4; padding:15px 20px 12px}
+#containerDiv .ajaxcart .row2 .back{ float:left}
+#containerDiv .ajaxcart .row2 .next{ float:right}
+.ajaxcart .product-shop .product-options-bottom .price-box .price{ font-size:20px; color:#067FDB}
+.ajaxcart .product-shop .product-options-bottom .add-to-cart{ margin-top:-3px}
+.ajaxcart .product-shop .product-options-bottom .add-to-cart .qty{ margin-top:0px; margin-right:0}
+.ajaxcart  .add-to-cart .qty{ height:34px; width:70px !important; text-align:center}
+.ajaxcart  .add-to-cart label{ text-transform:uppercase; margin-top:11px}
+.ajaxcart .qty-ctl{ float: left; height: auto; line-height: normal; margin: 0px !important; padding: 0px !important; width: 78px; }
+.ajaxcart .qty-ctl button{ background:url(../images/qty.png) 0 0 no-repeat; width:40px; height:40px; text-indent:-999em; float:left; border:none; margin-bottom:0px; cursor:pointer; border: 1px solid #b6b6b6; position:relative; margin-left:-1px}
+.ajaxcart .qty-ctl button.increase{ background-position:13px 13px ;}
+.ajaxcart .qty-ctl button.increase:hover{ background-position:13px -33px ; background-color:#000; border-color:#000; z-index:1}
+.ajaxcart .qty-ctl button.decrease{ background-position:-27px 13px ;}
+.ajaxcart .qty-ctl button.decrease:hover{ background-position:-27px -33px ; background-color:#000; border-color:#000; z-index:1}
+.ajaxcart .qty_cart{ width:158px; display:inline-block; margin-top:-11px}
